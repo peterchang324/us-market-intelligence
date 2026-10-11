@@ -2,13 +2,13 @@
   "earnings": {
     "candidates": [],
     "confirmed_events": [],
-    "message": "Tomorrow US market is closed. No earnings trading analysis available.",
-    "next_open_session": "2026-10-12",
-    "status": "market_closed",
-    "target_date": "2026-10-11",
-    "universe_coverage": "not_applicable"
+    "message": "The bounded SEC filing scan did not find an issuer-confirmed event for the target date. This does not mean that no company reports earnings.",
+    "next_open_session": "",
+    "status": "no_confirmed_events_in_bounded_scan",
+    "target_date": "2026-10-12",
+    "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-10-10T17:14:42.500921+00:00",
+  "generated_at": "2026-10-11T17:37:19.339884+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -53,10 +53,10 @@
       "what_changed": "Federal Reserve 於 2026-10-07 發布「Minutes of the Federal Open Market Committee, September 15-16, 2026」;聯準會公開了新一份政策會議紀錄。與當天決議相比,紀錄新增的資訊是委員對通膨持續性、勞動市場與後續緊縮條件的分歧。",
       "why_it_matters": "政策路徑是全球跨資產定價的折現率起點。即使本次利率沒變,只要市場上調未來升息或推遲降息機率,美債、美元、股票估值與商品就可以同時重新定價。"
     },
-    "market_impact": "high",
+    "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-10-10T17:14:43.760308+00:00",
+        "accessed_at": "2026-10-11T17:37:20.604729+00:00",
         "evidence_id": "src_1d44acffb55d9058114a",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -67,7 +67,7 @@
         "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
       },
       {
-        "accessed_at": "2026-10-10T17:14:43.760308+00:00",
+        "accessed_at": "2026-10-11T17:37:20.604729+00:00",
         "evidence_id": "src_9902f603e8c11f38cf67",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -82,18 +82,18 @@
     "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
   },
   "knowledge_refresh": {
-    "background": "貝氏推論把既有經驗視為先驗,再用新證據修正原本的判斷。統計、保險與信用研究長期依靠這套方法,因為單一案例通常不足以代表整體。市場研究中的基準率,就是同類事件在可比較樣本裡通常如何發展。",
-    "concept": "基準率與貝氏更新",
-    "current_relevance": "快速新聞流容易讓醒目的個案壓過長期樣本,造成機率判斷失真。基準率可抑制過度反應,貝氏更新則避免研究者因守住舊觀點而忽略有效新證據。把更新前後的機率與理由留下來,也能在事後區分好流程和純粹運氣。",
-    "example": "假設同類專案準時完成的基準率為六成,因此初始判斷是百分之六十。一份經獨立查核的進度報告顯示關鍵里程碑已完成,分析者據此把估計上調到百分之七十五。若後續查明報告只是重複管理層原話而非獨立證據,機率就應回調,而不是把同一消息計算兩次。",
-    "explanation": "先問同類情況原本有多常出現某種結果,再評估新資訊有多可信、是否真正獨立。證據越直接且越難由其他原因解釋,合理的機率調整才越大。這不是追求一次猜中,而是讓每次修正都能說明依據與幅度。"
+    "background": "機率論很早就區分平均結果與單次結果,金融決策則把它延伸為期望值分析。專業風險管理不只看最可能情境,還會檢查尾端結果、偏態與損失幅度。原因是兩個平均報酬相同的方案,實際風險結構可能完全不同。",
+    "concept": "期望值與結果分配",
+    "current_relevance": "標題往往只呈現單一預測點,卻省略預測區間與情境不對稱。比較結果分布能揭露表面上相近的方案,是否其實承擔截然不同的尾部風險。這也讓事後檢討回到當時可知的機率,而非只依結果反推決策品質。",
+    "example": "假設某方案有百分之六十機率增加百分之十,另有百分之四十機率減少百分之十二。其期望值為零點六乘十,再加零點四乘負十二,結果是正百分之一點二。雖然平均值為正,分析仍須明示四成機率的較大損失,而不能把正期望值寫成確定獲利。",
+    "explanation": "期望值是每個可能結果乘上其機率後的總和,而不是保證會發生的數字。完整判斷還要看結果分布有多寬,以及罕見壞結果是否足以造成不可逆傷害。因此,平均值回答長期中心在哪裡,分布則回答途中可能承受什麼。"
   },
   "market_context": {
     "market_status": "NYSE CLOSED TODAY",
     "next_open_session": "2026-10-12",
     "previous_session": "2026-10-09",
-    "tomorrow_date": "2026-10-11",
-    "tomorrow_status": "NYSE CLOSED"
+    "tomorrow_date": "2026-10-12",
+    "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
     {
@@ -167,7 +167,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-10T17:14:43.747182+00:00",
+          "accessed_at": "2026-10-11T17:37:20.598135+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-10-09T14:00:29+00:00",
@@ -252,7 +252,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-10T17:14:43.747182+00:00",
+          "accessed_at": "2026-10-11T17:37:20.598135+00:00",
           "evidence_id": "src_1d44acffb55d9058114a",
           "evidence_role": "primary",
           "published_at": "2026-10-07T18:00:00+00:00",
@@ -263,7 +263,7 @@
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
         },
         {
-          "accessed_at": "2026-10-10T17:14:43.747182+00:00",
+          "accessed_at": "2026-10-11T17:37:20.598135+00:00",
           "evidence_id": "src_9902f603e8c11f38cf67",
           "evidence_role": "primary",
           "published_at": "2026-10-07T18:00:00+00:00",
@@ -336,7 +336,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-10T17:14:43.747182+00:00",
+          "accessed_at": "2026-10-11T17:37:20.598135+00:00",
           "evidence_id": "src_8c3442e18808076e47d6",
           "evidence_role": "primary",
           "published_at": "2026-10-09T14:59:00+00:00",
@@ -351,8 +351,8 @@
       "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds"
     }
   ],
-  "report_date": "2026-10-10",
-  "report_id": "daily-market-report-2026-10-10",
+  "report_date": "2026-10-11",
+  "report_id": "daily-market-report-2026-10-11",
   "research_discovery": {
     "applications": [
       {
@@ -379,7 +379,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Bells and Whistles of Nowcasting Models: Which Matter and When?」。官方摘要確認其研究範圍以「This paper investigates which features of a Bayesian dynamic factor model improve U.S. GDP nowcasts and whether their...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-10-10T17:14:43.831000+00:00",
+        "accessed_at": "2026-10-11T17:37:22.415405+00:00",
         "evidence_id": "src_5a2dfdc851a189ffef17",
         "evidence_role": "primary",
         "published_at": "2026-10-02T18:16:00+00:00",
@@ -415,7 +415,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-10-10T17:14:42.500921+00:00",
+  "source_cutoff_at": "2026-10-11T17:37:19.339884+00:00",
   "timezone": "America/New_York",
   "validation_status": "valid"
 }
