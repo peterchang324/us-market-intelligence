@@ -5,10 +5,10 @@
     "message": "The bounded SEC filing scan did not find an issuer-confirmed event for the target date. This does not mean that no company reports earnings.",
     "next_open_session": "",
     "status": "no_confirmed_events_in_bounded_scan",
-    "target_date": "2026-10-12",
+    "target_date": "2026-10-13",
     "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-10-11T17:37:19.339884+00:00",
+  "generated_at": "2026-10-12T21:10:57.937538+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -56,7 +56,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-10-11T17:37:20.604729+00:00",
+        "accessed_at": "2026-10-12T21:10:59.582869+00:00",
         "evidence_id": "src_1d44acffb55d9058114a",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -67,7 +67,7 @@
         "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
       },
       {
-        "accessed_at": "2026-10-11T17:37:20.604729+00:00",
+        "accessed_at": "2026-10-12T21:10:59.582869+00:00",
         "evidence_id": "src_9902f603e8c11f38cf67",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -82,17 +82,17 @@
     "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
   },
   "knowledge_refresh": {
-    "background": "機率論很早就區分平均結果與單次結果,金融決策則把它延伸為期望值分析。專業風險管理不只看最可能情境,還會檢查尾端結果、偏態與損失幅度。原因是兩個平均報酬相同的方案,實際風險結構可能完全不同。",
-    "concept": "期望值與結果分配",
-    "current_relevance": "標題往往只呈現單一預測點,卻省略預測區間與情境不對稱。比較結果分布能揭露表面上相近的方案,是否其實承擔截然不同的尾部風險。這也讓事後檢討回到當時可知的機率,而非只依結果反推決策品質。",
-    "example": "假設某方案有百分之六十機率增加百分之十,另有百分之四十機率減少百分之十二。其期望值為零點六乘十,再加零點四乘負十二,結果是正百分之一點二。雖然平均值為正,分析仍須明示四成機率的較大損失,而不能把正期望值寫成確定獲利。",
-    "explanation": "期望值是每個可能結果乘上其機率後的總和,而不是保證會發生的數字。完整判斷還要看結果分布有多寬,以及罕見壞結果是否足以造成不可逆傷害。因此,平均值回答長期中心在哪裡,分布則回答途中可能承受什麼。"
+    "background": "複利把每一期的成果納入下一期基礎,因此長期結果取決於連續乘法而非簡單加法。財務數學以幾何平均描述這種成長路徑,並區分它與算術平均。當報酬波動加大時,兩者差距通常會擴大。",
+    "concept": "複利與路徑依賴",
+    "current_relevance": "只報導年度平均容易低估波動對資本累積的拖累。理解複利有助於區分看似亮眼的單期數字,與能否持續轉化為長期成果。它也提醒研究者,避免用多期百分比直接相加來描述累積變化。",
+    "example": "假設一項資產先上升百分之二十,再下降百分之二十,初始值為一百。第一期變成一百二十,第二期再乘零點八後只剩九十六。兩期算術平均報酬為零,但累積結果是負百分之四,這就是波動造成的複利落差。",
+    "explanation": "相同幅度的上漲與下跌不會彼此抵消,因為第二次變動作用在不同的本金上。長期累積結果應把每期的一加報酬率相乘,再扣除一。路徑依賴表示順序、波動與中途資金需求,都可能改變最終可得結果。"
   },
   "market_context": {
-    "market_status": "NYSE CLOSED TODAY",
-    "next_open_session": "2026-10-12",
+    "market_status": "NYSE SESSION TODAY",
+    "next_open_session": "2026-10-13",
     "previous_session": "2026-10-09",
-    "tomorrow_date": "2026-10-12",
+    "tomorrow_date": "2026-10-13",
     "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
@@ -167,7 +167,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-11T17:37:20.598135+00:00",
+          "accessed_at": "2026-10-12T21:10:59.575998+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-10-09T14:00:29+00:00",
@@ -252,7 +252,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-11T17:37:20.598135+00:00",
+          "accessed_at": "2026-10-12T21:10:59.575998+00:00",
           "evidence_id": "src_1d44acffb55d9058114a",
           "evidence_role": "primary",
           "published_at": "2026-10-07T18:00:00+00:00",
@@ -263,7 +263,7 @@
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
         },
         {
-          "accessed_at": "2026-10-11T17:37:20.598135+00:00",
+          "accessed_at": "2026-10-12T21:10:59.575998+00:00",
           "evidence_id": "src_9902f603e8c11f38cf67",
           "evidence_role": "primary",
           "published_at": "2026-10-07T18:00:00+00:00",
@@ -336,7 +336,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-11T17:37:20.598135+00:00",
+          "accessed_at": "2026-10-12T21:10:59.575998+00:00",
           "evidence_id": "src_8c3442e18808076e47d6",
           "evidence_role": "primary",
           "published_at": "2026-10-09T14:59:00+00:00",
@@ -351,8 +351,8 @@
       "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds"
     }
   ],
-  "report_date": "2026-10-11",
-  "report_id": "daily-market-report-2026-10-11",
+  "report_date": "2026-10-12",
+  "report_id": "daily-market-report-2026-10-12",
   "research_discovery": {
     "applications": [
       {
@@ -379,7 +379,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Bells and Whistles of Nowcasting Models: Which Matter and When?」。官方摘要確認其研究範圍以「This paper investigates which features of a Bayesian dynamic factor model improve U.S. GDP nowcasts and whether their...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-10-11T17:37:22.415405+00:00",
+        "accessed_at": "2026-10-12T21:11:04.670150+00:00",
         "evidence_id": "src_5a2dfdc851a189ffef17",
         "evidence_role": "primary",
         "published_at": "2026-10-02T18:16:00+00:00",
@@ -415,7 +415,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-10-11T17:37:19.339884+00:00",
+  "source_cutoff_at": "2026-10-12T21:10:57.937538+00:00",
   "timezone": "America/New_York",
   "validation_status": "valid"
 }
