@@ -5,10 +5,10 @@
     "message": "The bounded SEC filing scan did not find an issuer-confirmed event for the target date. This does not mean that no company reports earnings.",
     "next_open_session": "",
     "status": "no_confirmed_events_in_bounded_scan",
-    "target_date": "2026-10-13",
+    "target_date": "2026-10-14",
     "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-10-12T21:10:57.937538+00:00",
+  "generated_at": "2026-10-13T19:09:52.295134+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -56,7 +56,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-10-12T21:10:59.582869+00:00",
+        "accessed_at": "2026-10-13T19:09:53.741190+00:00",
         "evidence_id": "src_1d44acffb55d9058114a",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -67,7 +67,7 @@
         "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
       },
       {
-        "accessed_at": "2026-10-12T21:10:59.582869+00:00",
+        "accessed_at": "2026-10-13T19:09:53.741190+00:00",
         "evidence_id": "src_9902f603e8c11f38cf67",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -82,17 +82,17 @@
     "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
   },
   "knowledge_refresh": {
-    "background": "複利把每一期的成果納入下一期基礎,因此長期結果取決於連續乘法而非簡單加法。財務數學以幾何平均描述這種成長路徑,並區分它與算術平均。當報酬波動加大時,兩者差距通常會擴大。",
-    "concept": "複利與路徑依賴",
-    "current_relevance": "只報導年度平均容易低估波動對資本累積的拖累。理解複利有助於區分看似亮眼的單期數字,與能否持續轉化為長期成果。它也提醒研究者,避免用多期百分比直接相加來描述累積變化。",
-    "example": "假設一項資產先上升百分之二十,再下降百分之二十,初始值為一百。第一期變成一百二十,第二期再乘零點八後只剩九十六。兩期算術平均報酬為零,但累積結果是負百分之四,這就是波動造成的複利落差。",
-    "explanation": "相同幅度的上漲與下跌不會彼此抵消,因為第二次變動作用在不同的本金上。長期累積結果應把每期的一加報酬率相乘,再扣除一。路徑依賴表示順序、波動與中途資金需求,都可能改變最終可得結果。"
+    "background": "現值概念源自貨幣具有時間價值,未來現金流必須用要求報酬率換算回今天。債券研究用存續期衡量價格對殖利率變動的敏感度,後來也廣泛用於分析長期資產。現金流越晚實現,其現值通常越受折現率影響。",
+    "concept": "折現率與資產存續期",
+    "current_relevance": "許多估值爭議表面上是對成長看法不同,實際上也可能來自折現率假設不同。將現金流時間與折現率拆開,可以看清價值變動究竟源自營運預期還是資金成本。這比只比較單一估值倍數更能揭露模型的真正敏感點。",
+    "example": "假設五年後收到一百,折現率為百分之五時,現值約為七十八點四。若其他條件不變而折現率升至百分之八,現值約降至六十八點一。現金流沒有改變,現值約少十點三,亦即相對下降約百分之十三;差異完全來自資金成本假設。",
+    "explanation": "折現率同時補償等待時間、不確定性與其他可選機會。把未來金額除以一加折現率的期數次方,就得到近似現值。所謂長存續期,意思是價值重心位於較遠未來,因此對折現率更敏感。"
   },
   "market_context": {
     "market_status": "NYSE SESSION TODAY",
-    "next_open_session": "2026-10-13",
-    "previous_session": "2026-10-09",
-    "tomorrow_date": "2026-10-13",
+    "next_open_session": "2026-10-14",
+    "previous_session": "2026-10-12",
+    "tomorrow_date": "2026-10-14",
     "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
@@ -167,7 +167,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-12T21:10:59.575998+00:00",
+          "accessed_at": "2026-10-13T19:09:53.728276+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-10-09T14:00:29+00:00",
@@ -252,7 +252,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-12T21:10:59.575998+00:00",
+          "accessed_at": "2026-10-13T19:09:53.728276+00:00",
           "evidence_id": "src_1d44acffb55d9058114a",
           "evidence_role": "primary",
           "published_at": "2026-10-07T18:00:00+00:00",
@@ -263,7 +263,7 @@
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
         },
         {
-          "accessed_at": "2026-10-12T21:10:59.575998+00:00",
+          "accessed_at": "2026-10-13T19:09:53.728276+00:00",
           "evidence_id": "src_9902f603e8c11f38cf67",
           "evidence_role": "primary",
           "published_at": "2026-10-07T18:00:00+00:00",
@@ -336,7 +336,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-12T21:10:59.575998+00:00",
+          "accessed_at": "2026-10-13T19:09:53.728276+00:00",
           "evidence_id": "src_8c3442e18808076e47d6",
           "evidence_role": "primary",
           "published_at": "2026-10-09T14:59:00+00:00",
@@ -351,8 +351,8 @@
       "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds"
     }
   ],
-  "report_date": "2026-10-12",
-  "report_id": "daily-market-report-2026-10-12",
+  "report_date": "2026-10-13",
+  "report_id": "daily-market-report-2026-10-13",
   "research_discovery": {
     "applications": [
       {
@@ -373,30 +373,30 @@
       }
     ],
     "changed_belief": "可用價值在於把論文提出的假設轉成可觀測、可回測的指標;是否有效必須由原文方法、資料修訂與樣本外結果共同決定。",
-    "discovered_on": "2026-10-02",
-    "discovery_id": "research_65aa0c3519beba4a83e3",
+    "discovered_on": "2026-10-13",
+    "discovery_id": "research_340d297e71dfb7e85442",
     "impact": null,
-    "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Bells and Whistles of Nowcasting Models: Which Matter and When?」。官方摘要確認其研究範圍以「This paper investigates which features of a Bayesian dynamic factor model improve U.S. GDP nowcasts and whether their...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
+    "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Inattentive Price Setting and Inflation Under Fiscal Policy Uncertainty」。官方摘要確認其研究範圍以「How do high public debt and fiscal uncertainty interact to shape inflation? We develop a model in which...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-10-12T21:11:04.670150+00:00",
-        "evidence_id": "src_5a2dfdc851a189ffef17",
+        "accessed_at": "2026-10-13T19:09:59.088313+00:00",
+        "evidence_id": "src_580fffc5190ae6246e61",
         "evidence_role": "primary",
-        "published_at": "2026-10-02T18:16:00+00:00",
+        "published_at": "2026-10-13T12:30:00+00:00",
         "publisher": "Federal Reserve",
         "quoted_fragment": "",
         "tier": "1",
-        "title": "FEDS Paper: Bells and Whistles of Nowcasting Models: Which Matter and When?",
-        "url": "https://www.federalreserve.gov/econres/feds/bells-and-whistles-of-nowcasting-models-which-matter-and-when.htm"
+        "title": "FEDS Paper: Inattentive Price Setting and Inflation Under Fiscal Policy Uncertainty",
+        "url": "https://www.federalreserve.gov/econres/feds/inattentive-price-setting-and-inflation-under-fiscal-policy-uncertainty.htm"
       }
     ],
-    "title": "FEDS Paper: Bells and Whistles of Nowcasting Models: Which Matter and When?"
+    "title": "FEDS Paper: Inattentive Price Setting and Inflation Under Fiscal Policy Uncertainty"
   },
   "schema_version": "1.0",
   "section_statuses": {
     "earnings": {
-      "detail": "",
-      "status": "available"
+      "detail": "Bounded SEC earnings coverage is degraded because the following source material was unavailable: one or more matching SEC filing documents. This is not a complete market calendar.",
+      "status": "degraded"
     },
     "global_macro": {
       "detail": "This run considers genuine source releases from the prior 30 calendar days for Global Macro; the selected event date remains visible.",
@@ -415,7 +415,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-10-12T21:10:57.937538+00:00",
+  "source_cutoff_at": "2026-10-13T19:09:52.295134+00:00",
   "timezone": "America/New_York",
-  "validation_status": "valid"
+  "validation_status": "degraded"
 }
