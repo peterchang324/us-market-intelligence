@@ -5,10 +5,10 @@
     "message": "The bounded SEC filing scan did not find an issuer-confirmed event for the target date. This does not mean that no company reports earnings.",
     "next_open_session": "",
     "status": "no_confirmed_events_in_bounded_scan",
-    "target_date": "2026-10-15",
+    "target_date": "2026-10-16",
     "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-10-14T16:59:15.026865+00:00",
+  "generated_at": "2026-10-15T16:46:20.481345+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -56,7 +56,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-10-14T16:59:16.676873+00:00",
+        "accessed_at": "2026-10-15T16:46:21.836809+00:00",
         "evidence_id": "src_1d44acffb55d9058114a",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -67,7 +67,7 @@
         "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
       },
       {
-        "accessed_at": "2026-10-14T16:59:16.676873+00:00",
+        "accessed_at": "2026-10-15T16:46:21.836809+00:00",
         "evidence_id": "src_9902f603e8c11f38cf67",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -82,17 +82,17 @@
     "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
   },
   "knowledge_refresh": {
-    "background": "經濟與會計資料常以當期貨幣表示,這類名目數字同時包含數量變化與價格變化。為了比較跨期購買力,經濟分析會利用適當價格指數計算實質變化。名目與實質的區分,是解讀營收、工資、產出與利率的基本功。",
-    "concept": "名目成長與實質成長",
-    "current_relevance": "企業可能在銷量持平時因調價而呈現名目成長,也可能因成本上升而沒有實質改善。把價格與數量拆分,能避免把通膨造成的金額膨脹誤判為需求擴張。同樣方法也適用於比較工資、利息收入與長期購買力。",
-    "example": "假設某業務收入增加百分之六,而相關價格水準增加百分之四。實質成長約等於一點零六除以一點零四再扣一,也就是百分之一點九。因此六個百分點的名目增幅中,大部分來自價格,實際數量改善接近兩個百分點。",
-    "explanation": "名目成長回答金額增加多少,實質成長則嘗試回答扣除價格變化後的數量增加多少。精確換算應用一加名目成長除以一加通膨,再扣除一。當通膨較低時可用名目減通膨近似,但差距較大時不宜只做減法。"
+    "background": "利率期限結構研究把長期殖利率拆成未來短率預期與期限溢酬。通膨連結債券的發展,又讓分析者能進一步區分實質利率與通膨補償。這些分解方法用來避免把每一次長端利率變動都解讀成相同訊號。",
+    "concept": "殖利率曲線的三個成分",
+    "current_relevance": "將殖利率曲線當成單一訊號,容易產生過度簡化的市場敘事。成分分解能把政策路徑、通膨補償和期限供需的影響分開追蹤。即使估計本身有誤差,明確列出可能來源仍比直接推論更具可檢驗性。",
+    "example": "假設十年期殖利率為百分之四,其中預期平均短率為百分之三,期限溢酬為百分之一。若殖利率升至百分之四點五,但預期短率仍為百分之三,新增的半個百分點可先視為期限溢酬變化。這個分解不等於最終定論,卻清楚指出下一步應驗證的是期限供需而非政策預期。",
+    "explanation": "長期名目殖利率可粗略理解為預期短期實質利率、預期通膨與期限風險補償的合計。同樣上升一個百分點,可能代表成長預期、通膨預期或風險溢酬中的任一項變化。只有先辨認成分,才有可能判斷它對不同資產與融資成本的含義。"
   },
   "market_context": {
     "market_status": "NYSE SESSION TODAY",
-    "next_open_session": "2026-10-15",
-    "previous_session": "2026-10-13",
-    "tomorrow_date": "2026-10-15",
+    "next_open_session": "2026-10-16",
+    "previous_session": "2026-10-14",
+    "tomorrow_date": "2026-10-16",
     "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
@@ -105,7 +105,7 @@
       "attention_score": "8.2",
       "bear_case": "若就業同時轉弱、物價或薪資壓力卻未消退,市場將面對滾脹式下修與利率難以快速下降的雙重風險。消費循環、低品質信用與小型企業的盈利預期可能同時惡化。",
       "bull_case": "若就業、薪資與通膨組合指向需求仍穩定但價格壓力緩和,市場會往軟著陸定價移動。企業營收預期可獲得支撐,同時不必大幅上調折現率。",
-      "event_date": "2026-10-14",
+      "event_date": "2026-10-15",
       "impact": {
         "beneficiaries": [
           {
@@ -138,11 +138,11 @@
           }
         ],
         "professional_investor_reaction": "專業投資人會將當期數值與前值修訂、3 個月移動平均、勞參率與薪資分布一起比較,再用美債、美元與週期/防禦板塊的相對反應判斷是成長訊號還是利率訊號佔上風。",
-        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-10-14 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
+        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-10-15 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
         "why_it_matters": "勞動需求決定家戶所得與企業成本,並經由通膨與聯準會反應函數影響美國風險資產定價。「就業強、通膨降」與「就業弱、通膨高」對資產的含義完全不同,因此必須聯立讀取。"
       },
       "market_impact": "high",
-      "news_id": "news_6b0b32302038f0a9cc9e",
+      "news_id": "news_a453af5b6da126739fca",
       "score_components": [
         {
           "key": "market_size_impact",
@@ -167,10 +167,10 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-14T16:59:16.664151+00:00",
+          "accessed_at": "2026-10-15T16:46:21.816139+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
-          "published_at": "2026-10-14T12:30:14+00:00",
+          "published_at": "2026-10-15T12:31:45+00:00",
           "publisher": "U.S. Bureau of Labor Statistics",
           "quoted_fragment": "",
           "tier": "1",
@@ -178,7 +178,7 @@
           "url": "https://www.bls.gov/bls/"
         }
       ],
-      "summary": "U.S. Bureau of Labor Statistics 於 2026-10-14 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.6%(Sep 2026)、失業率為 4.2%(Sep 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
+      "summary": "U.S. Bureau of Labor Statistics 於 2026-10-15 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.6%(Sep 2026)、失業率為 4.2%(Sep 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
       "title": "Major Economic Indicators Latest Numbers"
     },
     {
@@ -252,7 +252,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-14T16:59:16.664151+00:00",
+          "accessed_at": "2026-10-15T16:46:21.816139+00:00",
           "evidence_id": "src_1d44acffb55d9058114a",
           "evidence_role": "primary",
           "published_at": "2026-10-07T18:00:00+00:00",
@@ -263,7 +263,7 @@
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
         },
         {
-          "accessed_at": "2026-10-14T16:59:16.664151+00:00",
+          "accessed_at": "2026-10-15T16:46:21.816139+00:00",
           "evidence_id": "src_9902f603e8c11f38cf67",
           "evidence_role": "primary",
           "published_at": "2026-10-07T18:00:00+00:00",
@@ -336,7 +336,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-14T16:59:16.664151+00:00",
+          "accessed_at": "2026-10-15T16:46:21.816139+00:00",
           "evidence_id": "src_7d4af2bec235e9bed677",
           "evidence_role": "primary",
           "published_at": "2026-10-14T14:30:47+00:00",
@@ -351,8 +351,8 @@
       "title": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding"
     }
   ],
-  "report_date": "2026-10-14",
-  "report_id": "daily-market-report-2026-10-14",
+  "report_date": "2026-10-15",
+  "report_id": "daily-market-report-2026-10-15",
   "research_discovery": {
     "applications": [
       {
@@ -379,7 +379,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: A Macroeconomic Analysis of Household Labor Supply Responses to Large Fiscal Transfers」。官方摘要確認其研究範圍以「The fiscal transfers deployed during the COVID-19 pandemic were unprecedented in scale and strongly progressive. Using CPS/ASEC data...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-10-14T16:59:25.177185+00:00",
+        "accessed_at": "2026-10-15T16:46:26.317499+00:00",
         "evidence_id": "src_d8ef47fb250cb1303444",
         "evidence_role": "primary",
         "published_at": "2026-10-14T15:25:00+00:00",
@@ -395,8 +395,8 @@
   "schema_version": "1.0",
   "section_statuses": {
     "earnings": {
-      "detail": "Bounded SEC earnings coverage is degraded because the following source material was unavailable: one or more matching SEC filing documents. This is not a complete market calendar.",
-      "status": "degraded"
+      "detail": "",
+      "status": "available"
     },
     "global_macro": {
       "detail": "This run considers genuine source releases from the prior 30 calendar days for Global Macro; the selected event date remains visible.",
@@ -415,7 +415,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-10-14T16:59:15.026865+00:00",
+  "source_cutoff_at": "2026-10-15T16:46:20.481345+00:00",
   "timezone": "America/New_York",
-  "validation_status": "degraded"
+  "validation_status": "valid"
 }
