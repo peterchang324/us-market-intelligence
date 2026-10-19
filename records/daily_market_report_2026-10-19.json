@@ -1,0 +1,455 @@
+{
+  "earnings": {
+    "candidates": [],
+    "confirmed_events": [
+      {
+        "announced_on": "2026-09-29",
+        "cik": "0000883948",
+        "company_name": "Atlantic Union Bankshares Corp",
+        "conference_call_at": "2026-10-20T13:00:00+00:00",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Atlantic Union Bankshares Corp(AUB)的目標日為 2026-10-20。公告同時確認業績發布時間為 09:00 ET。另外,電話會議安排在 09:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_a259234562c42208b6b8",
+        "form": "8-K",
+        "release_timing": "before_market",
+        "release_timing_label": "Confirmed release: 2026-10-20T13:00:00+00:00",
+        "scheduled_release_at": "2026-10-20T13:00:00+00:00",
+        "sources": [
+          {
+            "accessed_at": "2026-10-19T18:38:16.289345+00:00",
+            "evidence_id": "src_6a7eae51a0fa797d03b8",
+            "evidence_role": "primary",
+            "published_at": "2026-09-29T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Atlantic Union Bankshares Corp 8-K issuer announcement (0000883948-26-000075)",
+            "url": "https://www.sec.gov/Archives/edgar/data/883948/000088394826000075/aub-20260929x8k.htm"
+          }
+        ],
+        "target_date": "2026-10-20",
+        "ticker": "AUB"
+      }
+    ],
+    "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
+    "next_open_session": "",
+    "status": "confirmed_events_available",
+    "target_date": "2026-10-20",
+    "universe_coverage": "bounded_research"
+  },
+  "generated_at": "2026-10-19T18:38:10.639794+00:00",
+  "global_macro": {
+    "affected_assets": [
+      "stocks",
+      "bonds",
+      "usd",
+      "commodities"
+    ],
+    "event_date": "2026-10-07",
+    "event_id": "macro_5998c45a1f83cc8f3de6",
+    "impact": {
+      "beneficiaries": [
+        {
+          "kind": "named_entity",
+          "name": "美國短期國債與美元現金工具",
+          "rationale": "若政策利率維持高檔或升息機率增加,前端收益率和美國利差支撐可能延長。"
+        },
+        {
+          "kind": "named_entity",
+          "name": "存款成本重定價較慢的大型銀行",
+          "rationale": "在放款收益率先上升、存款 beta 滞後的條件下,部分淨利差業務可能受益。"
+        }
+      ],
+      "indicators_to_monitor_next": [
+        "2 年期美債殖利率、聯邦基金期貨與下次會議的隱含利率機率",
+        "核心 PCE、CPI 服務項、薪資成長與中長期通膨預期",
+        "美元指數、10 年期實質利率與長久期股相對大盤的表現",
+        "後續聯準會委員發言是否重複紀錄中的緊縮門檻與風險判斷"
+      ],
+      "losers": [
+        {
+          "kind": "named_entity",
+          "name": "長久期科技與高估值成長股",
+          "rationale": "未來現金流比重高,實質利率上移會對現值與估值倍數形成較大壓力。"
+        },
+        {
+          "kind": "named_entity",
+          "name": "高槓桿房地產與浮動利率借款人",
+          "rationale": "再融資成本與利息負擔對高利率維持時間特別敏感。"
+        }
+      ],
+      "professional_investor_reaction": "利率團隊會先將紀錄與原始會後聲明逐項比較,拆出「委員分歧」與「經濟預測」的新資訊;然後通過 OIS/聯邦基金期貨、2 年期美債、實質利率和美元即時反應,確認訊號是否已被定價。",
+      "what_changed": "Federal Reserve 於 2026-10-07 發布「Minutes of the Federal Open Market Committee, September 15-16, 2026」;聯準會公開了新一份政策會議紀錄。與當天決議相比,紀錄新增的資訊是委員對通膨持續性、勞動市場與後續緊縮條件的分歧。",
+      "why_it_matters": "政策路徑是全球跨資產定價的折現率起點。即使本次利率沒變,只要市場上調未來升息或推遲降息機率,美債、美元、股票估值與商品就可以同時重新定價。"
+    },
+    "market_impact": "medium",
+    "sources": [
+      {
+        "accessed_at": "2026-10-19T18:38:12.243631+00:00",
+        "evidence_id": "src_1d44acffb55d9058114a",
+        "evidence_role": "primary",
+        "published_at": "2026-10-07T18:00:00+00:00",
+        "publisher": "Federal Reserve",
+        "quoted_fragment": "",
+        "tier": "1",
+        "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
+      },
+      {
+        "accessed_at": "2026-10-19T18:38:12.243631+00:00",
+        "evidence_id": "src_9902f603e8c11f38cf67",
+        "evidence_role": "primary",
+        "published_at": "2026-10-07T18:00:00+00:00",
+        "publisher": "Federal Reserve",
+        "quoted_fragment": "",
+        "tier": "1",
+        "title": "Federal Open Market Committee meeting minutes",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm"
+      }
+    ],
+    "summary": "聯準會於 2026-10-07 公布「Minutes of the Federal Open Market Committee, September 15-16, 2026」的官方紀錄。官方發布頁證實會議紀錄已公開,但本次可用內文並未提供足以重建投票、利率區間與委員分歧的細節。紀錄將通膨仍高於 2% 目標、勞動市場大致穩定、經濟活動仍在擴張並列,顯示政策兩難是「成長尚可」與「價格壓力未解」同時存在。在沒有完整與會者意見前,不應將「公布紀錄」本身解讀成偏鷹或偏鴿。市場真正需要重新定價的,是下一次會議前的通膨路徑與政策分歧,而不是只看新聞標題。跨資產傳導上,利率路徑會先改變美債殖利率與實質折現率,再影響股票估值和信用利差;美國利差若擴大通常支撐美元,而美元與實質利率同向上行往往壓抑無息商品。",
+    "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
+  },
+  "knowledge_refresh": {
+    "background": "借款能讓企業用較少權益控制較多資產,也把固定利息義務加入現金流結構。傳統信用分析因此關注負債比率、到期分布與利息保障倍數。財務槓桿會放大權益結果,但不會自動改善底層資產的經濟性。",
+    "concept": "財務槓桿與利息保障",
+    "current_relevance": "槓桿風險往往在再融資或獲利下滑時才集中顯現,因此平均年度數字可能太平滑。分析保障倍數並搭配到期時間,可以辨認壓力何時可能成為實際現金需求。這也有助於區分短期會計波動與真正的契約約束。",
+    "example": "假設息稅前利益為十二、年度利息為四,利息保障倍數是三倍。若利益降到九而利息不變,保障倍數會降到二點二五倍。負債本金雖然沒有增加,吸收額外衝擊的利益緩衝卻已縮小四分之一。",
+    "explanation": "利息保障倍數通常以息稅前利益除以利息支出,衡量營運利益覆蓋固定融資成本的餘裕。倍數下降可能來自獲利減少、利率上升或負債增加。同一負債水準在穩定現金流與高度週期現金流下,風險意義並不相同。"
+  },
+  "market_context": {
+    "market_status": "NYSE SESSION TODAY",
+    "next_open_session": "2026-10-20",
+    "previous_session": "2026-10-16",
+    "tomorrow_date": "2026-10-20",
+    "tomorrow_status": "NYSE SESSION"
+  },
+  "market_news": [
+    {
+      "affected_sectors": [
+        "Consumer Discretionary",
+        "Industrials",
+        "Financials"
+      ],
+      "attention_score": "8.2",
+      "bear_case": "若就業同時轉弱、物價或薪資壓力卻未消退,市場將面對滾脹式下修與利率難以快速下降的雙重風險。消費循環、低品質信用與小型企業的盈利預期可能同時惡化。",
+      "bull_case": "若就業、薪資與通膨組合指向需求仍穩定但價格壓力緩和,市場會往軟著陸定價移動。企業營收預期可獲得支撐,同時不必大幅上調折現率。",
+      "event_date": "2026-10-19",
+      "impact": {
+        "beneficiaries": [
+          {
+            "kind": "named_entity",
+            "name": "美國大眾消費與就業敏感服務業",
+            "rationale": "若就業與實質薪資保持正成長,家戶現金流會繼續支撐需求。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "軟著陸情境下的投資級信用債",
+            "rationale": "成長未明顯轉負且通膨放緩時,違約風險與無風險利率壓力可能同時受控。"
+          }
+        ],
+        "indicators_to_monitor_next": [
+          "非農就業前值修訂、3 個月平均、每週初領失業救濟金與招聘率",
+          "失業率、勞動參與率、就業人口比與長期失業占比",
+          "平均時薪、生產力、單位勞工成本與服務業通膨",
+          "2 年期美債、美元與美股週期板塊對數據意外的相對反應"
+        ],
+        "losers": [
+          {
+            "kind": "named_entity",
+            "name": "低利潤且人力密集的零售與餐飲業",
+            "rationale": "若薪資比售價更快上升,營運利潤率會遭到擠壓。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "低品質消費信用與小型企業借款",
+            "rationale": "若就業轉弱,現金流緩衝較少的借款人通常會先出現逾期壓力。"
+          }
+        ],
+        "professional_investor_reaction": "專業投資人會將當期數值與前值修訂、3 個月移動平均、勞參率與薪資分布一起比較,再用美債、美元與週期/防禦板塊的相對反應判斷是成長訊號還是利率訊號佔上風。",
+        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-10-19 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
+        "why_it_matters": "勞動需求決定家戶所得與企業成本,並經由通膨與聯準會反應函數影響美國風險資產定價。「就業強、通膨降」與「就業弱、通膨高」對資產的含義完全不同,因此必須聯立讀取。"
+      },
+      "market_impact": "high",
+      "news_id": "news_dd48ba2b9666f397b857",
+      "score_components": [
+        {
+          "key": "market_size_impact",
+          "value": "8.0"
+        },
+        {
+          "key": "earnings_impact",
+          "value": "8.0"
+        },
+        {
+          "key": "macro_importance",
+          "value": "9.0"
+        },
+        {
+          "key": "sector_influence",
+          "value": "8.0"
+        },
+        {
+          "key": "short_term_trading_relevance",
+          "value": "8.0"
+        }
+      ],
+      "sources": [
+        {
+          "accessed_at": "2026-10-19T18:38:12.231476+00:00",
+          "evidence_id": "src_73950174e730f4f35cdb",
+          "evidence_role": "primary",
+          "published_at": "2026-10-19T14:17:10+00:00",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "quoted_fragment": "",
+          "tier": "1",
+          "title": "Major Economic Indicators Latest Numbers",
+          "url": "https://www.bls.gov/bls/"
+        }
+      ],
+      "summary": "U.S. Bureau of Labor Statistics 於 2026-10-19 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.6%(Sep 2026)、失業率為 4.2%(Sep 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
+      "title": "Major Economic Indicators Latest Numbers"
+    },
+    {
+      "affected_sectors": [
+        "Financials",
+        "Real Estate",
+        "Technology"
+      ],
+      "attention_score": "7.8",
+      "bear_case": "若通膨停滯、分歧擴大或後續委員發言強化升息門檻,短端利率與實質利率可能再上移。估值依賴遠期現金流的成長股、高槓桿借款人與長久期債券會承受較大壓力。",
+      "bull_case": "若後續通膨數據放緩、會議分歧沒有擴大,市場可能將紀錄解讀為聯準會有空間維持而非追加緊縮。這會壓低尾部升息風險,對長久期資產、住宅敏感板塊與信用利差較有利。",
+      "event_date": "2026-10-07",
+      "impact": {
+        "beneficiaries": [
+          {
+            "kind": "named_entity",
+            "name": "美國短期國債與美元現金工具",
+            "rationale": "若政策利率維持高檔或升息機率增加,前端收益率和美國利差支撐可能延長。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "存款成本重定價較慢的大型銀行",
+            "rationale": "在放款收益率先上升、存款 beta 滞後的條件下,部分淨利差業務可能受益。"
+          }
+        ],
+        "indicators_to_monitor_next": [
+          "2 年期美債殖利率、聯邦基金期貨與下次會議的隱含利率機率",
+          "核心 PCE、CPI 服務項、薪資成長與中長期通膨預期",
+          "美元指數、10 年期實質利率與長久期股相對大盤的表現",
+          "後續聯準會委員發言是否重複紀錄中的緊縮門檻與風險判斷"
+        ],
+        "losers": [
+          {
+            "kind": "named_entity",
+            "name": "長久期科技與高估值成長股",
+            "rationale": "未來現金流比重高,實質利率上移會對現值與估值倍數形成較大壓力。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "高槓桿房地產與浮動利率借款人",
+            "rationale": "再融資成本與利息負擔對高利率維持時間特別敏感。"
+          }
+        ],
+        "professional_investor_reaction": "利率團隊會先將紀錄與原始會後聲明逐項比較,拆出「委員分歧」與「經濟預測」的新資訊;然後通過 OIS/聯邦基金期貨、2 年期美債、實質利率和美元即時反應,確認訊號是否已被定價。",
+        "what_changed": "Federal Reserve 於 2026-10-07 發布「Minutes of the Federal Open Market Committee, September 15-16, 2026」;聯準會公開了新一份政策會議紀錄。與當天決議相比,紀錄新增的資訊是委員對通膨持續性、勞動市場與後續緊縮條件的分歧。",
+        "why_it_matters": "政策路徑是美國風險資產定價的折現率起點。即使本次利率沒變,只要市場上調未來升息或推遲降息機率,美債、美元、股票估值與商品就可以同時重新定價。"
+      },
+      "market_impact": "high",
+      "news_id": "news_5998c45a1f83cc8f3de6",
+      "score_components": [
+        {
+          "key": "market_size_impact",
+          "value": "8.0"
+        },
+        {
+          "key": "earnings_impact",
+          "value": "6.0"
+        },
+        {
+          "key": "macro_importance",
+          "value": "9.0"
+        },
+        {
+          "key": "sector_influence",
+          "value": "8.0"
+        },
+        {
+          "key": "short_term_trading_relevance",
+          "value": "8.0"
+        }
+      ],
+      "sources": [
+        {
+          "accessed_at": "2026-10-19T18:38:12.231476+00:00",
+          "evidence_id": "src_1d44acffb55d9058114a",
+          "evidence_role": "primary",
+          "published_at": "2026-10-07T18:00:00+00:00",
+          "publisher": "Federal Reserve",
+          "quoted_fragment": "",
+          "tier": "1",
+          "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
+        },
+        {
+          "accessed_at": "2026-10-19T18:38:12.231476+00:00",
+          "evidence_id": "src_9902f603e8c11f38cf67",
+          "evidence_role": "primary",
+          "published_at": "2026-10-07T18:00:00+00:00",
+          "publisher": "Federal Reserve",
+          "quoted_fragment": "",
+          "tier": "1",
+          "title": "Federal Open Market Committee meeting minutes",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm"
+        }
+      ],
+      "summary": "聯準會於 2026-10-07 公布「Minutes of the Federal Open Market Committee, September 15-16, 2026」的官方紀錄。官方發布頁證實會議紀錄已公開,但本次可用內文並未提供足以重建投票、利率區間與委員分歧的細節。紀錄將通膨仍高於 2% 目標、勞動市場大致穩定、經濟活動仍在擴張並列,顯示政策兩難是「成長尚可」與「價格壓力未解」同時存在。在沒有完整與會者意見前,不應將「公布紀錄」本身解讀成偏鷹或偏鴿。市場真正需要重新定價的,是下一次會議前的通膨路徑與政策分歧,而不是只看新聞標題。",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
+    },
+    {
+      "affected_sectors": [
+        "Financials",
+        "Capital Markets"
+      ],
+      "attention_score": "5.6",
+      "bear_case": "若後續調查顯示問題不是個案,或監理機關要求額外整改、罰款與營運限制,相關機構的成本與聲譽風險將上升。投資人會調高合規成本假設,並檢查同類業務是否也有控制缺口。",
+      "bull_case": "若這次官方行動將問題限制在個案並促成可驗證的整改,市場可能下調法規尾部風險。但正面判斷需要後續公告顯示沒有擴大至更多個人、產品或機構。",
+      "event_date": "2026-10-16",
+      "impact": {
+        "beneficiaries": [
+          {
+            "kind": "named_entity",
+            "name": "相關銀行的客戶與存款人",
+            "rationale": "禁業與整改機制若有效執行,可降低客戶資金遭不當處理的重複風險。"
+          }
+        ],
+        "indicators_to_monitor_next": [
+          "完整執法文件中的事實認定、禁令範圍、整改期限與當事人是否承認責任",
+          "涉及機構的 8-K/10-Q 法律程序揭露、準備金與管理層說明",
+          "同一機構或同類業務是否出現後續罰款、合意令或客戶補償"
+        ],
+        "losers": [
+          {
+            "kind": "named_entity",
+            "name": "公告中遭禁業或被起訴的個人",
+            "rationale": "正式行動會直接限制從業、增加法律成本並造成職業聲譽後果。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "若內控缺口被證實的相關銀行",
+            "rationale": "擴大後的整改、稽核、訴訟與客戶補償可能增加營運成本。"
+          }
+        ],
+        "professional_investor_reaction": "金融業分析師會先閱讀 consent order/起訴文件,區分個人行為與機構控制失效;然後核對公司揭露、法律準備金、管理層整改與其他監理機構是否有平行行動。",
+        "what_changed": "Federal Reserve 於 2026-10-16 對「Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank」所述對象採取正式執法行動。公告將對象、前雇主、措施類型與所涉行為綁定到可核對的聯準會監理文件。",
+        "why_it_matters": "執法行動會測試機構的內控、客戶資產保護與人員監督是否有結構性缺口。個案本身未必改變大盤,但後續罰款、整改與同類案件可將影響從個人擴展到機構盈利。"
+      },
+      "market_impact": "medium",
+      "news_id": "news_1228cfb7b1a68195c012",
+      "score_components": [
+        {
+          "key": "market_size_impact",
+          "value": "5.0"
+        },
+        {
+          "key": "earnings_impact",
+          "value": "5.0"
+        },
+        {
+          "key": "macro_importance",
+          "value": "5.0"
+        },
+        {
+          "key": "sector_influence",
+          "value": "7.0"
+        },
+        {
+          "key": "short_term_trading_relevance",
+          "value": "6.0"
+        }
+      ],
+      "sources": [
+        {
+          "accessed_at": "2026-10-19T18:38:12.231476+00:00",
+          "evidence_id": "src_393f5aea00b1e0e08816",
+          "evidence_role": "primary",
+          "published_at": "2026-10-16T15:00:00+00:00",
+          "publisher": "Federal Reserve",
+          "quoted_fragment": "",
+          "tier": "1",
+          "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm"
+        }
+      ],
+      "summary": "聯準會於 2026-10-16 公布「Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank」。官方頁面的核心原文為:「Additional enforcement actions can be searched for here. For media inquiries, please email [email protected] or call 202-452-2955.」本報告未能從可用文字逐筆配對當事人、前任職機構與 consent prohibition,因此不會自行補上禁業令、前雇主或客戶資金等細節。 這不等於公告認定銀行整體出現資本或流動性問題;只有原文明載時,才能把事件連結到客戶資金保護、員工監督或內控執行。對銀行投資者而言,關鍵不是將個人案件外推為系統性事件,而是觀察是否還有後續罰款、管理層整改或更廣泛的監理行動。",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank"
+    }
+  ],
+  "report_date": "2026-10-19",
+  "report_id": "daily-market-report-2026-10-19",
+  "research_discovery": {
+    "applications": [
+      {
+        "application": "閱讀官方論文的方法與樣本,確認研究設計後再納入金融條件監測。",
+        "category": "finance"
+      },
+      {
+        "application": "把核心假設轉成可觀測訊號,設定基準模型並做樣本外回測。",
+        "category": "investing"
+      },
+      {
+        "application": "把研究結論作為情境變數,並用公司自身需求、成本與招聘資料交叉驗證。",
+        "category": "business_strategy"
+      },
+      {
+        "application": "保存論文版本、資料版本與計算步驟,讓研究結果可重現並避免前視偏誤。",
+        "category": "technology"
+      }
+    ],
+    "changed_belief": "可用價值在於把論文提出的假設轉成可觀測、可回測的指標;是否有效必須由原文方法、資料修訂與樣本外結果共同決定。",
+    "discovered_on": "2026-10-14",
+    "discovery_id": "research_025ad3e577037623ca2a",
+    "impact": null,
+    "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: A Macroeconomic Analysis of Household Labor Supply Responses to Large Fiscal Transfers」。官方摘要確認其研究範圍以「The fiscal transfers deployed during the COVID-19 pandemic were unprecedented in scale and strongly progressive. Using CPS/ASEC data...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
+    "sources": [
+      {
+        "accessed_at": "2026-10-19T18:38:16.454640+00:00",
+        "evidence_id": "src_d8ef47fb250cb1303444",
+        "evidence_role": "primary",
+        "published_at": "2026-10-14T15:25:00+00:00",
+        "publisher": "Federal Reserve",
+        "quoted_fragment": "",
+        "tier": "1",
+        "title": "FEDS Paper: A Macroeconomic Analysis of Household Labor Supply Responses to Large Fiscal Transfers",
+        "url": "https://www.federalreserve.gov/econres/feds/a-macroeconomic-analysis-of-household-labor-supply-responses-to-large-fiscal-transfers.htm"
+      }
+    ],
+    "title": "FEDS Paper: A Macroeconomic Analysis of Household Labor Supply Responses to Large Fiscal Transfers"
+  },
+  "schema_version": "1.0",
+  "section_statuses": {
+    "earnings": {
+      "detail": "Bounded SEC earnings coverage is degraded because the following source material was unavailable: one or more matching SEC filing documents. This is not a complete market calendar.",
+      "status": "degraded"
+    },
+    "global_macro": {
+      "detail": "This run considers genuine source releases from the prior 30 calendar days for Global Macro; the selected event date remains visible.",
+      "status": "available"
+    },
+    "knowledge_refresh": {
+      "detail": "",
+      "status": "available"
+    },
+    "market_news": {
+      "detail": "This run may use genuine source releases from the prior 14 calendar days to fill the Top 3 when fewer same-session items are available; every card shows its event date.",
+      "status": "available"
+    },
+    "research_discovery": {
+      "detail": "",
+      "status": "available"
+    }
+  },
+  "source_cutoff_at": "2026-10-19T18:38:10.639794+00:00",
+  "timezone": "America/New_York",
+  "validation_status": "degraded"
+}
