@@ -1,14 +1,71 @@
 {
   "earnings": {
     "candidates": [],
-    "confirmed_events": [],
-    "message": "The bounded SEC filing scan did not find an issuer-confirmed event for the target date. This does not mean that no company reports earnings.",
+    "confirmed_events": [
+      {
+        "announced_on": "2026-09-30",
+        "cik": "0000887343",
+        "company_name": "COLUMBIA BANKING SYSTEM, INC.",
+        "conference_call_at": "2026-10-22T21:00:00+00:00",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:COLUMBIA BANKING SYSTEM, INC.(COLB)的目標日為 2026-10-22。公告同時確認業績發布時間為 17:00 ET。另外,電話會議安排在 17:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_147195888a3de1f6f3f6",
+        "form": "8-K",
+        "release_timing": "after_market",
+        "release_timing_label": "Confirmed release: 2026-10-22T21:00:00+00:00",
+        "scheduled_release_at": "2026-10-22T21:00:00+00:00",
+        "sources": [
+          {
+            "accessed_at": "2026-10-21T17:01:27.988501+00:00",
+            "evidence_id": "src_2df448d6a682aa00410a",
+            "evidence_role": "primary",
+            "published_at": "2026-09-30T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "COLUMBIA BANKING SYSTEM, INC. 8-K issuer announcement (0000887343-26-000181)",
+            "url": "https://www.sec.gov/Archives/edgar/data/887343/000088734326000181/colb-20260930.htm"
+          }
+        ],
+        "target_date": "2026-10-22",
+        "ticker": "COLB"
+      },
+      {
+        "announced_on": "2026-10-02",
+        "cik": "0000203596",
+        "company_name": "WESBANCO INC",
+        "conference_call_at": "2026-10-22T19:00:00+00:00",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:WESBANCO INC(WSBC)的目標日為 2026-10-22。公告同時確認業績發布時間為 15:00 ET。另外,電話會議安排在 15:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_52fcddc67e387b77765e",
+        "form": "8-K",
+        "release_timing": "during_market",
+        "release_timing_label": "Confirmed release: 2026-10-22T19:00:00+00:00",
+        "scheduled_release_at": "2026-10-22T19:00:00+00:00",
+        "sources": [
+          {
+            "accessed_at": "2026-10-21T17:01:27.988501+00:00",
+            "evidence_id": "src_1f226d77dcddc8078474",
+            "evidence_role": "primary",
+            "published_at": "2026-10-02T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "WESBANCO INC 8-K issuer announcement (0001193125-26-412356)",
+            "url": "https://www.sec.gov/Archives/edgar/data/203596/000119312526412356/wsbc-ex99_1.htm"
+          }
+        ],
+        "target_date": "2026-10-22",
+        "ticker": "WSBC"
+      }
+    ],
+    "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
     "next_open_session": "",
-    "status": "no_confirmed_events_in_bounded_scan",
-    "target_date": "2026-10-21",
+    "status": "confirmed_events_available",
+    "target_date": "2026-10-22",
     "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-10-20T16:44:23.294346+00:00",
+  "generated_at": "2026-10-21T17:01:24.563074+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -56,7 +113,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-10-20T16:44:24.576611+00:00",
+        "accessed_at": "2026-10-21T17:01:25.735468+00:00",
         "evidence_id": "src_1d44acffb55d9058114a",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -67,7 +124,7 @@
         "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
       },
       {
-        "accessed_at": "2026-10-20T16:44:24.576611+00:00",
+        "accessed_at": "2026-10-21T17:01:25.735468+00:00",
         "evidence_id": "src_9902f603e8c11f38cf67",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -82,17 +139,17 @@
     "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
   },
   "knowledge_refresh": {
-    "background": "營運資金管理用庫存、應收帳款與應付帳款的周轉天數,描述現金被營運流程占用多久。現金轉換週期把三者放入同一框架,連結損益成長與資產負債表需求。它讓分析者看到會計收入增加是否同時消耗更多現金。",
-    "concept": "現金轉換週期",
-    "current_relevance": "快速成長若伴隨應收與庫存更快上升,可能出現帳面獲利增加但自由現金流下降。拆解三個天數能辨認現金壓力來自銷售條件、備貨策略還是付款安排。跨期比較時還應控制季節性與業務組合,避免把正常波動當成結構惡化。",
-    "example": "假設庫存天數六十、應收天數四十五、應付天數三十,現金轉換週期為七十五天。若庫存管理改善五天而其他條件不變,週期縮短到七十天。這表示每輪營運少占用五天資金,但仍需確認改善不是靠缺貨換來。",
-    "explanation": "現金轉換週期約等於庫存天數加應收天數,再減去應付天數。週期越長,通常代表每一輪營運需要墊付資金更久。但過度壓低庫存或延後付款也可能傷害服務品質與供應商關係,因此不能只追求最小值。"
+    "background": "企業金融把價值創造連結到投入資本報酬率是否高於資金成本。成長本身不是充分條件,因為低報酬的新投資可能擴大規模卻稀釋經濟價值。長期成長率則可近似理解為再投資率乘以新增資本報酬率。",
+    "concept": "投入資本報酬率與再投資",
+    "current_relevance": "收入成長容易吸引注意,但資本密集度與新增項目的報酬決定成長是否真正累積價值。成熟業務與新業務的報酬率可能不同,因此歷史平均不一定代表下一筆投資。研究時明示再投資假設,也能避免同時假設高成長和不切實際的低資本需求。",
+    "example": "假設某業務把百分之四十的營運利益再投資,新增資本報酬率為百分之十五。可持續成長的粗略估計是零點四乘零點一五,也就是百分之六。若新增報酬率降到百分之八,同樣再投資率只支持約百分之三點二的成長。",
+    "explanation": "投入資本報酬率衡量營運稅後利益相對於支撐營運所需資本的效率。再投資率回答有多少利益被留在業務中,而新增資本報酬率回答這些資金用得多有效。只有把兩者合看,才能區分高品質成長與昂貴擴張。"
   },
   "market_context": {
     "market_status": "NYSE SESSION TODAY",
-    "next_open_session": "2026-10-21",
-    "previous_session": "2026-10-19",
-    "tomorrow_date": "2026-10-21",
+    "next_open_session": "2026-10-22",
+    "previous_session": "2026-10-20",
+    "tomorrow_date": "2026-10-22",
     "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
@@ -167,7 +224,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-20T16:44:24.563533+00:00",
+          "accessed_at": "2026-10-21T17:01:25.722961+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-10-20T14:02:35+00:00",
@@ -252,7 +309,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-20T16:44:24.563533+00:00",
+          "accessed_at": "2026-10-21T17:01:25.722961+00:00",
           "evidence_id": "src_1d44acffb55d9058114a",
           "evidence_role": "primary",
           "published_at": "2026-10-07T18:00:00+00:00",
@@ -263,7 +320,7 @@
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
         },
         {
-          "accessed_at": "2026-10-20T16:44:24.563533+00:00",
+          "accessed_at": "2026-10-21T17:01:25.722961+00:00",
           "evidence_id": "src_9902f603e8c11f38cf67",
           "evidence_role": "primary",
           "published_at": "2026-10-07T18:00:00+00:00",
@@ -341,7 +398,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-20T16:44:24.563533+00:00",
+          "accessed_at": "2026-10-21T17:01:25.722961+00:00",
           "evidence_id": "src_393f5aea00b1e0e08816",
           "evidence_role": "primary",
           "published_at": "2026-10-16T15:00:00+00:00",
@@ -356,8 +413,8 @@
       "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank"
     }
   ],
-  "report_date": "2026-10-20",
-  "report_id": "daily-market-report-2026-10-20",
+  "report_date": "2026-10-21",
+  "report_id": "daily-market-report-2026-10-21",
   "research_discovery": {
     "applications": [
       {
@@ -384,7 +441,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: A Macroeconomic Analysis of Household Labor Supply Responses to Large Fiscal Transfers」。官方摘要確認其研究範圍以「The fiscal transfers deployed during the COVID-19 pandemic were unprecedented in scale and strongly progressive. Using CPS/ASEC data...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-10-20T16:44:26.576898+00:00",
+        "accessed_at": "2026-10-21T17:01:28.078168+00:00",
         "evidence_id": "src_d8ef47fb250cb1303444",
         "evidence_role": "primary",
         "published_at": "2026-10-14T15:25:00+00:00",
@@ -400,8 +457,8 @@
   "schema_version": "1.0",
   "section_statuses": {
     "earnings": {
-      "detail": "",
-      "status": "available"
+      "detail": "Bounded SEC earnings coverage is degraded because the following source material was unavailable: one or more matching SEC filing documents. This is not a complete market calendar.",
+      "status": "degraded"
     },
     "global_macro": {
       "detail": "This run considers genuine source releases from the prior 30 calendar days for Global Macro; the selected event date remains visible.",
@@ -420,7 +477,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-10-20T16:44:23.294346+00:00",
+  "source_cutoff_at": "2026-10-21T17:01:24.563074+00:00",
   "timezone": "America/New_York",
-  "validation_status": "valid"
+  "validation_status": "degraded"
 }
