@@ -2,13 +2,13 @@
   "earnings": {
     "candidates": [],
     "confirmed_events": [],
-    "message": "The bounded SEC filing scan did not find an issuer-confirmed event for the target date. This does not mean that no company reports earnings.",
-    "next_open_session": "",
-    "status": "no_confirmed_events_in_bounded_scan",
-    "target_date": "2026-10-23",
-    "universe_coverage": "bounded_research"
+    "message": "Tomorrow US market is closed. No earnings trading analysis available.",
+    "next_open_session": "2026-10-26",
+    "status": "market_closed",
+    "target_date": "2026-10-24",
+    "universe_coverage": "not_applicable"
   },
-  "generated_at": "2026-10-22T17:00:25.606191+00:00",
+  "generated_at": "2026-10-23T16:52:44.973771+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -56,7 +56,7 @@
     "market_impact": "low",
     "sources": [
       {
-        "accessed_at": "2026-10-22T17:00:26.995713+00:00",
+        "accessed_at": "2026-10-23T16:52:46.818093+00:00",
         "evidence_id": "src_1d44acffb55d9058114a",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -67,7 +67,7 @@
         "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
       },
       {
-        "accessed_at": "2026-10-22T17:00:26.995713+00:00",
+        "accessed_at": "2026-10-23T16:52:46.818093+00:00",
         "evidence_id": "src_9902f603e8c11f38cf67",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -82,18 +82,18 @@
     "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
   },
   "knowledge_refresh": {
-    "background": "單位經濟把總體收入拆成單一客戶、訂單或產品單位的收入與可變成本。訂閱與平台型商業模式普及後,客戶取得成本、貢獻毛利與留存期間成為常用分析工具。它們的目的不是取代完整財報,而是檢查成長引擎是否在基本單位上成立。",
-    "concept": "單位經濟與回收期",
-    "current_relevance": "總收入增加可能由大量促銷驅動,而每位新增客戶仍未必能回收取得成本。觀察不同客群批次的留存和毛利,可辨認成長改善是真實效率還是短期補貼。當商業模式改變時,單位定義也應同步更新,避免用過時口徑製造漂亮數字。",
-    "example": "假設每位客戶每月貢獻毛利為二十,平均留存十個月,粗略終身價值就是二百。若取得成本為一百二十,價值對成本比為一點六七倍,回收期為六個月。若留存降為五個月,終身價值只剩一百,原本看似合理的取得成本便無法由貢獻毛利覆蓋。",
-    "explanation": "客戶終身價值可粗略估為每期貢獻毛利乘以預期留存期,取得成本則是獲得該客戶的增量支出。回收期等於取得成本除以每期貢獻毛利。估計必須納入流失、服務成本與時間價值,否則會系統性高估經濟性。"
+    "background": "權責發生制讓收入與成本在經濟活動發生時認列,而非等到現金收付。這能改善期間配比,卻也使會計盈餘包含估計、遞延與管理判斷。盈餘品質分析因此會比較淨利、營運現金流與資產負債表變動。",
+    "concept": "盈餘品質與應計項目",
+    "current_relevance": "只看每股盈餘可能忽略收款變慢、庫存累積或一次性分類帶來的現金落差。把損益表和現金流量表連起來,可檢查報導成長是否已被客戶付款與實際成本支持。長期重複出現且無法清楚解釋的落差,通常比單季差異更值得關注。",
+    "example": "假設淨利為一百、營運現金流為六十,粗略應計差額就是四十。若差額主要來自應收帳款增加三十五,分析重點應轉向收款期限與客戶信用。下一期若現金收回而應收下降,差額可能正常逆轉;若繼續擴大,則需要更深入驗證收入品質。",
+    "explanation": "應計項目可粗略視為會計盈餘減去營運現金流,代表尚未轉成現金的部分。高應計不一定有問題,因為成長中的應收或存貨可能合理增加。關鍵是找出差異來源、可逆性,以及估計是否持續偏向同一方向。"
   },
   "market_context": {
     "market_status": "NYSE SESSION TODAY",
-    "next_open_session": "2026-10-23",
-    "previous_session": "2026-10-21",
-    "tomorrow_date": "2026-10-23",
-    "tomorrow_status": "NYSE SESSION"
+    "next_open_session": "2026-10-26",
+    "previous_session": "2026-10-22",
+    "tomorrow_date": "2026-10-24",
+    "tomorrow_status": "NYSE CLOSED"
   },
   "market_news": [
     {
@@ -167,7 +167,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-22T17:00:26.633438+00:00",
+          "accessed_at": "2026-10-23T16:52:46.533878+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-10-20T14:02:35+00:00",
@@ -245,7 +245,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-22T17:00:26.633438+00:00",
+          "accessed_at": "2026-10-23T16:52:46.533878+00:00",
           "evidence_id": "src_393f5aea00b1e0e08816",
           "evidence_role": "primary",
           "published_at": "2026-10-16T15:00:00+00:00",
@@ -318,7 +318,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-22T17:00:26.633438+00:00",
+          "accessed_at": "2026-10-23T16:52:46.533878+00:00",
           "evidence_id": "src_7d4af2bec235e9bed677",
           "evidence_role": "primary",
           "published_at": "2026-10-14T14:30:47+00:00",
@@ -333,8 +333,8 @@
       "title": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding"
     }
   ],
-  "report_date": "2026-10-22",
-  "report_id": "daily-market-report-2026-10-22",
+  "report_date": "2026-10-23",
+  "report_id": "daily-market-report-2026-10-23",
   "research_discovery": {
     "applications": [
       {
@@ -361,7 +361,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: A Macroeconomic Analysis of Household Labor Supply Responses to Large Fiscal Transfers」。官方摘要確認其研究範圍以「The fiscal transfers deployed during the COVID-19 pandemic were unprecedented in scale and strongly progressive. Using CPS/ASEC data...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-10-22T17:00:27.305990+00:00",
+        "accessed_at": "2026-10-23T16:52:46.931070+00:00",
         "evidence_id": "src_d8ef47fb250cb1303444",
         "evidence_role": "primary",
         "published_at": "2026-10-14T15:25:00+00:00",
@@ -377,8 +377,8 @@
   "schema_version": "1.0",
   "section_statuses": {
     "earnings": {
-      "detail": "Bounded SEC earnings coverage is degraded because the following source material was unavailable: SEC filing search. This is not a complete market calendar.",
-      "status": "degraded"
+      "detail": "",
+      "status": "available"
     },
     "global_macro": {
       "detail": "This run considers genuine source releases from the prior 30 calendar days for Global Macro; the selected event date remains visible.",
@@ -397,7 +397,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-10-22T17:00:25.606191+00:00",
+  "source_cutoff_at": "2026-10-23T16:52:44.973771+00:00",
   "timezone": "America/New_York",
-  "validation_status": "degraded"
+  "validation_status": "valid"
 }
