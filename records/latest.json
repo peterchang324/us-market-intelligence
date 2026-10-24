@@ -5,10 +5,10 @@
     "message": "Tomorrow US market is closed. No earnings trading analysis available.",
     "next_open_session": "2026-10-26",
     "status": "market_closed",
-    "target_date": "2026-10-24",
+    "target_date": "2026-10-25",
     "universe_coverage": "not_applicable"
   },
-  "generated_at": "2026-10-23T16:52:44.973771+00:00",
+  "generated_at": "2026-10-24T15:45:42.082348+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -56,7 +56,7 @@
     "market_impact": "low",
     "sources": [
       {
-        "accessed_at": "2026-10-23T16:52:46.818093+00:00",
+        "accessed_at": "2026-10-24T15:45:43.657455+00:00",
         "evidence_id": "src_1d44acffb55d9058114a",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -67,7 +67,7 @@
         "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
       },
       {
-        "accessed_at": "2026-10-23T16:52:46.818093+00:00",
+        "accessed_at": "2026-10-24T15:45:43.657455+00:00",
         "evidence_id": "src_9902f603e8c11f38cf67",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -82,17 +82,17 @@
     "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
   },
   "knowledge_refresh": {
-    "background": "權責發生制讓收入與成本在經濟活動發生時認列,而非等到現金收付。這能改善期間配比,卻也使會計盈餘包含估計、遞延與管理判斷。盈餘品質分析因此會比較淨利、營運現金流與資產負債表變動。",
-    "concept": "盈餘品質與應計項目",
-    "current_relevance": "只看每股盈餘可能忽略收款變慢、庫存累積或一次性分類帶來的現金落差。把損益表和現金流量表連起來,可檢查報導成長是否已被客戶付款與實際成本支持。長期重複出現且無法清楚解釋的落差,通常比單季差異更值得關注。",
-    "example": "假設淨利為一百、營運現金流為六十,粗略應計差額就是四十。若差額主要來自應收帳款增加三十五,分析重點應轉向收款期限與客戶信用。下一期若現金收回而應收下降,差額可能正常逆轉;若繼續擴大,則需要更深入驗證收入品質。",
-    "explanation": "應計項目可粗略視為會計盈餘減去營運現金流,代表尚未轉成現金的部分。高應計不一定有問題,因為成長中的應收或存貨可能合理增加。關鍵是找出差異來源、可逆性,以及估計是否持續偏向同一方向。"
+    "background": "成長率永遠相對於比較基準,基準異常高或低時,百分比會呈現機械性的放大或縮小。經濟統計與企業分析常用多期比較、兩年疊加或絕對水準來降低這種誤導。基期效應不表示數據無效,而是提醒讀者不要脫離起點解讀變化率。",
+    "concept": "基期效應",
+    "current_relevance": "新聞標題偏好單一同比數字,容易把低基期反彈寫成超常擴張。加入絕對水準與較長比較區間,能分辨恢復、真正新增需求與價格因素。這對週期性產業、一次性停工與促銷活動尤其重要。",
+    "example": "假設銷售從一百降到六十,第一年跌幅為百分之四十。下一年從六十回升到七十五,年增率雖達百分之二十五,仍比原始一百低百分之二十五。只寫百分之二十五成長會掩蓋尚未完全恢復的水準,因此應把三個數字一起呈現。",
+    "explanation": "同樣增加十五,若起點是六十,成長率為百分之二十五;若起點是一百,成長率只有百分之十五。百分比描述相對速度,絕對值描述實際水準,兩者回答不同問題。遇到劇烈波動後的年度比較時,至少應同時看前兩期的完整路徑。"
   },
   "market_context": {
-    "market_status": "NYSE SESSION TODAY",
+    "market_status": "NYSE CLOSED TODAY",
     "next_open_session": "2026-10-26",
-    "previous_session": "2026-10-22",
-    "tomorrow_date": "2026-10-24",
+    "previous_session": "2026-10-23",
+    "tomorrow_date": "2026-10-25",
     "tomorrow_status": "NYSE CLOSED"
   },
   "market_news": [
@@ -167,7 +167,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-23T16:52:46.533878+00:00",
+          "accessed_at": "2026-10-24T15:45:43.341567+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-10-20T14:02:35+00:00",
@@ -245,7 +245,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-23T16:52:46.533878+00:00",
+          "accessed_at": "2026-10-24T15:45:43.341567+00:00",
           "evidence_id": "src_393f5aea00b1e0e08816",
           "evidence_role": "primary",
           "published_at": "2026-10-16T15:00:00+00:00",
@@ -318,7 +318,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-23T16:52:46.533878+00:00",
+          "accessed_at": "2026-10-24T15:45:43.341567+00:00",
           "evidence_id": "src_7d4af2bec235e9bed677",
           "evidence_role": "primary",
           "published_at": "2026-10-14T14:30:47+00:00",
@@ -333,8 +333,8 @@
       "title": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding"
     }
   ],
-  "report_date": "2026-10-23",
-  "report_id": "daily-market-report-2026-10-23",
+  "report_date": "2026-10-24",
+  "report_id": "daily-market-report-2026-10-24",
   "research_discovery": {
     "applications": [
       {
@@ -361,7 +361,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: A Macroeconomic Analysis of Household Labor Supply Responses to Large Fiscal Transfers」。官方摘要確認其研究範圍以「The fiscal transfers deployed during the COVID-19 pandemic were unprecedented in scale and strongly progressive. Using CPS/ASEC data...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-10-23T16:52:46.931070+00:00",
+        "accessed_at": "2026-10-24T15:45:43.813985+00:00",
         "evidence_id": "src_d8ef47fb250cb1303444",
         "evidence_role": "primary",
         "published_at": "2026-10-14T15:25:00+00:00",
@@ -397,7 +397,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-10-23T16:52:44.973771+00:00",
+  "source_cutoff_at": "2026-10-24T15:45:42.082348+00:00",
   "timezone": "America/New_York",
   "validation_status": "valid"
 }
