@@ -3,69 +3,125 @@
     "candidates": [],
     "confirmed_events": [
       {
-        "announced_on": "2026-10-20",
-        "cik": "0001693577",
-        "company_name": "MainStreet Bancshares, Inc.",
-        "conference_call_at": "2026-10-26T18:00:00+00:00",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:MainStreet Bancshares, Inc.(MNSB)的目標日為 2026-10-26。公告同時確認業績發布時間為 14:00 ET。另外,電話會議安排在 14:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_bd33d38ac5c237cce556",
-        "form": "8-K",
-        "release_timing": "during_market",
-        "release_timing_label": "Confirmed release: 2026-10-26T18:00:00+00:00",
-        "scheduled_release_at": "2026-10-26T18:00:00+00:00",
-        "sources": [
-          {
-            "accessed_at": "2026-10-25T15:56:56.484192+00:00",
-            "evidence_id": "src_2cb2be4fefcbcf2d7bb9",
-            "evidence_role": "primary",
-            "published_at": "2026-10-20T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "MainStreet Bancshares, Inc. 8-K issuer announcement (0001437749-26-032979)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1693577/000143774926032979/main20260723_8k.htm"
-          }
-        ],
-        "target_date": "2026-10-26",
-        "ticker": "MNSB"
-      },
-      {
-        "announced_on": "2026-10-22",
-        "cik": "0000910631",
-        "company_name": "COCA COLA FEMSA SAB DE CV",
+        "announced_on": "2026-10-13",
+        "cik": "0001477641",
+        "company_name": "DAQO NEW ENERGY CORP.",
         "conference_call_at": "",
         "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:COCA COLA FEMSA SAB DE CV(KOF)的目標日為 2026-10-26。公告確認發布時段為美股開盤前,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_445d1c481649ca2c68c1",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:DAQO NEW ENERGY CORP.(DQ)的目標日為 2026-10-27。公告確認發布時段為美股開盤前,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_f51b340e72a1916f059b",
         "form": "6-K",
         "release_timing": "before_market",
         "release_timing_label": "Before market (exact time not confirmed)",
         "scheduled_release_at": "",
         "sources": [
           {
-            "accessed_at": "2026-10-25T15:56:56.484192+00:00",
-            "evidence_id": "src_e05a3b9a074946818e22",
+            "accessed_at": "2026-10-26T18:35:49.954036+00:00",
+            "evidence_id": "src_00ce6fe885eb60462a74",
             "evidence_role": "primary",
-            "published_at": "2026-10-22T00:00:00+00:00",
+            "published_at": "2026-10-13T00:00:00+00:00",
             "publisher": "U.S. Securities and Exchange Commission",
             "quoted_fragment": "",
             "tier": "1",
-            "title": "COCA COLA FEMSA SAB DE CV 6-K issuer announcement (0001292814-26-004972)",
-            "url": "https://www.sec.gov/Archives/edgar/data/910631/000129281426004972/kof20261021_6k.htm"
+            "title": "DAQO NEW ENERGY CORP. 6-K issuer announcement (0001104659-26-115480)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1477641/000110465926115480/tm2627498d1_ex99-1.htm"
           }
         ],
-        "target_date": "2026-10-26",
-        "ticker": "KOF"
+        "target_date": "2026-10-27",
+        "ticker": "DQ"
+      },
+      {
+        "announced_on": "2026-10-08",
+        "cik": "0001060955",
+        "company_name": "ICON PLC",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:ICON PLC(ICLR)的目標日為 2026-10-27。公告確認發布時段為美股收盤後,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_e0d90955d7a60f12e728",
+        "form": "6-K",
+        "release_timing": "after_market",
+        "release_timing_label": "After market (exact time not confirmed)",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-10-26T18:35:49.954036+00:00",
+            "evidence_id": "src_c54ab5a5f909a51fdc72",
+            "evidence_role": "primary",
+            "published_at": "2026-10-08T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "ICON PLC 6-K issuer announcement (0001628280-26-065404)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1060955/000162828026065404/a20261008pressrelease-icon.htm"
+          }
+        ],
+        "target_date": "2026-10-27",
+        "ticker": "ICLR"
+      },
+      {
+        "announced_on": "2026-10-21",
+        "cik": "0001816007",
+        "company_name": "Lufax Holding Ltd",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Lufax Holding Ltd(LU)的目標日為 2026-10-27。公告確認發布時段為美股收盤後,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_1339b03eab45c0e4ea72",
+        "form": "6-K",
+        "release_timing": "after_market",
+        "release_timing_label": "After market (exact time not confirmed)",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-10-26T18:35:49.954036+00:00",
+            "evidence_id": "src_6f37677f2c864cb8f163",
+            "evidence_role": "primary",
+            "published_at": "2026-10-21T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Lufax Holding Ltd 6-K issuer announcement (0001193125-26-427146)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1816007/000119312526427146/d174410dex991.htm"
+          }
+        ],
+        "target_date": "2026-10-27",
+        "ticker": "LU"
+      },
+      {
+        "announced_on": "2026-10-13",
+        "cik": "0001372920",
+        "company_name": "New Oriental Education & Technology Group Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:New Oriental Education & Technology Group Inc.(EDU)的目標日為 2026-10-27。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_825d478ef606ed9d2d4d",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-10-26T18:35:49.954036+00:00",
+            "evidence_id": "src_37b1e26429d7152fccd0",
+            "evidence_role": "primary",
+            "published_at": "2026-10-13T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "New Oriental Education & Technology Group Inc. 6-K issuer announcement (0001193125-26-419608)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1372920/000119312526419608/d171976dex991.htm"
+          }
+        ],
+        "target_date": "2026-10-27",
+        "ticker": "EDU"
       }
     ],
     "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
     "next_open_session": "",
     "status": "confirmed_events_available",
-    "target_date": "2026-10-26",
+    "target_date": "2026-10-27",
     "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-10-25T15:56:48.000655+00:00",
+  "generated_at": "2026-10-26T18:35:43.924454+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -113,7 +169,7 @@
     "market_impact": "low",
     "sources": [
       {
-        "accessed_at": "2026-10-25T15:56:49.846186+00:00",
+        "accessed_at": "2026-10-26T18:35:45.394110+00:00",
         "evidence_id": "src_1d44acffb55d9058114a",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -124,7 +180,7 @@
         "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
       },
       {
-        "accessed_at": "2026-10-25T15:56:49.846186+00:00",
+        "accessed_at": "2026-10-26T18:35:45.394110+00:00",
         "evidence_id": "src_9902f603e8c11f38cf67",
         "evidence_role": "primary",
         "published_at": "2026-10-07T18:00:00+00:00",
@@ -139,17 +195,17 @@
     "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
   },
   "knowledge_refresh": {
-    "background": "價格盈餘比、企業價值倍數與市淨率,都是把價格相對某項基本面尺度化的工具。這些倍數並非獨立於現金流模型,而是濃縮了成長、風險、資本需求與折現率假設。因此,單純把低倍數視為便宜或高倍數視為昂貴,缺少必要條件。",
-    "concept": "估值倍數是折現模型的縮寫",
-    "current_relevance": "跨公司或跨期排序很方便,但會計政策、景氣位置與資本結構差異可能扭曲表面比較。把倍數還原為隱含成長與報酬假設,可以把模糊的貴或便宜轉成可驗證問題。這也能避免把品質差異誤認為純粹定價錯誤。",
-    "example": "假設兩個業務每單位盈餘都是五,一個使用十五倍評價得到七十五,另一個使用二十五倍得到一百二十五。五十的價差不是計算錯誤,而是市場對成長、風險或盈餘持續性的假設不同。分析工作是把這些隱含假設寫出來,再檢查實際現金流是否足以支持,而非只比較倍數高低。",
-    "explanation": "倍數是一個比較起點,不是價值結論。較高倍數可能反映更持久的成長、更高資本效率或較低風險,也可能只是過度樂觀。合理比較需要使用一致口徑,並解釋倍數背後哪一項假設不同。"
+    "background": "許多經濟與營運變數會受競爭、產能與政策反應拉回長期範圍,形成均值回歸。但技術、制度或商業模式改變也可能讓舊平均失效,這稱為結構斷裂。時間序列分析的核心難題之一,就是判斷偏離是暫時衝擊還是新常態。",
+    "concept": "均值回歸與結構斷裂",
+    "current_relevance": "估值與獲利預測常依賴歷史區間,一旦錯判結構,模型會產生看似精確但方向錯誤的結果。設置兩套可觀測條件,可讓研究同時保留回歸與斷裂的可能性。隨資料累積逐步更新,比一開始武斷選邊更符合證據。",
+    "example": "假設某業務長期毛利率為百分之二十,因一次性原料短缺降到百分之十五。若供應恢復且定價能力不變,回到舊平均有合理機制;若新競爭者永久壓低售價,舊平均可能已失效。後續應比較原料成本、售價與市占各自的變化,而不是僅憑百分之十五本身下結論。",
+    "explanation": "均值回歸假設產生舊平均的機制仍然存在,結構斷裂則表示機制已改變。不能只因數字低於歷史平均就預測反彈,也不能只因近期趨勢延續就宣告永久改變。需要檢查競爭格局、成本曲線、規則與客戶行為是否出現可持續變化。"
   },
   "market_context": {
-    "market_status": "NYSE CLOSED TODAY",
-    "next_open_session": "2026-10-26",
+    "market_status": "NYSE SESSION TODAY",
+    "next_open_session": "2026-10-27",
     "previous_session": "2026-10-23",
-    "tomorrow_date": "2026-10-26",
+    "tomorrow_date": "2026-10-27",
     "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
@@ -224,7 +280,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-25T15:56:49.540988+00:00",
+          "accessed_at": "2026-10-26T18:35:44.995796+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-10-20T14:02:35+00:00",
@@ -302,7 +358,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-25T15:56:49.540988+00:00",
+          "accessed_at": "2026-10-26T18:35:44.995796+00:00",
           "evidence_id": "src_393f5aea00b1e0e08816",
           "evidence_role": "primary",
           "published_at": "2026-10-16T15:00:00+00:00",
@@ -375,7 +431,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-25T15:56:49.540988+00:00",
+          "accessed_at": "2026-10-26T18:35:44.995796+00:00",
           "evidence_id": "src_7d4af2bec235e9bed677",
           "evidence_role": "primary",
           "published_at": "2026-10-14T14:30:47+00:00",
@@ -390,8 +446,8 @@
       "title": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding"
     }
   ],
-  "report_date": "2026-10-25",
-  "report_id": "daily-market-report-2026-10-25",
+  "report_date": "2026-10-26",
+  "report_id": "daily-market-report-2026-10-26",
   "research_discovery": {
     "applications": [
       {
@@ -418,7 +474,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: A Macroeconomic Analysis of Household Labor Supply Responses to Large Fiscal Transfers」。官方摘要確認其研究範圍以「The fiscal transfers deployed during the COVID-19 pandemic were unprecedented in scale and strongly progressive. Using CPS/ASEC data...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-10-25T15:56:56.628082+00:00",
+        "accessed_at": "2026-10-26T18:35:50.105469+00:00",
         "evidence_id": "src_d8ef47fb250cb1303444",
         "evidence_role": "primary",
         "published_at": "2026-10-14T15:25:00+00:00",
@@ -454,7 +510,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-10-25T15:56:48.000655+00:00",
+  "source_cutoff_at": "2026-10-26T18:35:43.924454+00:00",
   "timezone": "America/New_York",
   "validation_status": "degraded"
 }
