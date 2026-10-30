@@ -1,99 +1,14 @@
 {
   "earnings": {
     "candidates": [],
-    "confirmed_events": [
-      {
-        "announced_on": "2026-10-23",
-        "cik": "0001549966",
-        "company_name": "Silvercrest Asset Management Group Inc.",
-        "conference_call_at": "",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Silvercrest Asset Management Group Inc.(SAMG)的目標日為 2026-10-30。公告同時確認業績發布時間為 08:30 ET。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_f7ccc6777329b1a13a7b",
-        "form": "8-K",
-        "release_timing": "before_market",
-        "release_timing_label": "Confirmed release: 2026-10-30T12:30:00+00:00",
-        "scheduled_release_at": "2026-10-30T12:30:00+00:00",
-        "sources": [
-          {
-            "accessed_at": "2026-10-29T18:21:18.423960+00:00",
-            "evidence_id": "src_510fb5ec7b1d64f0309e",
-            "evidence_role": "primary",
-            "published_at": "2026-10-23T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "Silvercrest Asset Management Group Inc. 8-K issuer announcement (0001193125-26-430468)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1549966/000119312526430468/samg-ex99_1.htm"
-          }
-        ],
-        "target_date": "2026-10-30",
-        "ticker": "SAMG"
-      },
-      {
-        "announced_on": "2026-10-23",
-        "cik": "0001481513",
-        "company_name": "JinkoSolar Holding Co., Ltd.",
-        "conference_call_at": "2026-10-30T12:30:00+00:00",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:JinkoSolar Holding Co., Ltd.(JKS)的目標日為 2026-10-30。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 08:30 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_bb71643e309947f0d813",
-        "form": "6-K",
-        "release_timing": "time_not_confirmed",
-        "release_timing_label": "Release time not confirmed",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-10-29T18:21:18.423960+00:00",
-            "evidence_id": "src_22565fb285a1b0d82220",
-            "evidence_role": "primary",
-            "published_at": "2026-10-23T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "JinkoSolar Holding Co., Ltd. 6-K issuer announcement (0001104659-26-118304)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1481513/000110465926118304/tm2628191d1_ex99-2.htm"
-          }
-        ],
-        "target_date": "2026-10-30",
-        "ticker": "JKS"
-      },
-      {
-        "announced_on": "2026-10-05",
-        "cik": "0001104506",
-        "company_name": "INSMED Inc",
-        "conference_call_at": "",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:INSMED Inc(INSM)的目標日為 2026-10-30。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_a2128c4bc67c40cb07c1",
-        "form": "8-K",
-        "release_timing": "time_not_confirmed",
-        "release_timing_label": "Release time not confirmed",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-10-29T18:21:18.423960+00:00",
-            "evidence_id": "src_bd1ace70c558dace30ea",
-            "evidence_role": "primary",
-            "published_at": "2026-10-05T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "INSMED Inc 8-K issuer announcement (0001140361-26-038529)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126038529/ef20083216_ex99-1.htm"
-          }
-        ],
-        "target_date": "2026-10-30",
-        "ticker": "INSM"
-      }
-    ],
-    "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
-    "next_open_session": "",
-    "status": "confirmed_events_available",
-    "target_date": "2026-10-30",
-    "universe_coverage": "bounded_research"
+    "confirmed_events": [],
+    "message": "Tomorrow US market is closed. No earnings trading analysis available.",
+    "next_open_session": "2026-11-02",
+    "status": "market_closed",
+    "target_date": "2026-10-31",
+    "universe_coverage": "not_applicable"
   },
-  "generated_at": "2026-10-29T18:21:10.030321+00:00",
+  "generated_at": "2026-10-30T17:55:38.471680+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -141,7 +56,7 @@
     "market_impact": "high",
     "sources": [
       {
-        "accessed_at": "2026-10-29T18:21:11.145691+00:00",
+        "accessed_at": "2026-10-30T17:55:39.568220+00:00",
         "evidence_id": "src_7ef0cbe0af1fcbf59696",
         "evidence_role": "primary",
         "published_at": "2026-10-28T18:00:00+00:00",
@@ -156,18 +71,18 @@
     "title": "Federal Reserve issues FOMC statement"
   },
   "knowledge_refresh": {
-    "background": "百分比損失以原始本金為基礎,而復原漲幅以較小的剩餘本金為基礎。因此損失越深,回到起點所需的百分比增幅會非線性增加。這種幾何不對稱是資本保存與風險控制的基本數學。",
-    "concept": "回撤與復原的不對稱",
-    "current_relevance": "深度回撤會消耗時間、流動性與承受風險的能力,可能迫使原本長期的計畫提前中止。只看最終平均結果,容易忽略途中是否存在無法實際承受的資本缺口。把回撤轉換成所需復原幅度,能更直觀呈現下行風險的成本。",
-    "example": "假設資本從一百下跌百分之三十後剩七十。要從七十回到一百,需要增加三十,也就是相對七十上升約百分之四十二點九。若下跌百分之五十後只剩五十,復原幅度更升到百分之一百,顯示損失越深越難彌補。",
-    "explanation": "跌幅為百分之若干後,復原幅度等於一除以一減跌幅,再扣除一。損失一半後需要翻倍才能回本,而不是上升同樣的百分之五十。所以比較策略時,最大回撤和復原時間通常比單純平均報酬更有資訊。"
+    "background": "專業風險管理把看法強度與資本曝險分開,因為判斷正確也不代表結果路徑可承受。風險預算先設定單一情境可容忍的資本損失,再反推曝險規模。這種方法的核心是承認機率與損失幅度都存在估計誤差。",
+    "concept": "風險預算與部位大小",
+    "current_relevance": "高度確信的敘事仍可能因時點、路徑或未知事件而失敗。用風險預算約束規模,可以避免單一判斷錯誤主導整體資本結果。明示壓力假設也讓後續檢討能區分模型錯誤與超出設定範圍的事件。",
+    "example": "假設分析用資本為一百,單一情境的可容忍損失設定為二,而壓力情境估計曝險會損失百分之二十。以二除以零點二,得到的曝險上限為十。若另一項曝險在同一壓力情境也會損失二,就必須合併計算,不能把兩份風險預算各自當成獨立。",
+    "explanation": "部位大小應同時考慮信心、潛在損失、相關性與流動性,而不是只看預期報酬。簡化計算可用可容忍損失除以壓力情境下的單位損失。結果只是風險上限的起點,還要檢查多個曝險是否在同一情境下同時受損。"
   },
   "market_context": {
     "market_status": "NYSE SESSION TODAY",
-    "next_open_session": "2026-10-30",
-    "previous_session": "2026-10-28",
-    "tomorrow_date": "2026-10-30",
-    "tomorrow_status": "NYSE SESSION"
+    "next_open_session": "2026-11-02",
+    "previous_session": "2026-10-29",
+    "tomorrow_date": "2026-10-31",
+    "tomorrow_status": "NYSE CLOSED"
   },
   "market_news": [
     {
@@ -179,7 +94,7 @@
       "attention_score": "8.2",
       "bear_case": "若就業同時轉弱、物價或薪資壓力卻未消退,市場將面對滾脹式下修與利率難以快速下降的雙重風險。消費循環、低品質信用與小型企業的盈利預期可能同時惡化。",
       "bull_case": "若就業、薪資與通膨組合指向需求仍穩定但價格壓力緩和,市場會往軟著陸定價移動。企業營收預期可獲得支撐,同時不必大幅上調折現率。",
-      "event_date": "2026-10-28",
+      "event_date": "2026-10-30",
       "impact": {
         "beneficiaries": [
           {
@@ -212,11 +127,11 @@
           }
         ],
         "professional_investor_reaction": "專業投資人會將當期數值與前值修訂、3 個月移動平均、勞參率與薪資分布一起比較,再用美債、美元與週期/防禦板塊的相對反應判斷是成長訊號還是利率訊號佔上風。",
-        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-10-28 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
+        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-10-30 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
         "why_it_matters": "勞動需求決定家戶所得與企業成本,並經由通膨與聯準會反應函數影響美國風險資產定價。「就業強、通膨降」與「就業弱、通膨高」對資產的含義完全不同,因此必須聯立讀取。"
       },
       "market_impact": "high",
-      "news_id": "news_651ea9669c271b7c782a",
+      "news_id": "news_88d1fb08dcb785ee77e3",
       "score_components": [
         {
           "key": "market_size_impact",
@@ -241,10 +156,10 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-29T18:21:11.138982+00:00",
+          "accessed_at": "2026-10-30T17:55:39.564676+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
-          "published_at": "2026-10-28T14:01:13+00:00",
+          "published_at": "2026-10-30T12:30:25+00:00",
           "publisher": "U.S. Bureau of Labor Statistics",
           "quoted_fragment": "",
           "tier": "1",
@@ -252,7 +167,7 @@
           "url": "https://www.bls.gov/bls/"
         }
       ],
-      "summary": "U.S. Bureau of Labor Statistics 於 2026-10-28 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.6%(Sep 2026)、失業率為 4.2%(Sep 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
+      "summary": "U.S. Bureau of Labor Statistics 於 2026-10-30 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.6%(Sep 2026)、失業率為 4.2%(Sep 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
       "title": "Major Economic Indicators Latest Numbers"
     },
     {
@@ -326,7 +241,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-29T18:21:11.138982+00:00",
+          "accessed_at": "2026-10-30T17:55:39.564676+00:00",
           "evidence_id": "src_7ef0cbe0af1fcbf59696",
           "evidence_role": "primary",
           "published_at": "2026-10-28T18:00:00+00:00",
@@ -347,39 +262,34 @@
       ],
       "attention_score": "5.6",
       "bear_case": "若後續調查顯示問題不是個案,或監理機關要求額外整改、罰款與營運限制,相關機構的成本與聲譽風險將上升。投資人會調高合規成本假設,並檢查同類業務是否也有控制缺口。",
-      "bull_case": "若這次官方行動將問題限制在個案並促成可驗證的整改,市場可能下調法規尾部風險。但正面判斷需要後續公告顯示沒有擴大至更多個人、產品或機構。",
-      "event_date": "2026-10-16",
+      "bull_case": "若獲准機構能依原計畫啟動業務、且 order 沒有超出預期的限制,法規不確定性將下降。真正的正面財務影響仍需由後續客戶、收入與成本證明。",
+      "event_date": "2026-10-29",
       "impact": {
         "beneficiaries": [
           {
             "kind": "named_entity",
-            "name": "相關銀行的客戶與存款人",
-            "rationale": "禁業與整改機制若有效執行,可降低客戶資金遭不當處理的重複風險。"
+            "name": "The Bank of Nova Scotia",
+            "rationale": "核准降低了申請本身的法規不確定性,並允許機構進入後續建置與營運步驟。"
           }
         ],
         "indicators_to_monitor_next": [
-          "完整執法文件中的事實認定、禁令範圍、整改期限與當事人是否承認責任",
-          "涉及機構的 8-K/10-Q 法律程序揭露、準備金與管理層說明",
-          "同一機構或同類業務是否出現後續罰款、合意令或客戶補償"
+          "完整核准 order 中的限制條件、監理承諾、生效日與後續申請",
+          "獲准機構對實際營運開始日、前期成本、人員與客戶目標的公開揭露",
+          "後續報表中該業務的收入、費用、資產與資本佔用是否實際出現"
         ],
         "losers": [
           {
-            "kind": "named_entity",
-            "name": "公告中遭禁業或被起訴的個人",
-            "rationale": "正式行動會直接限制從業、增加法律成本並造成職業聲譽後果。"
-          },
-          {
-            "kind": "named_entity",
-            "name": "若內控缺口被證實的相關銀行",
-            "rationale": "擴大後的整改、稽核、訴訟與客戶補償可能增加營運成本。"
+            "kind": "none_identified",
+            "name": "None identified",
+            "rationale": "官方核准公告未證明特定競爭者、產業或資產已因此承受可量化損失。"
           }
         ],
-        "professional_investor_reaction": "金融業分析師會先閱讀 consent order/起訴文件,區分個人行為與機構控制失效;然後核對公司揭露、法律準備金、管理層整改與其他監理機構是否有平行行動。",
-        "what_changed": "Federal Reserve 於 2026-10-16 對「Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank」所述對象採取正式執法行動。公告將對象、前雇主、措施類型與所涉行為綁定到可核對的聯準會監理文件。",
-        "why_it_matters": "執法行動會測試機構的內控、客戶資產保護與人員監督是否有結構性缺口。個案本身未必改變大盤,但後續罰款、整改與同類案件可將影響從個人擴展到機構盈利。"
+        "professional_investor_reaction": "專業投資人會閱讀完整 order,檢查限制條件、實施時程、資本要求與管理層先前預期;在沒有業務量與財務資料前,不會把一份核准公告直接轉成盈利上調。",
+        "what_changed": "Federal Reserve 於 2026-10-29 正式核准 The Bank of Nova Scotia 的申請。這個變化是法規關卡已通過,不是業務收入或市場份額已經實現。",
+        "why_it_matters": "核准為指定機構移除了進入、設立據點或調整架構的一個必要條件。對大盤影響通常局部;只有後續營運規模、資本需求或審批標準具有系統性訊號時,才會擴散到同業定價。"
       },
       "market_impact": "medium",
-      "news_id": "news_1228cfb7b1a68195c012",
+      "news_id": "news_d0509565fb6d2f9cc181",
       "score_components": [
         {
           "key": "market_size_impact",
@@ -404,23 +314,23 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-29T18:21:11.138982+00:00",
-          "evidence_id": "src_393f5aea00b1e0e08816",
+          "accessed_at": "2026-10-30T17:55:39.564676+00:00",
+          "evidence_id": "src_57c913a27de366112475",
           "evidence_role": "primary",
-          "published_at": "2026-10-16T15:00:00+00:00",
+          "published_at": "2026-10-29T20:30:00+00:00",
           "publisher": "Federal Reserve",
           "quoted_fragment": "",
           "tier": "1",
-          "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm"
+          "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm"
         }
       ],
-      "summary": "聯準會於 2026-10-16 公布「Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank」。官方頁面的核心原文為:「Additional enforcement actions can be searched for here. For media inquiries, please email [email protected] or call 202-452-2955.」本報告未能從可用文字逐筆配對當事人、前任職機構與 consent prohibition,因此不會自行補上禁業令、前雇主或客戶資金等細節。 這不等於公告認定銀行整體出現資本或流動性問題;只有原文明載時,才能把事件連結到客戶資金保護、員工監督或內控執行。對銀行投資者而言,關鍵不是將個人案件外推為系統性事件,而是觀察是否還有後續罰款、管理層整改或更廣泛的監理行動。",
-      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank"
+      "summary": "聯準會於 2026-10-29 公布「Federal Reserve Board announces approval of application by The Bank of Nova Scotia」。官方內文證實 The Bank of Nova Scotia 的申請已獲聯準會核准。這是一項特定機構的法定核准,不是對銀行業盈利、信用週期或貨幣政策的廣泛方向判斷。對該機構而言,核准消除了一個進入或擴張流程中的法規關卡;對大盤而言,除非後續有實質業務規模、資本配置或監理條件,否則影響應屬局部。下一步應查核完整 order 的限制條件與實際營運時程,不將「核准」自動等同於「財務貢獻已發生」。",
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia"
     }
   ],
-  "report_date": "2026-10-29",
-  "report_id": "daily-market-report-2026-10-29",
+  "report_date": "2026-10-30",
+  "report_id": "daily-market-report-2026-10-30",
   "research_discovery": {
     "applications": [
       {
@@ -441,24 +351,24 @@
       }
     ],
     "changed_belief": "可用價值在於把論文提出的假設轉成可觀測、可回測的指標;是否有效必須由原文方法、資料修訂與樣本外結果共同決定。",
-    "discovered_on": "2026-10-14",
-    "discovery_id": "research_025ad3e577037623ca2a",
+    "discovered_on": "2026-10-30",
+    "discovery_id": "research_5e77abfa5ef2c7330e19",
     "impact": null,
-    "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: A Macroeconomic Analysis of Household Labor Supply Responses to Large Fiscal Transfers」。官方摘要確認其研究範圍以「The fiscal transfers deployed during the COVID-19 pandemic were unprecedented in scale and strongly progressive. Using CPS/ASEC data...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
+    "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Measuring Consumption with Credit Card Data: Benchmarking and Beyond」。官方摘要確認其研究範圍以「We introduce a novel monthly county-level consumption dataset constructed from spending data on over 350 million credit cards...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-10-29T18:21:18.574136+00:00",
-        "evidence_id": "src_d8ef47fb250cb1303444",
+        "accessed_at": "2026-10-30T17:55:39.708288+00:00",
+        "evidence_id": "src_1ed1da02c6763ac84273",
         "evidence_role": "primary",
-        "published_at": "2026-10-14T15:25:00+00:00",
+        "published_at": "2026-10-30T17:09:00+00:00",
         "publisher": "Federal Reserve",
         "quoted_fragment": "",
         "tier": "1",
-        "title": "FEDS Paper: A Macroeconomic Analysis of Household Labor Supply Responses to Large Fiscal Transfers",
-        "url": "https://www.federalreserve.gov/econres/feds/a-macroeconomic-analysis-of-household-labor-supply-responses-to-large-fiscal-transfers.htm"
+        "title": "FEDS Paper: Measuring Consumption with Credit Card Data: Benchmarking and Beyond",
+        "url": "https://www.federalreserve.gov/econres/feds/measuring-consumption-with-credit-card-data-benchmarking-and-beyond.htm"
       }
     ],
-    "title": "FEDS Paper: A Macroeconomic Analysis of Household Labor Supply Responses to Large Fiscal Transfers"
+    "title": "FEDS Paper: Measuring Consumption with Credit Card Data: Benchmarking and Beyond"
   },
   "schema_version": "1.0",
   "section_statuses": {
@@ -483,7 +393,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-10-29T18:21:10.030321+00:00",
+  "source_cutoff_at": "2026-10-30T17:55:38.471680+00:00",
   "timezone": "America/New_York",
   "validation_status": "valid"
 }
