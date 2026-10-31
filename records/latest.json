@@ -5,10 +5,10 @@
     "message": "Tomorrow US market is closed. No earnings trading analysis available.",
     "next_open_session": "2026-11-02",
     "status": "market_closed",
-    "target_date": "2026-10-31",
+    "target_date": "2026-11-01",
     "universe_coverage": "not_applicable"
   },
-  "generated_at": "2026-10-30T17:55:38.471680+00:00",
+  "generated_at": "2026-10-31T17:08:58.106290+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -56,7 +56,7 @@
     "market_impact": "high",
     "sources": [
       {
-        "accessed_at": "2026-10-30T17:55:39.568220+00:00",
+        "accessed_at": "2026-10-31T17:08:59.585369+00:00",
         "evidence_id": "src_7ef0cbe0af1fcbf59696",
         "evidence_role": "primary",
         "published_at": "2026-10-28T18:00:00+00:00",
@@ -71,17 +71,17 @@
     "title": "Federal Reserve issues FOMC statement"
   },
   "knowledge_refresh": {
-    "background": "專業風險管理把看法強度與資本曝險分開,因為判斷正確也不代表結果路徑可承受。風險預算先設定單一情境可容忍的資本損失,再反推曝險規模。這種方法的核心是承認機率與損失幅度都存在估計誤差。",
-    "concept": "風險預算與部位大小",
-    "current_relevance": "高度確信的敘事仍可能因時點、路徑或未知事件而失敗。用風險預算約束規模,可以避免單一判斷錯誤主導整體資本結果。明示壓力假設也讓後續檢討能區分模型錯誤與超出設定範圍的事件。",
-    "example": "假設分析用資本為一百,單一情境的可容忍損失設定為二,而壓力情境估計曝險會損失百分之二十。以二除以零點二,得到的曝險上限為十。若另一項曝險在同一壓力情境也會損失二,就必須合併計算,不能把兩份風險預算各自當成獨立。",
-    "explanation": "部位大小應同時考慮信心、潛在損失、相關性與流動性,而不是只看預期報酬。簡化計算可用可容忍損失除以壓力情境下的單位損失。結果只是風險上限的起點,還要檢查多個曝險是否在同一情境下同時受損。"
+    "background": "事件研究用明確時間點和觀察視窗,估計特定消息附近的異常變化。方法的有效性依賴事件時間準確、比較基準合理,以及視窗內沒有重大混雜資訊。它能提供因果線索,但不能自動證明所有同期變化都由該事件造成。",
+    "concept": "事件視窗與因果限制",
+    "current_relevance": "即時資訊密集時,同一天的價格變動很少只有一個可能原因。精確時間戳與混雜事件清單,可防止研究者事後挑選最方便的敘事。對自動化報告而言,明示因果限制尤其重要,因為簡短摘要容易把時間先後誤寫成因果。",
+    "example": "假設公告在下午兩點發布,相關價格在兩點到兩點十分變動百分之三,而大盤同期變動百分之零點五。粗略異常變化為百分之二點五,但兩點零五分又公布另一項產業數據。因此可以說事件視窗內出現相對變動,卻不能把全部百分之二點五確定歸因於第一份公告。",
+    "explanation": "先固定事件何時公開,再選擇足以捕捉反應但不過度納入其他消息的視窗。接著比較實際變化與市場或同類基準下原本可能出現的變化。若同時有其他公告,就要降低因果語氣或設法分離影響。"
   },
   "market_context": {
-    "market_status": "NYSE SESSION TODAY",
+    "market_status": "NYSE CLOSED TODAY",
     "next_open_session": "2026-11-02",
-    "previous_session": "2026-10-29",
-    "tomorrow_date": "2026-10-31",
+    "previous_session": "2026-10-30",
+    "tomorrow_date": "2026-11-01",
     "tomorrow_status": "NYSE CLOSED"
   },
   "market_news": [
@@ -156,7 +156,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-30T17:55:39.564676+00:00",
+          "accessed_at": "2026-10-31T17:08:59.580707+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-10-30T12:30:25+00:00",
@@ -241,7 +241,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-30T17:55:39.564676+00:00",
+          "accessed_at": "2026-10-31T17:08:59.580707+00:00",
           "evidence_id": "src_7ef0cbe0af1fcbf59696",
           "evidence_role": "primary",
           "published_at": "2026-10-28T18:00:00+00:00",
@@ -314,7 +314,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-30T17:55:39.564676+00:00",
+          "accessed_at": "2026-10-31T17:08:59.580707+00:00",
           "evidence_id": "src_57c913a27de366112475",
           "evidence_role": "primary",
           "published_at": "2026-10-29T20:30:00+00:00",
@@ -325,12 +325,12 @@
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm"
         }
       ],
-      "summary": "聯準會於 2026-10-29 公布「Federal Reserve Board announces approval of application by The Bank of Nova Scotia」。官方內文證實 The Bank of Nova Scotia 的申請已獲聯準會核准。這是一項特定機構的法定核准,不是對銀行業盈利、信用週期或貨幣政策的廣泛方向判斷。對該機構而言,核准消除了一個進入或擴張流程中的法規關卡;對大盤而言,除非後續有實質業務規模、資本配置或監理條件,否則影響應屬局部。下一步應查核完整 order 的限制條件與實際營運時程,不將「核准」自動等同於「財務貢獻已發生」。",
+      "summary": "聯準會於 2026-10-29 公布「Federal Reserve Board announces approval of application by The Bank of Nova Scotia」。官方內文證實,The Bank of Nova Scotia(Toronto, Canada)獲准become a bank holding company by acquiring Maple Financial Holdings, Inc。這是一項特定機構的法定核准,不是對銀行業盈利、信用週期或貨幣政策的廣泛方向判斷。對該機構而言,核准消除了一個進入或擴張流程中的法規關卡;對大盤而言,除非後續有實質業務規模、資本配置或監理條件,否則影響應屬局部。下一步應查核完整 order 的限制條件與實際營運時程,不將「核准」自動等同於「財務貢獻已發生」。",
       "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia"
     }
   ],
-  "report_date": "2026-10-30",
-  "report_id": "daily-market-report-2026-10-30",
+  "report_date": "2026-10-31",
+  "report_id": "daily-market-report-2026-10-31",
   "research_discovery": {
     "applications": [
       {
@@ -357,7 +357,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Measuring Consumption with Credit Card Data: Benchmarking and Beyond」。官方摘要確認其研究範圍以「We introduce a novel monthly county-level consumption dataset constructed from spending data on over 350 million credit cards...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-10-30T17:55:39.708288+00:00",
+        "accessed_at": "2026-10-31T17:08:59.721377+00:00",
         "evidence_id": "src_1ed1da02c6763ac84273",
         "evidence_role": "primary",
         "published_at": "2026-10-30T17:09:00+00:00",
@@ -393,7 +393,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-10-30T17:55:38.471680+00:00",
+  "source_cutoff_at": "2026-10-31T17:08:58.106290+00:00",
   "timezone": "America/New_York",
   "validation_status": "valid"
 }
