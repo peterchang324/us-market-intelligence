@@ -2,13 +2,13 @@
   "earnings": {
     "candidates": [],
     "confirmed_events": [],
-    "message": "Tomorrow US market is closed. No earnings trading analysis available.",
-    "next_open_session": "2026-11-02",
-    "status": "market_closed",
-    "target_date": "2026-11-01",
-    "universe_coverage": "not_applicable"
+    "message": "The bounded SEC filing scan did not find an issuer-confirmed event for the target date. This does not mean that no company reports earnings.",
+    "next_open_session": "",
+    "status": "no_confirmed_events_in_bounded_scan",
+    "target_date": "2026-11-02",
+    "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-10-31T17:08:58.106290+00:00",
+  "generated_at": "2026-11-01T18:21:00.108849+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -53,10 +53,10 @@
       "what_changed": "Federal Reserve 於 2026-10-28 發布「Federal Reserve issues FOMC statement」;紀錄確認利率目標區間維持在 3-3/4 to 4 percent。與當天決議相比,紀錄新增的資訊是委員對通膨持續性、勞動市場與後續緊縮條件的分歧。",
       "why_it_matters": "政策路徑是全球跨資產定價的折現率起點。即使本次利率沒變,只要市場上調未來升息或推遲降息機率,美債、美元、股票估值與商品就可以同時重新定價。"
     },
-    "market_impact": "high",
+    "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-10-31T17:08:59.585369+00:00",
+        "accessed_at": "2026-11-01T18:21:01.232918+00:00",
         "evidence_id": "src_7ef0cbe0af1fcbf59696",
         "evidence_role": "primary",
         "published_at": "2026-10-28T18:00:00+00:00",
@@ -71,18 +71,18 @@
     "title": "Federal Reserve issues FOMC statement"
   },
   "knowledge_refresh": {
-    "background": "事件研究用明確時間點和觀察視窗,估計特定消息附近的異常變化。方法的有效性依賴事件時間準確、比較基準合理,以及視窗內沒有重大混雜資訊。它能提供因果線索,但不能自動證明所有同期變化都由該事件造成。",
-    "concept": "事件視窗與因果限制",
-    "current_relevance": "即時資訊密集時,同一天的價格變動很少只有一個可能原因。精確時間戳與混雜事件清單,可防止研究者事後挑選最方便的敘事。對自動化報告而言,明示因果限制尤其重要,因為簡短摘要容易把時間先後誤寫成因果。",
-    "example": "假設公告在下午兩點發布,相關價格在兩點到兩點十分變動百分之三,而大盤同期變動百分之零點五。粗略異常變化為百分之二點五,但兩點零五分又公布另一項產業數據。因此可以說事件視窗內出現相對變動,卻不能把全部百分之二點五確定歸因於第一份公告。",
-    "explanation": "先固定事件何時公開,再選擇足以捕捉反應但不過度納入其他消息的視窗。接著比較實際變化與市場或同類基準下原本可能出現的變化。若同時有其他公告,就要降低因果語氣或設法分離影響。"
+    "background": "情境規劃源自面對高度不確定環境時,不把單一路徑誤當成完整預測。專業分析通常建立基準、上行與下行情境,並為每條路徑設定關鍵假設。路標則把抽象敘事轉成日後可觀測、可反證的證據。",
+    "concept": "情境分析與可觀測路標",
+    "current_relevance": "單點預測會隱藏不確定性,也容易讓使用者忽略低機率但高影響的結果。情境與路標能把爭議聚焦在假設,而不是只爭論最後數字。它也為日後檢討保留清楚紀錄,判斷錯誤究竟發生在機率、傳導還是資料解讀。",
+    "example": "假設基準情境機率為百分之五十、上行情境百分之三十、下行情境百分之二十,對應結果分別為一百、一百三十與六十。機率加權結果是五十加三十九再加十二,合計一百零一。若先行指標明確轉弱,可把部分權重移向下行情境,但必須記錄是哪個路標觸發更新。",
+    "explanation": "情境不是三個任意數字,而是三套內部一致的因果鏈。每套情境應說明哪些驅動因子改變、如何傳導,以及哪些指標會先出現。當路標出現時再更新權重,比每次新聞後重寫整個故事更有紀律。"
   },
   "market_context": {
     "market_status": "NYSE CLOSED TODAY",
     "next_open_session": "2026-11-02",
     "previous_session": "2026-10-30",
-    "tomorrow_date": "2026-11-01",
-    "tomorrow_status": "NYSE CLOSED"
+    "tomorrow_date": "2026-11-02",
+    "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
     {
@@ -156,7 +156,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-31T17:08:59.580707+00:00",
+          "accessed_at": "2026-11-01T18:21:01.227492+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-10-30T12:30:25+00:00",
@@ -241,7 +241,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-31T17:08:59.580707+00:00",
+          "accessed_at": "2026-11-01T18:21:01.227492+00:00",
           "evidence_id": "src_7ef0cbe0af1fcbf59696",
           "evidence_role": "primary",
           "published_at": "2026-10-28T18:00:00+00:00",
@@ -314,7 +314,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-10-31T17:08:59.580707+00:00",
+          "accessed_at": "2026-11-01T18:21:01.227492+00:00",
           "evidence_id": "src_57c913a27de366112475",
           "evidence_role": "primary",
           "published_at": "2026-10-29T20:30:00+00:00",
@@ -329,8 +329,8 @@
       "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia"
     }
   ],
-  "report_date": "2026-10-31",
-  "report_id": "daily-market-report-2026-10-31",
+  "report_date": "2026-11-01",
+  "report_id": "daily-market-report-2026-11-01",
   "research_discovery": {
     "applications": [
       {
@@ -357,7 +357,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Measuring Consumption with Credit Card Data: Benchmarking and Beyond」。官方摘要確認其研究範圍以「We introduce a novel monthly county-level consumption dataset constructed from spending data on over 350 million credit cards...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-10-31T17:08:59.721377+00:00",
+        "accessed_at": "2026-11-01T18:21:04.064593+00:00",
         "evidence_id": "src_1ed1da02c6763ac84273",
         "evidence_role": "primary",
         "published_at": "2026-10-30T17:09:00+00:00",
@@ -393,7 +393,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-10-31T17:08:58.106290+00:00",
+  "source_cutoff_at": "2026-11-01T18:21:00.108849+00:00",
   "timezone": "America/New_York",
   "validation_status": "valid"
 }
