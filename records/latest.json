@@ -3,48 +3,20 @@
     "candidates": [],
     "confirmed_events": [
       {
-        "announced_on": "2026-10-01",
-        "cik": "0001756770",
-        "company_name": "Curaleaf Holdings, Inc.",
-        "conference_call_at": "",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Curaleaf Holdings, Inc.(CURLF)的目標日為 2026-11-03。公告確認發布時段為美股收盤後,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_604f34a1ff9582e5b0a8",
-        "form": "8-K",
-        "release_timing": "after_market",
-        "release_timing_label": "After market (exact time not confirmed)",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-11-02T22:15:34.522396+00:00",
-            "evidence_id": "src_07f9136135e956c21a3c",
-            "evidence_role": "primary",
-            "published_at": "2026-10-01T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "Curaleaf Holdings, Inc. 8-K issuer announcement (0001756770-26-000118)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1756770/000175677026000118/a2026-09x29xcuraleafxtox.htm"
-          }
-        ],
-        "target_date": "2026-11-03",
-        "ticker": "CURLF"
-      },
-      {
         "announced_on": "2026-10-21",
         "cik": "0000101199",
         "company_name": "UNITED FIRE GROUP INC",
         "conference_call_at": "",
         "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:UNITED FIRE GROUP INC(UFCS)的目標日為 2026-11-03。公告確認發布時段為美股收盤後,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_2c41172a6ef10e841093",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:UNITED FIRE GROUP INC(UFCS)的目標日為 2026-11-04。公告確認發布時段為美股收盤後,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_7f7d22d5ba700e6c8f1d",
         "form": "8-K",
         "release_timing": "after_market",
         "release_timing_label": "After market (exact time not confirmed)",
         "scheduled_release_at": "",
         "sources": [
           {
-            "accessed_at": "2026-11-02T22:15:34.522396+00:00",
+            "accessed_at": "2026-11-03T20:02:13.206162+00:00",
             "evidence_id": "src_1be36322e3d5a94893eb",
             "evidence_role": "primary",
             "published_at": "2026-10-21T00:00:00+00:00",
@@ -55,157 +27,45 @@
             "url": "https://www.sec.gov/Archives/edgar/data/101199/000010119926000060/ufcs-20261021.htm"
           }
         ],
-        "target_date": "2026-11-03",
+        "target_date": "2026-11-04",
         "ticker": "UFCS"
       },
       {
-        "announced_on": "2026-11-02",
-        "cik": "0000897077",
-        "company_name": "ALAMO GROUP INC",
-        "conference_call_at": "2026-11-03T15:00:00+00:00",
-        "confirmation_basis": "earnings_conference_call",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排目標日的財報電話會議:ALAMO GROUP INC(ALG)的目標日為 2026-11-03。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 10:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_2cae4c97a56001d497e8",
-        "form": "8-K",
-        "release_timing": "time_not_confirmed",
-        "release_timing_label": "Release time not confirmed",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-11-02T22:15:34.522396+00:00",
-            "evidence_id": "src_6a75397ee5720dd32960",
-            "evidence_role": "primary",
-            "published_at": "2026-11-02T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "ALAMO GROUP INC 8-K issuer announcement (0000897077-26-000108)",
-            "url": "https://www.sec.gov/Archives/edgar/data/897077/000089707726000108/ex991q32026.htm"
-          }
-        ],
-        "target_date": "2026-11-03",
-        "ticker": "ALG"
-      },
-      {
-        "announced_on": "2026-11-02",
-        "cik": "0000016040",
-        "company_name": "CABOT CORP",
-        "conference_call_at": "2026-11-03T13:00:00+00:00",
-        "confirmation_basis": "earnings_conference_call",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排目標日的財報電話會議:CABOT CORP(CBT)的目標日為 2026-11-03。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 08:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_37edfe5a3f1efb2d8b20",
-        "form": "8-K",
-        "release_timing": "time_not_confirmed",
-        "release_timing_label": "Release time not confirmed",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-11-02T22:15:34.522396+00:00",
-            "evidence_id": "src_5996814594bdbdb056e9",
-            "evidence_role": "primary",
-            "published_at": "2026-11-02T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "CABOT CORP 8-K issuer announcement (0001193125-26-443873)",
-            "url": "https://www.sec.gov/Archives/edgar/data/16040/000119312526443873/cbt-ex99_1.htm"
-          }
-        ],
-        "target_date": "2026-11-03",
-        "ticker": "CBT"
-      },
-      {
-        "announced_on": "2026-11-02",
-        "cik": "0001307954",
-        "company_name": "Huntsman CORP",
-        "conference_call_at": "2026-11-03T14:00:00+00:00",
-        "confirmation_basis": "earnings_conference_call",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排目標日的財報電話會議:Huntsman CORP(HUN)的目標日為 2026-11-03。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 09:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_7dc47a7122719a85f928",
-        "form": "8-K",
-        "release_timing": "time_not_confirmed",
-        "release_timing_label": "Release time not confirmed",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-11-02T22:15:34.522396+00:00",
-            "evidence_id": "src_d7ac526b85a67f5a9211",
-            "evidence_role": "primary",
-            "published_at": "2026-11-02T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "Huntsman CORP 8-K issuer announcement (0001104659-26-121352)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1307954/000110465926121352/tm2628674d1_ex99-1.htm"
-          }
-        ],
-        "target_date": "2026-11-03",
-        "ticker": "HUN"
-      },
-      {
-        "announced_on": "2026-11-02",
-        "cik": "0001496099",
-        "company_name": "New Mountain Finance Corp",
-        "conference_call_at": "2026-11-03T15:00:00+00:00",
-        "confirmation_basis": "earnings_conference_call",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排目標日的財報電話會議:New Mountain Finance Corp(NMFC)的目標日為 2026-11-03。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 10:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_640b08ed65970c2dcb66",
-        "form": "8-K",
-        "release_timing": "time_not_confirmed",
-        "release_timing_label": "Release time not confirmed",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-11-02T22:15:34.522396+00:00",
-            "evidence_id": "src_d7e7f2875939e8745922",
-            "evidence_role": "primary",
-            "published_at": "2026-11-02T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "New Mountain Finance Corp 8-K issuer announcement (0001628280-26-068916)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1496099/000162828026068916/nmfcearningspressreleaseq3.htm"
-          }
-        ],
-        "target_date": "2026-11-03",
-        "ticker": "NMFC"
-      },
-      {
-        "announced_on": "2026-09-22",
-        "cik": "0001724965",
-        "company_name": "TALOS ENERGY INC.",
+        "announced_on": "2026-10-14",
+        "cik": "0001527636",
+        "company_name": "Autohome Inc.",
         "conference_call_at": "",
         "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:TALOS ENERGY INC.(TALO)的目標日為 2026-11-03。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_9bb87ccb492156501a34",
-        "form": "8-K",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Autohome Inc.(ATHM)的目標日為 2026-11-04。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_7dc03eba8294eba4d98b",
+        "form": "6-K",
         "release_timing": "time_not_confirmed",
         "release_timing_label": "Release time not confirmed",
         "scheduled_release_at": "",
         "sources": [
           {
-            "accessed_at": "2026-11-02T22:15:34.522396+00:00",
-            "evidence_id": "src_1b6f6ffa77bea3dcdd9b",
+            "accessed_at": "2026-11-03T20:02:13.206162+00:00",
+            "evidence_id": "src_68de5b92ebae496056b3",
             "evidence_role": "primary",
-            "published_at": "2026-09-22T00:00:00+00:00",
+            "published_at": "2026-10-14T00:00:00+00:00",
             "publisher": "U.S. Securities and Exchange Commission",
             "quoted_fragment": "",
             "tier": "1",
-            "title": "TALOS ENERGY INC. 8-K issuer announcement (0001193125-26-398060)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1724965/000119312526398060/talo-ex99_1.htm"
+            "title": "Autohome Inc. 6-K issuer announcement (0001193125-26-421013)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1527636/000119312526421013/d158983dex991.htm"
           }
         ],
-        "target_date": "2026-11-03",
-        "ticker": "TALO"
+        "target_date": "2026-11-04",
+        "ticker": "ATHM"
       }
     ],
     "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
     "next_open_session": "",
     "status": "confirmed_events_available",
-    "target_date": "2026-11-03",
+    "target_date": "2026-11-04",
     "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-11-02T22:15:27.280429+00:00",
+  "generated_at": "2026-11-03T20:02:08.155210+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -253,7 +113,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-11-02T22:15:28.416061+00:00",
+        "accessed_at": "2026-11-03T20:02:09.336298+00:00",
         "evidence_id": "src_7ef0cbe0af1fcbf59696",
         "evidence_role": "primary",
         "published_at": "2026-10-28T18:00:00+00:00",
@@ -268,17 +128,17 @@
     "title": "Federal Reserve issues FOMC statement"
   },
   "knowledge_refresh": {
-    "background": "反身性描述參與者的信念不只反映現實,也可能透過行動反過來改變現實。金融條件、抵押品價值與融資能力特別容易形成正向或負向回饋。這使市場結果有時不是外部基本面的被動投影,而是系統互動的一部分。",
-    "concept": "反身性與回饋循環",
-    "current_relevance": "線性模型常假設外部衝擊造成單向結果,因而低估系統內部的放大或自我修正。辨認回饋節點能指出哪些資產負債表、契約或行為指標應優先監控。同時設定循環中止條件,可避免把短期趨勢無限外推。",
-    "example": "假設資產價值從一百降到八十,貸款契約要求抵押覆蓋率至少一點二五倍。原本八十的負債剛好由一百資產覆蓋,資產降到八十後覆蓋率只剩一倍,因而觸發補繳或出售。被迫出售若再壓低資產價值,就形成價格、抵押與賣壓的負向回饋循環。",
-    "explanation": "價格上升可能改善融資能力,新增資金又支持擴張與價格;價格下降時同一鏈條也可能反向運作。回饋循環需要實際傳導管道,例如抵押條款、贖回機制或客戶信心。沒有可辨認的管道時,反身性只是一個故事,不能取代證據。"
+    "background": "貝氏推論把既有經驗視為先驗,再用新證據修正原本的判斷。統計、保險與信用研究長期依靠這套方法,因為單一案例通常不足以代表整體。市場研究中的基準率,就是同類事件在可比較樣本裡通常如何發展。",
+    "concept": "基準率與貝氏更新",
+    "current_relevance": "快速新聞流容易讓醒目的個案壓過長期樣本,造成機率判斷失真。基準率可抑制過度反應,貝氏更新則避免研究者因守住舊觀點而忽略有效新證據。把更新前後的機率與理由留下來,也能在事後區分好流程和純粹運氣。",
+    "example": "假設同類專案準時完成的基準率為六成,因此初始判斷是百分之六十。一份經獨立查核的進度報告顯示關鍵里程碑已完成,分析者據此把估計上調到百分之七十五。若後續查明報告只是重複管理層原話而非獨立證據,機率就應回調,而不是把同一消息計算兩次。",
+    "explanation": "先問同類情況原本有多常出現某種結果,再評估新資訊有多可信、是否真正獨立。證據越直接且越難由其他原因解釋,合理的機率調整才越大。這不是追求一次猜中,而是讓每次修正都能說明依據與幅度。"
   },
   "market_context": {
     "market_status": "NYSE SESSION TODAY",
-    "next_open_session": "2026-11-03",
-    "previous_session": "2026-10-30",
-    "tomorrow_date": "2026-11-03",
+    "next_open_session": "2026-11-04",
+    "previous_session": "2026-11-02",
+    "tomorrow_date": "2026-11-04",
     "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
@@ -291,7 +151,7 @@
       "attention_score": "8.2",
       "bear_case": "若就業同時轉弱、物價或薪資壓力卻未消退,市場將面對滾脹式下修與利率難以快速下降的雙重風險。消費循環、低品質信用與小型企業的盈利預期可能同時惡化。",
       "bull_case": "若就業、薪資與通膨組合指向需求仍穩定但價格壓力緩和,市場會往軟著陸定價移動。企業營收預期可獲得支撐,同時不必大幅上調折現率。",
-      "event_date": "2026-10-30",
+      "event_date": "2026-11-03",
       "impact": {
         "beneficiaries": [
           {
@@ -324,11 +184,11 @@
           }
         ],
         "professional_investor_reaction": "專業投資人會將當期數值與前值修訂、3 個月移動平均、勞參率與薪資分布一起比較,再用美債、美元與週期/防禦板塊的相對反應判斷是成長訊號還是利率訊號佔上風。",
-        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-10-30 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
+        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-11-03 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
         "why_it_matters": "勞動需求決定家戶所得與企業成本,並經由通膨與聯準會反應函數影響美國風險資產定價。「就業強、通膨降」與「就業弱、通膨高」對資產的含義完全不同,因此必須聯立讀取。"
       },
       "market_impact": "high",
-      "news_id": "news_88d1fb08dcb785ee77e3",
+      "news_id": "news_7b6ce3486a2ba30d724a",
       "score_components": [
         {
           "key": "market_size_impact",
@@ -353,10 +213,10 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-02T22:15:28.411070+00:00",
+          "accessed_at": "2026-11-03T20:02:09.332248+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
-          "published_at": "2026-10-30T12:30:25+00:00",
+          "published_at": "2026-11-03T15:00:20+00:00",
           "publisher": "U.S. Bureau of Labor Statistics",
           "quoted_fragment": "",
           "tier": "1",
@@ -364,7 +224,7 @@
           "url": "https://www.bls.gov/bls/"
         }
       ],
-      "summary": "U.S. Bureau of Labor Statistics 於 2026-10-30 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.6%(Sep 2026)、失業率為 4.2%(Sep 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
+      "summary": "U.S. Bureau of Labor Statistics 於 2026-11-03 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.6%(Sep 2026)、失業率為 4.2%(Sep 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
       "title": "Major Economic Indicators Latest Numbers"
     },
     {
@@ -438,7 +298,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-02T22:15:28.411070+00:00",
+          "accessed_at": "2026-11-03T20:02:09.332248+00:00",
           "evidence_id": "src_7ef0cbe0af1fcbf59696",
           "evidence_role": "primary",
           "published_at": "2026-10-28T18:00:00+00:00",
@@ -511,7 +371,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-02T22:15:28.411070+00:00",
+          "accessed_at": "2026-11-03T20:02:09.332248+00:00",
           "evidence_id": "src_57c913a27de366112475",
           "evidence_role": "primary",
           "published_at": "2026-10-29T20:30:00+00:00",
@@ -526,8 +386,8 @@
       "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia"
     }
   ],
-  "report_date": "2026-11-02",
-  "report_id": "daily-market-report-2026-11-02",
+  "report_date": "2026-11-03",
+  "report_id": "daily-market-report-2026-11-03",
   "research_discovery": {
     "applications": [
       {
@@ -554,7 +414,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges」。官方摘要確認其研究範圍以「Service fees continue to proliferate in a wide range of markets, from retail to payments, generating questions about...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-11-02T22:15:34.673031+00:00",
+        "accessed_at": "2026-11-03T20:02:13.358793+00:00",
         "evidence_id": "src_6ee11c355c76cf2ce5cb",
         "evidence_role": "primary",
         "published_at": "2026-11-02T15:10:00+00:00",
@@ -590,7 +450,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-11-02T22:15:27.280429+00:00",
+  "source_cutoff_at": "2026-11-03T20:02:08.155210+00:00",
   "timezone": "America/New_York",
   "validation_status": "degraded"
 }
