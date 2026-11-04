@@ -1,0 +1,624 @@
+{
+  "earnings": {
+    "candidates": [],
+    "confirmed_events": [
+      {
+        "announced_on": "2026-10-05",
+        "cik": "0001572694",
+        "company_name": "Goldman Sachs BDC, Inc.",
+        "conference_call_at": "2026-11-05T14:00:00+00:00",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Goldman Sachs BDC, Inc.(GSBD)的目標日為 2026-11-05。公告同時確認業績發布時間為 09:00 ET。另外,電話會議安排在 09:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_abd56312ddefb63a4594",
+        "form": "8-K",
+        "release_timing": "before_market",
+        "release_timing_label": "Confirmed release: 2026-11-05T14:00:00+00:00",
+        "scheduled_release_at": "2026-11-05T14:00:00+00:00",
+        "sources": [
+          {
+            "accessed_at": "2026-11-04T20:22:28.972527+00:00",
+            "evidence_id": "src_de978b987ce3d4391e6b",
+            "evidence_role": "primary",
+            "published_at": "2026-10-05T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Goldman Sachs BDC, Inc. 8-K issuer announcement (0001193125-26-414262)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1572694/000119312526414262/d179027d8k.htm"
+          }
+        ],
+        "target_date": "2026-11-05",
+        "ticker": "GSBD"
+      },
+      {
+        "announced_on": "2026-10-09",
+        "cik": "0001747172",
+        "company_name": "Kayne Anderson BDC, Inc.",
+        "conference_call_at": "2026-11-05T17:00:00+00:00",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Kayne Anderson BDC, Inc.(KBDC)的目標日為 2026-11-05。公告同時確認業績發布時間為 12:00 ET。另外,電話會議安排在 12:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_f802de1d571311b91ff6",
+        "form": "8-K",
+        "release_timing": "during_market",
+        "release_timing_label": "Confirmed release: 2026-11-05T17:00:00+00:00",
+        "scheduled_release_at": "2026-11-05T17:00:00+00:00",
+        "sources": [
+          {
+            "accessed_at": "2026-11-04T20:22:28.972527+00:00",
+            "evidence_id": "src_9c42d7d62c287c48ed3c",
+            "evidence_role": "primary",
+            "published_at": "2026-10-09T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Kayne Anderson BDC, Inc. 8-K issuer announcement (0001213900-26-108435)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1747172/000121390026108435/ea0308268-8k_kayne.htm"
+          }
+        ],
+        "target_date": "2026-11-05",
+        "ticker": "KBDC"
+      },
+      {
+        "announced_on": "2026-10-01",
+        "cik": "0001534254",
+        "company_name": "CION Investment Corp",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:CION Investment Corp(CICB)的目標日為 2026-11-05。公告同時確認業績發布時間為 11:00 ET。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_49f3383bb16f7c5f1911",
+        "form": "8-K",
+        "release_timing": "during_market",
+        "release_timing_label": "Confirmed release: 2026-11-05T16:00:00+00:00",
+        "scheduled_release_at": "2026-11-05T16:00:00+00:00",
+        "sources": [
+          {
+            "accessed_at": "2026-11-04T20:22:28.972527+00:00",
+            "evidence_id": "src_08796218add6b7d11b54",
+            "evidence_role": "primary",
+            "published_at": "2026-10-01T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "CION Investment Corp 8-K issuer announcement (0001104659-26-112595)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1534254/000110465926112595/tm2626516d1_8k.htm"
+          }
+        ],
+        "target_date": "2026-11-05",
+        "ticker": "CICB"
+      },
+      {
+        "announced_on": "2026-10-21",
+        "cik": "0001806347",
+        "company_name": "Westrock Coffee Co",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Westrock Coffee Co(WEST)的目標日為 2026-11-05。公告同時確認業績發布時間為 16:30 ET。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_74d3b26eefcaf1d1c0c6",
+        "form": "8-K",
+        "release_timing": "after_market",
+        "release_timing_label": "Confirmed release: 2026-11-05T21:30:00+00:00",
+        "scheduled_release_at": "2026-11-05T21:30:00+00:00",
+        "sources": [
+          {
+            "accessed_at": "2026-11-04T20:22:28.972527+00:00",
+            "evidence_id": "src_47cd69074593ae2f9166",
+            "evidence_role": "primary",
+            "published_at": "2026-10-21T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Westrock Coffee Co 8-K issuer announcement (0001104659-26-117845)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1806347/000110465926117845/tm2627822d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-05",
+        "ticker": "WEST"
+      },
+      {
+        "announced_on": "2026-10-05",
+        "cik": "0001782524",
+        "company_name": "Morgan Stanley Direct Lending Fund",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Morgan Stanley Direct Lending Fund(MSDL)的目標日為 2026-11-05。公告確認發布時段為美股收盤後,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_16a8bb3cac368bde6ae6",
+        "form": "8-K",
+        "release_timing": "after_market",
+        "release_timing_label": "After market (exact time not confirmed)",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-04T20:22:28.972527+00:00",
+            "evidence_id": "src_7ec66c24b08df03b66db",
+            "evidence_role": "primary",
+            "published_at": "2026-10-05T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Morgan Stanley Direct Lending Fund 8-K issuer announcement (0001193125-26-414170)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1782524/000119312526414170/msdl-ex99_1.htm"
+          }
+        ],
+        "target_date": "2026-11-05",
+        "ticker": "MSDL"
+      },
+      {
+        "announced_on": "2026-10-22",
+        "cik": "0000845877",
+        "company_name": "FEDERAL AGRICULTURAL MORTGAGE CORP",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:FEDERAL AGRICULTURAL MORTGAGE CORP(AGM)的目標日為 2026-11-05。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_76f9526cadf9b4ca367e",
+        "form": "8-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-04T20:22:28.972527+00:00",
+            "evidence_id": "src_42fb1e3c543c6b6b8f69",
+            "evidence_role": "primary",
+            "published_at": "2026-10-22T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "FEDERAL AGRICULTURAL MORTGAGE CORP 8-K issuer announcement (0000845877-26-000133)",
+            "url": "https://www.sec.gov/Archives/edgar/data/845877/000084587726000133/a20261022farmermactoannoun.htm"
+          }
+        ],
+        "target_date": "2026-11-05",
+        "ticker": "AGM"
+      },
+      {
+        "announced_on": "2026-10-29",
+        "cik": "0001579091",
+        "company_name": "Maplebear Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Maplebear Inc.(CART)的目標日為 2026-11-05。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_fc08d931d10f2ced90d2",
+        "form": "8-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-04T20:22:28.972527+00:00",
+            "evidence_id": "src_63ba83d461418fd2a311",
+            "evidence_role": "primary",
+            "published_at": "2026-10-29T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Maplebear Inc. 8-K issuer announcement (0001193125-26-437014)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1579091/000119312526437014/d24470dex991.htm"
+          }
+        ],
+        "target_date": "2026-11-05",
+        "ticker": "CART"
+      },
+      {
+        "announced_on": "2026-10-29",
+        "cik": "0001549346",
+        "company_name": "Shutterstock, Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Shutterstock, Inc.(SSTK)的目標日為 2026-11-05。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_624aff106350b7070e96",
+        "form": "8-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-04T20:22:28.972527+00:00",
+            "evidence_id": "src_e02edc768d50c0b86576",
+            "evidence_role": "primary",
+            "published_at": "2026-10-29T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Shutterstock, Inc. 8-K issuer announcement (0001140361-26-041191)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1549346/000114036126041191/ef20084541_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-05",
+        "ticker": "SSTK"
+      }
+    ],
+    "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
+    "next_open_session": "",
+    "status": "confirmed_events_available",
+    "target_date": "2026-11-05",
+    "universe_coverage": "bounded_research"
+  },
+  "generated_at": "2026-11-04T20:22:22.196808+00:00",
+  "global_macro": {
+    "affected_assets": [
+      "stocks",
+      "bonds",
+      "usd",
+      "commodities"
+    ],
+    "event_date": "2026-10-28",
+    "event_id": "macro_00c4f78fb9c56f3eb11c",
+    "impact": {
+      "beneficiaries": [
+        {
+          "kind": "named_entity",
+          "name": "美國短期國債與美元現金工具",
+          "rationale": "若政策利率維持高檔或升息機率增加,前端收益率和美國利差支撐可能延長。"
+        },
+        {
+          "kind": "named_entity",
+          "name": "存款成本重定價較慢的大型銀行",
+          "rationale": "在放款收益率先上升、存款 beta 滞後的條件下,部分淨利差業務可能受益。"
+        }
+      ],
+      "indicators_to_monitor_next": [
+        "2 年期美債殖利率、聯邦基金期貨與下次會議的隱含利率機率",
+        "核心 PCE、CPI 服務項、薪資成長與中長期通膨預期",
+        "美元指數、10 年期實質利率與長久期股相對大盤的表現",
+        "後續聯準會委員發言是否重複紀錄中的緊縮門檻與風險判斷"
+      ],
+      "losers": [
+        {
+          "kind": "named_entity",
+          "name": "長久期科技與高估值成長股",
+          "rationale": "未來現金流比重高,實質利率上移會對現值與估值倍數形成較大壓力。"
+        },
+        {
+          "kind": "named_entity",
+          "name": "高槓桿房地產與浮動利率借款人",
+          "rationale": "再融資成本與利息負擔對高利率維持時間特別敏感。"
+        }
+      ],
+      "professional_investor_reaction": "利率團隊會先將紀錄與原始會後聲明逐項比較,拆出「委員分歧」與「經濟預測」的新資訊;然後通過 OIS/聯邦基金期貨、2 年期美債、實質利率和美元即時反應,確認訊號是否已被定價。",
+      "what_changed": "Federal Reserve 於 2026-10-28 發布「Federal Reserve issues FOMC statement」;紀錄確認利率目標區間維持在 3-3/4 to 4 percent。與當天決議相比,紀錄新增的資訊是委員對通膨持續性、勞動市場與後續緊縮條件的分歧。",
+      "why_it_matters": "政策路徑是全球跨資產定價的折現率起點。即使本次利率沒變,只要市場上調未來升息或推遲降息機率,美債、美元、股票估值與商品就可以同時重新定價。"
+    },
+    "market_impact": "medium",
+    "sources": [
+      {
+        "accessed_at": "2026-11-04T20:22:23.322593+00:00",
+        "evidence_id": "src_7ef0cbe0af1fcbf59696",
+        "evidence_role": "primary",
+        "published_at": "2026-10-28T18:00:00+00:00",
+        "publisher": "Federal Reserve",
+        "quoted_fragment": "",
+        "tier": "1",
+        "title": "Federal Reserve issues FOMC statement",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+      }
+    ],
+    "summary": "聯準會於 2026-10-28 公布「Federal Reserve issues FOMC statement」的官方紀錄。會議紀錄證實委員會將聯邦基金利率目標區間維持在 3-3/4 to 4 percent。此類紀錄的重點不是公布日本身,而是委員對通膨、就業與增長的權衡是否改變。在沒有完整與會者意見前,不應將「公布紀錄」本身解讀成偏鷹或偏鴿。市場真正需要重新定價的,是下一次會議前的通膨路徑與政策分歧,而不是只看新聞標題。跨資產傳導上,利率路徑會先改變美債殖利率與實質折現率,再影響股票估值和信用利差;美國利差若擴大通常支撐美元,而美元與實質利率同向上行往往壓抑無息商品。",
+    "title": "Federal Reserve issues FOMC statement"
+  },
+  "knowledge_refresh": {
+    "background": "機率論很早就區分平均結果與單次結果,金融決策則把它延伸為期望值分析。專業風險管理不只看最可能情境,還會檢查尾端結果、偏態與損失幅度。原因是兩個平均報酬相同的方案,實際風險結構可能完全不同。",
+    "concept": "期望值與結果分配",
+    "current_relevance": "標題往往只呈現單一預測點,卻省略預測區間與情境不對稱。比較結果分布能揭露表面上相近的方案,是否其實承擔截然不同的尾部風險。這也讓事後檢討回到當時可知的機率,而非只依結果反推決策品質。",
+    "example": "假設某方案有百分之六十機率增加百分之十,另有百分之四十機率減少百分之十二。其期望值為零點六乘十,再加零點四乘負十二,結果是正百分之一點二。雖然平均值為正,分析仍須明示四成機率的較大損失,而不能把正期望值寫成確定獲利。",
+    "explanation": "期望值是每個可能結果乘上其機率後的總和,而不是保證會發生的數字。完整判斷還要看結果分布有多寬,以及罕見壞結果是否足以造成不可逆傷害。因此,平均值回答長期中心在哪裡,分布則回答途中可能承受什麼。"
+  },
+  "market_context": {
+    "market_status": "NYSE SESSION TODAY",
+    "next_open_session": "2026-11-05",
+    "previous_session": "2026-11-03",
+    "tomorrow_date": "2026-11-05",
+    "tomorrow_status": "NYSE SESSION"
+  },
+  "market_news": [
+    {
+      "affected_sectors": [
+        "Consumer Discretionary",
+        "Industrials",
+        "Financials"
+      ],
+      "attention_score": "8.2",
+      "bear_case": "若就業同時轉弱、物價或薪資壓力卻未消退,市場將面對滾脹式下修與利率難以快速下降的雙重風險。消費循環、低品質信用與小型企業的盈利預期可能同時惡化。",
+      "bull_case": "若就業、薪資與通膨組合指向需求仍穩定但價格壓力緩和,市場會往軟著陸定價移動。企業營收預期可獲得支撐,同時不必大幅上調折現率。",
+      "event_date": "2026-11-03",
+      "impact": {
+        "beneficiaries": [
+          {
+            "kind": "named_entity",
+            "name": "美國大眾消費與就業敏感服務業",
+            "rationale": "若就業與實質薪資保持正成長,家戶現金流會繼續支撐需求。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "軟著陸情境下的投資級信用債",
+            "rationale": "成長未明顯轉負且通膨放緩時,違約風險與無風險利率壓力可能同時受控。"
+          }
+        ],
+        "indicators_to_monitor_next": [
+          "非農就業前值修訂、3 個月平均、每週初領失業救濟金與招聘率",
+          "失業率、勞動參與率、就業人口比與長期失業占比",
+          "平均時薪、生產力、單位勞工成本與服務業通膨",
+          "2 年期美債、美元與美股週期板塊對數據意外的相對反應"
+        ],
+        "losers": [
+          {
+            "kind": "named_entity",
+            "name": "低利潤且人力密集的零售與餐飲業",
+            "rationale": "若薪資比售價更快上升,營運利潤率會遭到擠壓。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "低品質消費信用與小型企業借款",
+            "rationale": "若就業轉弱,現金流緩衝較少的借款人通常會先出現逾期壓力。"
+          }
+        ],
+        "professional_investor_reaction": "專業投資人會將當期數值與前值修訂、3 個月移動平均、勞參率與薪資分布一起比較,再用美債、美元與週期/防禦板塊的相對反應判斷是成長訊號還是利率訊號佔上風。",
+        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-11-03 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
+        "why_it_matters": "勞動需求決定家戶所得與企業成本,並經由通膨與聯準會反應函數影響美國風險資產定價。「就業強、通膨降」與「就業弱、通膨高」對資產的含義完全不同,因此必須聯立讀取。"
+      },
+      "market_impact": "high",
+      "news_id": "news_7b6ce3486a2ba30d724a",
+      "score_components": [
+        {
+          "key": "market_size_impact",
+          "value": "8.0"
+        },
+        {
+          "key": "earnings_impact",
+          "value": "8.0"
+        },
+        {
+          "key": "macro_importance",
+          "value": "9.0"
+        },
+        {
+          "key": "sector_influence",
+          "value": "8.0"
+        },
+        {
+          "key": "short_term_trading_relevance",
+          "value": "8.0"
+        }
+      ],
+      "sources": [
+        {
+          "accessed_at": "2026-11-04T20:22:23.317580+00:00",
+          "evidence_id": "src_73950174e730f4f35cdb",
+          "evidence_role": "primary",
+          "published_at": "2026-11-03T15:00:20+00:00",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "quoted_fragment": "",
+          "tier": "1",
+          "title": "Major Economic Indicators Latest Numbers",
+          "url": "https://www.bls.gov/bls/"
+        }
+      ],
+      "summary": "U.S. Bureau of Labor Statistics 於 2026-11-03 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.6%(Sep 2026)、失業率為 4.2%(Sep 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
+      "title": "Major Economic Indicators Latest Numbers"
+    },
+    {
+      "affected_sectors": [
+        "Financials",
+        "Real Estate",
+        "Technology"
+      ],
+      "attention_score": "7.8",
+      "bear_case": "若通膨停滯、分歧擴大或後續委員發言強化升息門檻,短端利率與實質利率可能再上移。估值依賴遠期現金流的成長股、高槓桿借款人與長久期債券會承受較大壓力。",
+      "bull_case": "若後續通膨數據放緩、會議分歧沒有擴大,市場可能將紀錄解讀為聯準會有空間維持而非追加緊縮。這會壓低尾部升息風險,對長久期資產、住宅敏感板塊與信用利差較有利。",
+      "event_date": "2026-10-28",
+      "impact": {
+        "beneficiaries": [
+          {
+            "kind": "named_entity",
+            "name": "美國短期國債與美元現金工具",
+            "rationale": "若政策利率維持高檔或升息機率增加,前端收益率和美國利差支撐可能延長。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "存款成本重定價較慢的大型銀行",
+            "rationale": "在放款收益率先上升、存款 beta 滞後的條件下,部分淨利差業務可能受益。"
+          }
+        ],
+        "indicators_to_monitor_next": [
+          "2 年期美債殖利率、聯邦基金期貨與下次會議的隱含利率機率",
+          "核心 PCE、CPI 服務項、薪資成長與中長期通膨預期",
+          "美元指數、10 年期實質利率與長久期股相對大盤的表現",
+          "後續聯準會委員發言是否重複紀錄中的緊縮門檻與風險判斷"
+        ],
+        "losers": [
+          {
+            "kind": "named_entity",
+            "name": "長久期科技與高估值成長股",
+            "rationale": "未來現金流比重高,實質利率上移會對現值與估值倍數形成較大壓力。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "高槓桿房地產與浮動利率借款人",
+            "rationale": "再融資成本與利息負擔對高利率維持時間特別敏感。"
+          }
+        ],
+        "professional_investor_reaction": "利率團隊會先將紀錄與原始會後聲明逐項比較,拆出「委員分歧」與「經濟預測」的新資訊;然後通過 OIS/聯邦基金期貨、2 年期美債、實質利率和美元即時反應,確認訊號是否已被定價。",
+        "what_changed": "Federal Reserve 於 2026-10-28 發布「Federal Reserve issues FOMC statement」;紀錄確認利率目標區間維持在 3-3/4 to 4 percent。與當天決議相比,紀錄新增的資訊是委員對通膨持續性、勞動市場與後續緊縮條件的分歧。",
+        "why_it_matters": "政策路徑是美國風險資產定價的折現率起點。即使本次利率沒變,只要市場上調未來升息或推遲降息機率,美債、美元、股票估值與商品就可以同時重新定價。"
+      },
+      "market_impact": "high",
+      "news_id": "news_00c4f78fb9c56f3eb11c",
+      "score_components": [
+        {
+          "key": "market_size_impact",
+          "value": "8.0"
+        },
+        {
+          "key": "earnings_impact",
+          "value": "6.0"
+        },
+        {
+          "key": "macro_importance",
+          "value": "9.0"
+        },
+        {
+          "key": "sector_influence",
+          "value": "8.0"
+        },
+        {
+          "key": "short_term_trading_relevance",
+          "value": "8.0"
+        }
+      ],
+      "sources": [
+        {
+          "accessed_at": "2026-11-04T20:22:23.317580+00:00",
+          "evidence_id": "src_7ef0cbe0af1fcbf59696",
+          "evidence_role": "primary",
+          "published_at": "2026-10-28T18:00:00+00:00",
+          "publisher": "Federal Reserve",
+          "quoted_fragment": "",
+          "tier": "1",
+          "title": "Federal Reserve issues FOMC statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        }
+      ],
+      "summary": "聯準會於 2026-10-28 公布「Federal Reserve issues FOMC statement」的官方紀錄。會議紀錄證實委員會將聯邦基金利率目標區間維持在 3-3/4 to 4 percent。此類紀錄的重點不是公布日本身,而是委員對通膨、就業與增長的權衡是否改變。在沒有完整與會者意見前,不應將「公布紀錄」本身解讀成偏鷹或偏鴿。市場真正需要重新定價的,是下一次會議前的通膨路徑與政策分歧,而不是只看新聞標題。",
+      "title": "Federal Reserve issues FOMC statement"
+    },
+    {
+      "affected_sectors": [
+        "Financials",
+        "Capital Markets"
+      ],
+      "attention_score": "5.6",
+      "bear_case": "若後續調查顯示問題不是個案,或監理機關要求額外整改、罰款與營運限制,相關機構的成本與聲譽風險將上升。投資人會調高合規成本假設,並檢查同類業務是否也有控制缺口。",
+      "bull_case": "若這次官方行動將問題限制在個案並促成可驗證的整改,市場可能下調法規尾部風險。但正面判斷需要後續公告顯示沒有擴大至更多個人、產品或機構。",
+      "event_date": "2026-11-04",
+      "impact": {
+        "beneficiaries": [
+          {
+            "kind": "none_identified",
+            "name": "None identified",
+            "rationale": "現有官方事實不足以指認已經獲得可量化經濟利益的具名機構。"
+          }
+        ],
+        "indicators_to_monitor_next": [
+          "同一官方機構的後續發布、修訂、實施文件與生效時間",
+          "直接受影響資產的成交量、波動、利差與相對大盤表現",
+          "至少一個獨立一手來源對關鍵事實與影響範圍的確認"
+        ],
+        "losers": [
+          {
+            "kind": "none_identified",
+            "name": "None identified",
+            "rationale": "現有官方事實不足以指認已經承受可量化經濟損失的具名機構。"
+          }
+        ],
+        "professional_investor_reaction": "專業投資人會核對原文與既有預期,把新事實轉成可驗證的傳導路徑,再檢查價格、利率、信用或後續公告是否支持該路徑。",
+        "what_changed": "U.S. Securities and Exchange Commission 於 2026-11-04 發布「SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers」。官方內文的核心事實為:「The Securities and Exchange Commission today adopted amendments to the rules that define which registered investment companies, investment advisers, and business development companies qualify as small entities for purposes of the Regulatory Flexibility Act (RFA). The Commission has a longstanding commitment to understanding and addressing the concerns of small entities.」 本報告已將官方事實與條件式市場推論分開。",
+        "why_it_matters": "這項更新可能透過政策、信用、成本或風險偏好影響美國風險資產定價,但官方內文沒有證明的方向與市場反應不會被當成事實。"
+      },
+      "market_impact": "medium",
+      "news_id": "news_fb3dfdacc7c668c0e923",
+      "score_components": [
+        {
+          "key": "market_size_impact",
+          "value": "5.0"
+        },
+        {
+          "key": "earnings_impact",
+          "value": "5.0"
+        },
+        {
+          "key": "macro_importance",
+          "value": "5.0"
+        },
+        {
+          "key": "sector_influence",
+          "value": "7.0"
+        },
+        {
+          "key": "short_term_trading_relevance",
+          "value": "6.0"
+        }
+      ],
+      "sources": [
+        {
+          "accessed_at": "2026-11-04T20:22:23.317580+00:00",
+          "evidence_id": "src_bbce136083f82a180ea2",
+          "evidence_role": "primary",
+          "published_at": "2026-11-04T16:28:00+00:00",
+          "publisher": "U.S. Securities and Exchange Commission",
+          "quoted_fragment": "",
+          "tier": "1",
+          "title": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers"
+        }
+      ],
+      "summary": "U.S. Securities and Exchange Commission 於 2026-11-04 發布「SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers」。本報告把官方頁面中連續、可核對的核心段落整理如下(保留英文原句,避免免費規則式翻譯改變原意):「The Securities and Exchange Commission today adopted amendments to the rules that define which registered investment companies, investment advisers, and business development companies qualify as small entities for purposes of the Regulatory Flexibility Act (RFA). The Commission has a longstanding commitment to understanding and addressing the concerns of small entities. The adopted amendments recognize the substantial growth in the asset management industry over the decades since the asset-based thresholds for identifying “small entities” were initially set.」 這張卡將「已確認的官方事實」與「對市場的條件式影響」分開;若原文沒有公布數值、相關決策或後續時點,本報告不會自行補齊。對投資人而言,下一步是用同一官方來源的後續公告或數據驗證方向,而不是只根據標題下單。",
+      "title": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers"
+    }
+  ],
+  "report_date": "2026-11-04",
+  "report_id": "daily-market-report-2026-11-04",
+  "research_discovery": {
+    "applications": [
+      {
+        "application": "閱讀官方論文的方法與樣本,確認研究設計後再納入金融條件監測。",
+        "category": "finance"
+      },
+      {
+        "application": "把核心假設轉成可觀測訊號,設定基準模型並做樣本外回測。",
+        "category": "investing"
+      },
+      {
+        "application": "把研究結論作為情境變數,並用公司自身需求、成本與招聘資料交叉驗證。",
+        "category": "business_strategy"
+      },
+      {
+        "application": "保存論文版本、資料版本與計算步驟,讓研究結果可重現並避免前視偏誤。",
+        "category": "technology"
+      }
+    ],
+    "changed_belief": "可用價值在於把論文提出的假設轉成可觀測、可回測的指標;是否有效必須由原文方法、資料修訂與樣本外結果共同決定。",
+    "discovered_on": "2026-11-02",
+    "discovery_id": "research_3e9f9b816a41edd85d86",
+    "impact": null,
+    "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges」。官方摘要確認其研究範圍以「Service fees continue to proliferate in a wide range of markets, from retail to payments, generating questions about...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
+    "sources": [
+      {
+        "accessed_at": "2026-11-04T20:22:29.113580+00:00",
+        "evidence_id": "src_6ee11c355c76cf2ce5cb",
+        "evidence_role": "primary",
+        "published_at": "2026-11-02T15:10:00+00:00",
+        "publisher": "Federal Reserve",
+        "quoted_fragment": "",
+        "tier": "1",
+        "title": "FEDS Paper: Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges",
+        "url": "https://www.federalreserve.gov/econres/feds/heterogeneity-in-service-fee-sensitivity-evidence-from-atm-surcharges.htm"
+      }
+    ],
+    "title": "FEDS Paper: Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges"
+  },
+  "schema_version": "1.0",
+  "section_statuses": {
+    "earnings": {
+      "detail": "Bounded SEC earnings coverage is degraded because the following source material was unavailable: one or more matching SEC filing documents. This is not a complete market calendar.",
+      "status": "degraded"
+    },
+    "global_macro": {
+      "detail": "This run considers genuine source releases from the prior 30 calendar days for Global Macro; the selected event date remains visible.",
+      "status": "available"
+    },
+    "knowledge_refresh": {
+      "detail": "",
+      "status": "available"
+    },
+    "market_news": {
+      "detail": "This run may use genuine source releases from the prior 14 calendar days to fill the Top 3 when fewer same-session items are available; every card shows its event date.",
+      "status": "available"
+    },
+    "research_discovery": {
+      "detail": "",
+      "status": "available"
+    }
+  },
+  "source_cutoff_at": "2026-11-04T20:22:22.196808+00:00",
+  "timezone": "America/New_York",
+  "validation_status": "degraded"
+}
