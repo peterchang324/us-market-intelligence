@@ -1,99 +1,14 @@
 {
   "earnings": {
     "candidates": [],
-    "confirmed_events": [
-      {
-        "announced_on": "2026-10-05",
-        "cik": "0001572694",
-        "company_name": "Goldman Sachs BDC, Inc.",
-        "conference_call_at": "2026-11-06T14:00:00+00:00",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Goldman Sachs BDC, Inc.(GSBD)的目標日為 2026-11-06。公告同時確認業績發布時間為 09:00 ET。另外,電話會議安排在 09:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_593830346073c95f0458",
-        "form": "8-K",
-        "release_timing": "before_market",
-        "release_timing_label": "Confirmed release: 2026-11-06T14:00:00+00:00",
-        "scheduled_release_at": "2026-11-06T14:00:00+00:00",
-        "sources": [
-          {
-            "accessed_at": "2026-11-05T20:33:45.474730+00:00",
-            "evidence_id": "src_de978b987ce3d4391e6b",
-            "evidence_role": "primary",
-            "published_at": "2026-10-05T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "Goldman Sachs BDC, Inc. 8-K issuer announcement (0001193125-26-414262)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1572694/000119312526414262/d179027d8k.htm"
-          }
-        ],
-        "target_date": "2026-11-06",
-        "ticker": "GSBD"
-      },
-      {
-        "announced_on": "2026-10-09",
-        "cik": "0001747172",
-        "company_name": "Kayne Anderson BDC, Inc.",
-        "conference_call_at": "2026-11-06T17:00:00+00:00",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Kayne Anderson BDC, Inc.(KBDC)的目標日為 2026-11-06。公告同時確認業績發布時間為 12:00 ET。另外,電話會議安排在 12:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_16bac375631d8f3fa25a",
-        "form": "8-K",
-        "release_timing": "during_market",
-        "release_timing_label": "Confirmed release: 2026-11-06T17:00:00+00:00",
-        "scheduled_release_at": "2026-11-06T17:00:00+00:00",
-        "sources": [
-          {
-            "accessed_at": "2026-11-05T20:33:45.474730+00:00",
-            "evidence_id": "src_9c42d7d62c287c48ed3c",
-            "evidence_role": "primary",
-            "published_at": "2026-10-09T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "Kayne Anderson BDC, Inc. 8-K issuer announcement (0001213900-26-108435)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1747172/000121390026108435/ea0308268-8k_kayne.htm"
-          }
-        ],
-        "target_date": "2026-11-06",
-        "ticker": "KBDC"
-      },
-      {
-        "announced_on": "2026-10-30",
-        "cik": "0001174169",
-        "company_name": "ALGONQUIN POWER & UTILITIES CORP.",
-        "conference_call_at": "2026-11-06T13:30:00+00:00",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:ALGONQUIN POWER & UTILITIES CORP.(AQN)的目標日為 2026-11-06。公告確認發布時段為美股開盤前,但沒有可供取信的精確時間。另外,電話會議安排在 08:30 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_d8e4798fc5911b72ffb3",
-        "form": "6-K",
-        "release_timing": "before_market",
-        "release_timing_label": "Before market (exact time not confirmed)",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-11-05T20:33:45.474730+00:00",
-            "evidence_id": "src_43f3e93e94a20cba9b32",
-            "evidence_role": "primary",
-            "published_at": "2026-10-30T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "ALGONQUIN POWER & UTILITIES CORP. 6-K issuer announcement (0001174169-26-000044)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1174169/000117416926000044/q32026savethedate.htm"
-          }
-        ],
-        "target_date": "2026-11-06",
-        "ticker": "AQN"
-      }
-    ],
-    "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
-    "next_open_session": "",
-    "status": "confirmed_events_available",
-    "target_date": "2026-11-06",
-    "universe_coverage": "bounded_research"
+    "confirmed_events": [],
+    "message": "Tomorrow US market is closed. No earnings trading analysis available.",
+    "next_open_session": "2026-11-09",
+    "status": "market_closed",
+    "target_date": "2026-11-07",
+    "universe_coverage": "not_applicable"
   },
-  "generated_at": "2026-11-05T20:33:35.983342+00:00",
+  "generated_at": "2026-11-06T19:54:54.876755+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -141,7 +56,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-11-05T20:33:37.680722+00:00",
+        "accessed_at": "2026-11-06T19:54:56.159228+00:00",
         "evidence_id": "src_7ef0cbe0af1fcbf59696",
         "evidence_role": "primary",
         "published_at": "2026-10-28T18:00:00+00:00",
@@ -156,18 +71,18 @@
     "title": "Federal Reserve issues FOMC statement"
   },
   "knowledge_refresh": {
-    "background": "複利把每一期的成果納入下一期基礎,因此長期結果取決於連續乘法而非簡單加法。財務數學以幾何平均描述這種成長路徑,並區分它與算術平均。當報酬波動加大時,兩者差距通常會擴大。",
-    "concept": "複利與路徑依賴",
-    "current_relevance": "只報導年度平均容易低估波動對資本累積的拖累。理解複利有助於區分看似亮眼的單期數字,與能否持續轉化為長期成果。它也提醒研究者,避免用多期百分比直接相加來描述累積變化。",
-    "example": "假設一項資產先上升百分之二十,再下降百分之二十,初始值為一百。第一期變成一百二十,第二期再乘零點八後只剩九十六。兩期算術平均報酬為零,但累積結果是負百分之四,這就是波動造成的複利落差。",
-    "explanation": "相同幅度的上漲與下跌不會彼此抵消,因為第二次變動作用在不同的本金上。長期累積結果應把每期的一加報酬率相乘,再扣除一。路徑依賴表示順序、波動與中途資金需求,都可能改變最終可得結果。"
+    "background": "現值概念源自貨幣具有時間價值,未來現金流必須用要求報酬率換算回今天。債券研究用存續期衡量價格對殖利率變動的敏感度,後來也廣泛用於分析長期資產。現金流越晚實現,其現值通常越受折現率影響。",
+    "concept": "折現率與資產存續期",
+    "current_relevance": "許多估值爭議表面上是對成長看法不同,實際上也可能來自折現率假設不同。將現金流時間與折現率拆開,可以看清價值變動究竟源自營運預期還是資金成本。這比只比較單一估值倍數更能揭露模型的真正敏感點。",
+    "example": "假設五年後收到一百,折現率為百分之五時,現值約為七十八點四。若其他條件不變而折現率升至百分之八,現值約降至六十八點一。現金流沒有改變,現值約少十點三,亦即相對下降約百分之十三;差異完全來自資金成本假設。",
+    "explanation": "折現率同時補償等待時間、不確定性與其他可選機會。把未來金額除以一加折現率的期數次方,就得到近似現值。所謂長存續期,意思是價值重心位於較遠未來,因此對折現率更敏感。"
   },
   "market_context": {
     "market_status": "NYSE SESSION TODAY",
-    "next_open_session": "2026-11-06",
-    "previous_session": "2026-11-04",
-    "tomorrow_date": "2026-11-06",
-    "tomorrow_status": "NYSE SESSION"
+    "next_open_session": "2026-11-09",
+    "previous_session": "2026-11-05",
+    "tomorrow_date": "2026-11-07",
+    "tomorrow_status": "NYSE CLOSED"
   },
   "market_news": [
     {
@@ -179,7 +94,7 @@
       "attention_score": "8.2",
       "bear_case": "若就業同時轉弱、物價或薪資壓力卻未消退,市場將面對滾脹式下修與利率難以快速下降的雙重風險。消費循環、低品質信用與小型企業的盈利預期可能同時惡化。",
       "bull_case": "若就業、薪資與通膨組合指向需求仍穩定但價格壓力緩和,市場會往軟著陸定價移動。企業營收預期可獲得支撐,同時不必大幅上調折現率。",
-      "event_date": "2026-11-05",
+      "event_date": "2026-11-06",
       "impact": {
         "beneficiaries": [
           {
@@ -212,11 +127,11 @@
           }
         ],
         "professional_investor_reaction": "專業投資人會將當期數值與前值修訂、3 個月移動平均、勞參率與薪資分布一起比較,再用美債、美元與週期/防禦板塊的相對反應判斷是成長訊號還是利率訊號佔上風。",
-        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-11-05 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
+        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-11-06 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
         "why_it_matters": "勞動需求決定家戶所得與企業成本,並經由通膨與聯準會反應函數影響美國風險資產定價。「就業強、通膨降」與「就業弱、通膨高」對資產的含義完全不同,因此必須聯立讀取。"
       },
       "market_impact": "high",
-      "news_id": "news_12e9c05e9fe242100d4b",
+      "news_id": "news_8543cae1e2d93fbe18f7",
       "score_components": [
         {
           "key": "market_size_impact",
@@ -241,10 +156,10 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-05T20:33:37.675596+00:00",
+          "accessed_at": "2026-11-06T19:54:56.155746+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
-          "published_at": "2026-11-05T13:30:19+00:00",
+          "published_at": "2026-11-06T13:31:35+00:00",
           "publisher": "U.S. Bureau of Labor Statistics",
           "quoted_fragment": "",
           "tier": "1",
@@ -252,7 +167,7 @@
           "url": "https://www.bls.gov/bls/"
         }
       ],
-      "summary": "U.S. Bureau of Labor Statistics 於 2026-11-05 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.6%(Sep 2026)、失業率為 4.2%(Sep 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
+      "summary": "U.S. Bureau of Labor Statistics 於 2026-11-06 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.6%(Sep 2026)、失業率為 4.1%(Oct 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
       "title": "Major Economic Indicators Latest Numbers"
     },
     {
@@ -326,7 +241,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-05T20:33:37.675596+00:00",
+          "accessed_at": "2026-11-06T19:54:56.155746+00:00",
           "evidence_id": "src_7ef0cbe0af1fcbf59696",
           "evidence_role": "primary",
           "published_at": "2026-10-28T18:00:00+00:00",
@@ -404,7 +319,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-05T20:33:37.675596+00:00",
+          "accessed_at": "2026-11-06T19:54:56.155746+00:00",
           "evidence_id": "src_4f65553ca3f29e3655b5",
           "evidence_role": "primary",
           "published_at": "2026-11-05T16:00:00+00:00",
@@ -419,8 +334,8 @@
       "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc"
     }
   ],
-  "report_date": "2026-11-05",
-  "report_id": "daily-market-report-2026-11-05",
+  "report_date": "2026-11-06",
+  "report_id": "daily-market-report-2026-11-06",
   "research_discovery": {
     "applications": [
       {
@@ -447,7 +362,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges」。官方摘要確認其研究範圍以「Service fees continue to proliferate in a wide range of markets, from retail to payments, generating questions about...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-11-05T20:33:45.641263+00:00",
+        "accessed_at": "2026-11-06T19:54:56.283234+00:00",
         "evidence_id": "src_6ee11c355c76cf2ce5cb",
         "evidence_role": "primary",
         "published_at": "2026-11-02T15:10:00+00:00",
@@ -463,8 +378,8 @@
   "schema_version": "1.0",
   "section_statuses": {
     "earnings": {
-      "detail": "Bounded SEC earnings coverage is degraded because the following source material was unavailable: one or more matching SEC filing documents. This is not a complete market calendar.",
-      "status": "degraded"
+      "detail": "",
+      "status": "available"
     },
     "global_macro": {
       "detail": "This run considers genuine source releases from the prior 30 calendar days for Global Macro; the selected event date remains visible.",
@@ -483,7 +398,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-11-05T20:33:35.983342+00:00",
+  "source_cutoff_at": "2026-11-06T19:54:54.876755+00:00",
   "timezone": "America/New_York",
-  "validation_status": "degraded"
+  "validation_status": "valid"
 }

@@ -1,17 +1,25 @@
 {
-  "generated_at": "2026-11-05T20:33:35.983342+00:00",
+  "generated_at": "2026-11-06T19:54:54.876755+00:00",
   "latest": {
-    "dated_sha256": "8ee4ca1dff17b39d1fae05102442e84425a28ff06697afbced732e90ee0faf9d",
-    "generated_at": "2026-11-05T20:33:35.983342+00:00",
-    "href": "reports/daily_market_report_2026-11-05.html",
-    "latest_sha256": "8ee4ca1dff17b39d1fae05102442e84425a28ff06697afbced732e90ee0faf9d",
-    "report_date": "2026-11-05",
-    "report_id": "daily-market-report-2026-11-05",
+    "dated_sha256": "eb80f090ad4dfa32fa79f5f88a1321da201d646e989422590f5a22b66ba91e2a",
+    "generated_at": "2026-11-06T19:54:54.876755+00:00",
+    "href": "reports/daily_market_report_2026-11-06.html",
+    "latest_sha256": "eb80f090ad4dfa32fa79f5f88a1321da201d646e989422590f5a22b66ba91e2a",
+    "report_date": "2026-11-06",
+    "report_id": "daily-market-report-2026-11-06",
     "schema_version": "1.0",
-    "sha256": "8ee4ca1dff17b39d1fae05102442e84425a28ff06697afbced732e90ee0faf9d"
+    "sha256": "eb80f090ad4dfa32fa79f5f88a1321da201d646e989422590f5a22b66ba91e2a"
   },
   "manifest_version": "1.0",
   "reports": [
+    {
+      "generated_at": "2026-11-06T19:54:54.876755+00:00",
+      "href": "reports/daily_market_report_2026-11-06.html",
+      "report_date": "2026-11-06",
+      "report_id": "daily-market-report-2026-11-06",
+      "schema_version": "1.0",
+      "sha256": "eb80f090ad4dfa32fa79f5f88a1321da201d646e989422590f5a22b66ba91e2a"
+    },
     {
       "generated_at": "2026-11-05T20:33:35.983342+00:00",
       "href": "reports/daily_market_report_2026-11-05.html",
@@ -67,14 +75,6 @@
       "report_id": "daily-market-report-2026-10-30",
       "schema_version": "1.0",
       "sha256": "e3581138ca08bcba89451caa5a3c188d92cf6d6b6155f1e9d4974c8eb8805e7e"
-    },
-    {
-      "generated_at": "2026-10-29T18:21:10.030321+00:00",
-      "href": "reports/daily_market_report_2026-10-29.html",
-      "report_date": "2026-10-29",
-      "report_id": "daily-market-report-2026-10-29",
-      "schema_version": "1.0",
-      "sha256": "76528692e4e8c73985b80df862f55b6a2befc1751aa98811da322149c88999db"
     }
   ],
   "retention": {
