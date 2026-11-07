@@ -5,10 +5,10 @@
     "message": "Tomorrow US market is closed. No earnings trading analysis available.",
     "next_open_session": "2026-11-09",
     "status": "market_closed",
-    "target_date": "2026-11-07",
+    "target_date": "2026-11-08",
     "universe_coverage": "not_applicable"
   },
-  "generated_at": "2026-11-06T19:54:54.876755+00:00",
+  "generated_at": "2026-11-07T17:58:54.976479+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -56,7 +56,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-11-06T19:54:56.159228+00:00",
+        "accessed_at": "2026-11-07T17:58:56.153358+00:00",
         "evidence_id": "src_7ef0cbe0af1fcbf59696",
         "evidence_role": "primary",
         "published_at": "2026-10-28T18:00:00+00:00",
@@ -71,17 +71,17 @@
     "title": "Federal Reserve issues FOMC statement"
   },
   "knowledge_refresh": {
-    "background": "現值概念源自貨幣具有時間價值,未來現金流必須用要求報酬率換算回今天。債券研究用存續期衡量價格對殖利率變動的敏感度,後來也廣泛用於分析長期資產。現金流越晚實現,其現值通常越受折現率影響。",
-    "concept": "折現率與資產存續期",
-    "current_relevance": "許多估值爭議表面上是對成長看法不同,實際上也可能來自折現率假設不同。將現金流時間與折現率拆開,可以看清價值變動究竟源自營運預期還是資金成本。這比只比較單一估值倍數更能揭露模型的真正敏感點。",
-    "example": "假設五年後收到一百,折現率為百分之五時,現值約為七十八點四。若其他條件不變而折現率升至百分之八,現值約降至六十八點一。現金流沒有改變,現值約少十點三,亦即相對下降約百分之十三;差異完全來自資金成本假設。",
-    "explanation": "折現率同時補償等待時間、不確定性與其他可選機會。把未來金額除以一加折現率的期數次方,就得到近似現值。所謂長存續期,意思是價值重心位於較遠未來,因此對折現率更敏感。"
+    "background": "經濟與會計資料常以當期貨幣表示,這類名目數字同時包含數量變化與價格變化。為了比較跨期購買力,經濟分析會利用適當價格指數計算實質變化。名目與實質的區分,是解讀營收、工資、產出與利率的基本功。",
+    "concept": "名目成長與實質成長",
+    "current_relevance": "企業可能在銷量持平時因調價而呈現名目成長,也可能因成本上升而沒有實質改善。把價格與數量拆分,能避免把通膨造成的金額膨脹誤判為需求擴張。同樣方法也適用於比較工資、利息收入與長期購買力。",
+    "example": "假設某業務收入增加百分之六,而相關價格水準增加百分之四。實質成長約等於一點零六除以一點零四再扣一,也就是百分之一點九。因此六個百分點的名目增幅中,大部分來自價格,實際數量改善接近兩個百分點。",
+    "explanation": "名目成長回答金額增加多少,實質成長則嘗試回答扣除價格變化後的數量增加多少。精確換算應用一加名目成長除以一加通膨,再扣除一。當通膨較低時可用名目減通膨近似,但差距較大時不宜只做減法。"
   },
   "market_context": {
-    "market_status": "NYSE SESSION TODAY",
+    "market_status": "NYSE CLOSED TODAY",
     "next_open_session": "2026-11-09",
-    "previous_session": "2026-11-05",
-    "tomorrow_date": "2026-11-07",
+    "previous_session": "2026-11-06",
+    "tomorrow_date": "2026-11-08",
     "tomorrow_status": "NYSE CLOSED"
   },
   "market_news": [
@@ -156,7 +156,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-06T19:54:56.155746+00:00",
+          "accessed_at": "2026-11-07T17:58:56.149377+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-11-06T13:31:35+00:00",
@@ -241,7 +241,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-06T19:54:56.155746+00:00",
+          "accessed_at": "2026-11-07T17:58:56.149377+00:00",
           "evidence_id": "src_7ef0cbe0af1fcbf59696",
           "evidence_role": "primary",
           "published_at": "2026-10-28T18:00:00+00:00",
@@ -319,7 +319,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-06T19:54:56.155746+00:00",
+          "accessed_at": "2026-11-07T17:58:56.149377+00:00",
           "evidence_id": "src_4f65553ca3f29e3655b5",
           "evidence_role": "primary",
           "published_at": "2026-11-05T16:00:00+00:00",
@@ -334,8 +334,8 @@
       "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc"
     }
   ],
-  "report_date": "2026-11-06",
-  "report_id": "daily-market-report-2026-11-06",
+  "report_date": "2026-11-07",
+  "report_id": "daily-market-report-2026-11-07",
   "research_discovery": {
     "applications": [
       {
@@ -362,7 +362,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges」。官方摘要確認其研究範圍以「Service fees continue to proliferate in a wide range of markets, from retail to payments, generating questions about...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-11-06T19:54:56.283234+00:00",
+        "accessed_at": "2026-11-07T17:58:56.227944+00:00",
         "evidence_id": "src_6ee11c355c76cf2ce5cb",
         "evidence_role": "primary",
         "published_at": "2026-11-02T15:10:00+00:00",
@@ -398,7 +398,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-11-06T19:54:54.876755+00:00",
+  "source_cutoff_at": "2026-11-07T17:58:54.976479+00:00",
   "timezone": "America/New_York",
   "validation_status": "valid"
 }
