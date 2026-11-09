@@ -3,32 +3,144 @@
     "candidates": [],
     "confirmed_events": [
       {
+        "announced_on": "2026-10-22",
+        "cik": "0001059142",
+        "company_name": "Greystone Housing Impact Investors LP",
+        "conference_call_at": "2026-11-10T14:00:00+00:00",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Greystone Housing Impact Investors LP(GHI)的目標日為 2026-11-10。公告同時確認業績發布時間為 09:00 ET。另外,電話會議安排在 09:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_06cc9dba5d9e38a31fb3",
+        "form": "8-K",
+        "release_timing": "before_market",
+        "release_timing_label": "Confirmed release: 2026-11-10T14:00:00+00:00",
+        "scheduled_release_at": "2026-11-10T14:00:00+00:00",
+        "sources": [
+          {
+            "accessed_at": "2026-11-09T22:56:38.041060+00:00",
+            "evidence_id": "src_cd13b7c7fc11600c823e",
+            "evidence_role": "primary",
+            "published_at": "2026-10-22T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Greystone Housing Impact Investors LP 8-K issuer announcement (0001193125-26-428987)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1059142/000119312526428987/ghi-ex99_1.htm"
+          }
+        ],
+        "target_date": "2026-11-10",
+        "ticker": "GHI"
+      },
+      {
         "announced_on": "2026-10-27",
-        "cik": "0001655050",
-        "company_name": "Bain Capital Specialty Finance, Inc.",
+        "cik": "0001853717",
+        "company_name": "Atour Lifestyle Holdings Ltd",
         "conference_call_at": "",
         "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Bain Capital Specialty Finance, Inc.(BCSF)的目標日為 2026-11-09。公告確認發布時段為美股收盤後,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_75372e2d59da40d5dbe3",
-        "form": "8-K",
-        "release_timing": "after_market",
-        "release_timing_label": "After market (exact time not confirmed)",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Atour Lifestyle Holdings Ltd(ATAT)的目標日為 2026-11-10。公告確認發布時段為美股開盤前,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_d6b90b10d5eccad272f3",
+        "form": "6-K",
+        "release_timing": "before_market",
+        "release_timing_label": "Before market (exact time not confirmed)",
         "scheduled_release_at": "",
         "sources": [
           {
-            "accessed_at": "2026-11-08T18:17:20.211051+00:00",
-            "evidence_id": "src_c41df595b2ea57fbd940",
+            "accessed_at": "2026-11-09T22:56:38.041060+00:00",
+            "evidence_id": "src_172a59792c3abefd217c",
             "evidence_role": "primary",
             "published_at": "2026-10-27T00:00:00+00:00",
             "publisher": "U.S. Securities and Exchange Commission",
             "quoted_fragment": "",
             "tier": "1",
-            "title": "Bain Capital Specialty Finance, Inc. 8-K issuer announcement (0001193125-26-432235)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1655050/000119312526432235/bcsf-ex99_1.htm"
+            "title": "Atour Lifestyle Holdings Ltd 6-K issuer announcement (0001104659-26-118939)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1853717/000110465926118939/tm2628353d1_ex99-1.htm"
           }
         ],
-        "target_date": "2026-11-09",
-        "ticker": "BCSF"
+        "target_date": "2026-11-10",
+        "ticker": "ATAT"
+      },
+      {
+        "announced_on": "2026-11-09",
+        "cik": "0002141616",
+        "company_name": "Amaero Inc.",
+        "conference_call_at": "2026-11-10T21:30:00+00:00",
+        "confirmation_basis": "earnings_conference_call",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排目標日的財報電話會議:Amaero Inc.(AMRO)的目標日為 2026-11-10。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 16:30 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_9b5e7ccfcab61eb0bdbb",
+        "form": "8-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-09T22:56:38.041060+00:00",
+            "evidence_id": "src_c40f8ceb3424d23c8472",
+            "evidence_role": "primary",
+            "published_at": "2026-11-09T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Amaero Inc. 8-K issuer announcement (0001193125-26-453526)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2141616/000119312526453526/ck0002141616-ex99_1.htm"
+          }
+        ],
+        "target_date": "2026-11-10",
+        "ticker": "AMRO"
+      },
+      {
+        "announced_on": "2026-10-20",
+        "cik": "0001861737",
+        "company_name": "Hesai Group",
+        "conference_call_at": "2026-11-10T12:00:00+00:00",
+        "confirmation_basis": "board_meeting_results",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排董事會在目標日審議或批准財務結果:Hesai Group(HSAI)的目標日為 2026-11-10。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 07:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_5736865d99d34708f0c7",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-09T22:56:38.041060+00:00",
+            "evidence_id": "src_6356739d5008e8b3c5e9",
+            "evidence_role": "primary",
+            "published_at": "2026-10-20T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Hesai Group 6-K issuer announcement (0001104659-26-117122)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1861737/000110465926117122/tm2627914d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-10",
+        "ticker": "HSAI"
+      },
+      {
+        "announced_on": "2026-10-14",
+        "cik": "0001287098",
+        "company_name": "MAXCYTE, INC.",
+        "conference_call_at": "2026-11-10T21:30:00+00:00",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:MAXCYTE, INC.(MXCT)的目標日為 2026-11-10。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 16:30 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_388dbe0b63a4872e31e3",
+        "form": "8-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-09T22:56:38.041060+00:00",
+            "evidence_id": "src_c6a79801771a5e08d32e",
+            "evidence_role": "primary",
+            "published_at": "2026-10-14T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "MAXCYTE, INC. 8-K issuer announcement (0001104659-26-115745)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1287098/000110465926115745/tm2627568d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-10",
+        "ticker": "MXCT"
       },
       {
         "announced_on": "2026-10-28",
@@ -36,15 +148,15 @@
         "company_name": "KEMPER Corp",
         "conference_call_at": "",
         "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:KEMPER Corp(KMPB)的目標日為 2026-11-09。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_988b0046091118e58a0c",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:KEMPER Corp(KMPB)的目標日為 2026-11-10。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_e23d8a06be66e1810261",
         "form": "8-K",
         "release_timing": "time_not_confirmed",
         "release_timing_label": "Release time not confirmed",
         "scheduled_release_at": "",
         "sources": [
           {
-            "accessed_at": "2026-11-08T18:17:20.211051+00:00",
+            "accessed_at": "2026-11-09T22:56:38.041060+00:00",
             "evidence_id": "src_29634d0f152a69a3698d",
             "evidence_role": "primary",
             "published_at": "2026-10-28T00:00:00+00:00",
@@ -55,45 +167,17 @@
             "url": "https://www.sec.gov/Archives/edgar/data/860748/000086074826000091/kmpr2026q3ex991pre-release.htm"
           }
         ],
-        "target_date": "2026-11-09",
+        "target_date": "2026-11-10",
         "ticker": "KMPB"
-      },
-      {
-        "announced_on": "2026-10-06",
-        "cik": "0000110621",
-        "company_name": "RPM INTERNATIONAL INC/DE/",
-        "conference_call_at": "",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:RPM INTERNATIONAL INC/DE/(RPM)的目標日為 2026-11-09。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_ff314ec8ca5668ee9af6",
-        "form": "8-K",
-        "release_timing": "time_not_confirmed",
-        "release_timing_label": "Release time not confirmed",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-11-08T18:17:20.211051+00:00",
-            "evidence_id": "src_1d6aa44ef8577ebc9c96",
-            "evidence_role": "primary",
-            "published_at": "2026-10-06T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "RPM INTERNATIONAL INC/DE/ 8-K issuer announcement (0001193125-26-414916)",
-            "url": "https://www.sec.gov/Archives/edgar/data/110621/000119312526414916/d80757dex991.htm"
-          }
-        ],
-        "target_date": "2026-11-09",
-        "ticker": "RPM"
       }
     ],
     "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
     "next_open_session": "",
     "status": "confirmed_events_available",
-    "target_date": "2026-11-09",
+    "target_date": "2026-11-10",
     "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-11-08T18:17:13.980564+00:00",
+  "generated_at": "2026-11-09T22:56:29.734634+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -141,7 +225,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-11-08T18:17:14.971222+00:00",
+        "accessed_at": "2026-11-09T22:56:32.646876+00:00",
         "evidence_id": "src_7ef0cbe0af1fcbf59696",
         "evidence_role": "primary",
         "published_at": "2026-10-28T18:00:00+00:00",
@@ -156,17 +240,17 @@
     "title": "Federal Reserve issues FOMC statement"
   },
   "knowledge_refresh": {
-    "background": "利率期限結構研究把長期殖利率拆成未來短率預期與期限溢酬。通膨連結債券的發展,又讓分析者能進一步區分實質利率與通膨補償。這些分解方法用來避免把每一次長端利率變動都解讀成相同訊號。",
-    "concept": "殖利率曲線的三個成分",
-    "current_relevance": "將殖利率曲線當成單一訊號,容易產生過度簡化的市場敘事。成分分解能把政策路徑、通膨補償和期限供需的影響分開追蹤。即使估計本身有誤差,明確列出可能來源仍比直接推論更具可檢驗性。",
-    "example": "假設十年期殖利率為百分之四,其中預期平均短率為百分之三,期限溢酬為百分之一。若殖利率升至百分之四點五,但預期短率仍為百分之三,新增的半個百分點可先視為期限溢酬變化。這個分解不等於最終定論,卻清楚指出下一步應驗證的是期限供需而非政策預期。",
-    "explanation": "長期名目殖利率可粗略理解為預期短期實質利率、預期通膨與期限風險補償的合計。同樣上升一個百分點,可能代表成長預期、通膨預期或風險溢酬中的任一項變化。只有先辨認成分,才有可能判斷它對不同資產與融資成本的含義。"
+    "background": "銀行與企業分析長期區分短期付款能力和長期資產負債是否健全。前者是流動性問題,後者是償付能力問題,兩者可能同時發生,也可能只出現其中一種。許多危機處理失敗,源於把暫時現金缺口和資產不足混為一談。",
+    "concept": "流動性與償付能力",
+    "current_relevance": "融資期限縮短時,小小的時間錯配就可能放大成信心問題。分清兩者有助於判斷需要的是短期資金橋接、資產出售,還是更根本的資本重整。研究報告若只寫現金餘額或淨資產其中一項,往往無法完整描述風險。",
+    "example": "假設一家公司可實現資產為一百二十、總負債為一百,但本週現金只有二。若本週到期付款為八,它在帳面上仍具償付能力,卻有六的流動性缺口。若主要資產只能以九十出售,問題便從付款時間錯配轉為資產不足,處理方式也會改變。",
+    "explanation": "流動性關心資產能否及時且低折價地變成現金,償付能力則比較可實現資產價值與總負債。一個主體可能資產大於負債,卻因現金到期錯配而無法準時付款。也可能帳上現金充足,但長期負債最終仍超過可回收資產。"
   },
   "market_context": {
-    "market_status": "NYSE CLOSED TODAY",
-    "next_open_session": "2026-11-09",
+    "market_status": "NYSE SESSION TODAY",
+    "next_open_session": "2026-11-10",
     "previous_session": "2026-11-06",
-    "tomorrow_date": "2026-11-09",
+    "tomorrow_date": "2026-11-10",
     "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
@@ -241,7 +325,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-08T18:17:14.968750+00:00",
+          "accessed_at": "2026-11-09T22:56:32.642967+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-11-06T13:31:35+00:00",
@@ -326,7 +410,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-08T18:17:14.968750+00:00",
+          "accessed_at": "2026-11-09T22:56:32.642967+00:00",
           "evidence_id": "src_7ef0cbe0af1fcbf59696",
           "evidence_role": "primary",
           "published_at": "2026-10-28T18:00:00+00:00",
@@ -404,7 +488,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-08T18:17:14.968750+00:00",
+          "accessed_at": "2026-11-09T22:56:32.642967+00:00",
           "evidence_id": "src_4f65553ca3f29e3655b5",
           "evidence_role": "primary",
           "published_at": "2026-11-05T16:00:00+00:00",
@@ -419,8 +503,8 @@
       "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc"
     }
   ],
-  "report_date": "2026-11-08",
-  "report_id": "daily-market-report-2026-11-08",
+  "report_date": "2026-11-09",
+  "report_id": "daily-market-report-2026-11-09",
   "research_discovery": {
     "applications": [
       {
@@ -447,7 +531,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges」。官方摘要確認其研究範圍以「Service fees continue to proliferate in a wide range of markets, from retail to payments, generating questions about...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-11-08T18:17:20.342072+00:00",
+        "accessed_at": "2026-11-09T22:56:38.174191+00:00",
         "evidence_id": "src_6ee11c355c76cf2ce5cb",
         "evidence_role": "primary",
         "published_at": "2026-11-02T15:10:00+00:00",
@@ -463,8 +547,8 @@
   "schema_version": "1.0",
   "section_statuses": {
     "earnings": {
-      "detail": "",
-      "status": "available"
+      "detail": "Bounded SEC earnings coverage is degraded because the following source material was unavailable: one or more matching SEC filing documents. This is not a complete market calendar.",
+      "status": "degraded"
     },
     "global_macro": {
       "detail": "This run considers genuine source releases from the prior 30 calendar days for Global Macro; the selected event date remains visible.",
@@ -483,7 +567,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-11-08T18:17:13.980564+00:00",
+  "source_cutoff_at": "2026-11-09T22:56:29.734634+00:00",
   "timezone": "America/New_York",
-  "validation_status": "valid"
+  "validation_status": "degraded"
 }
