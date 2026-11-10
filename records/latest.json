@@ -1,183 +1,14 @@
 {
   "earnings": {
     "candidates": [],
-    "confirmed_events": [
-      {
-        "announced_on": "2026-10-22",
-        "cik": "0001059142",
-        "company_name": "Greystone Housing Impact Investors LP",
-        "conference_call_at": "2026-11-10T14:00:00+00:00",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Greystone Housing Impact Investors LP(GHI)的目標日為 2026-11-10。公告同時確認業績發布時間為 09:00 ET。另外,電話會議安排在 09:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_06cc9dba5d9e38a31fb3",
-        "form": "8-K",
-        "release_timing": "before_market",
-        "release_timing_label": "Confirmed release: 2026-11-10T14:00:00+00:00",
-        "scheduled_release_at": "2026-11-10T14:00:00+00:00",
-        "sources": [
-          {
-            "accessed_at": "2026-11-09T22:56:38.041060+00:00",
-            "evidence_id": "src_cd13b7c7fc11600c823e",
-            "evidence_role": "primary",
-            "published_at": "2026-10-22T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "Greystone Housing Impact Investors LP 8-K issuer announcement (0001193125-26-428987)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1059142/000119312526428987/ghi-ex99_1.htm"
-          }
-        ],
-        "target_date": "2026-11-10",
-        "ticker": "GHI"
-      },
-      {
-        "announced_on": "2026-10-27",
-        "cik": "0001853717",
-        "company_name": "Atour Lifestyle Holdings Ltd",
-        "conference_call_at": "",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Atour Lifestyle Holdings Ltd(ATAT)的目標日為 2026-11-10。公告確認發布時段為美股開盤前,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_d6b90b10d5eccad272f3",
-        "form": "6-K",
-        "release_timing": "before_market",
-        "release_timing_label": "Before market (exact time not confirmed)",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-11-09T22:56:38.041060+00:00",
-            "evidence_id": "src_172a59792c3abefd217c",
-            "evidence_role": "primary",
-            "published_at": "2026-10-27T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "Atour Lifestyle Holdings Ltd 6-K issuer announcement (0001104659-26-118939)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1853717/000110465926118939/tm2628353d1_ex99-1.htm"
-          }
-        ],
-        "target_date": "2026-11-10",
-        "ticker": "ATAT"
-      },
-      {
-        "announced_on": "2026-11-09",
-        "cik": "0002141616",
-        "company_name": "Amaero Inc.",
-        "conference_call_at": "2026-11-10T21:30:00+00:00",
-        "confirmation_basis": "earnings_conference_call",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排目標日的財報電話會議:Amaero Inc.(AMRO)的目標日為 2026-11-10。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 16:30 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_9b5e7ccfcab61eb0bdbb",
-        "form": "8-K",
-        "release_timing": "time_not_confirmed",
-        "release_timing_label": "Release time not confirmed",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-11-09T22:56:38.041060+00:00",
-            "evidence_id": "src_c40f8ceb3424d23c8472",
-            "evidence_role": "primary",
-            "published_at": "2026-11-09T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "Amaero Inc. 8-K issuer announcement (0001193125-26-453526)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2141616/000119312526453526/ck0002141616-ex99_1.htm"
-          }
-        ],
-        "target_date": "2026-11-10",
-        "ticker": "AMRO"
-      },
-      {
-        "announced_on": "2026-10-20",
-        "cik": "0001861737",
-        "company_name": "Hesai Group",
-        "conference_call_at": "2026-11-10T12:00:00+00:00",
-        "confirmation_basis": "board_meeting_results",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排董事會在目標日審議或批准財務結果:Hesai Group(HSAI)的目標日為 2026-11-10。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 07:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_5736865d99d34708f0c7",
-        "form": "6-K",
-        "release_timing": "time_not_confirmed",
-        "release_timing_label": "Release time not confirmed",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-11-09T22:56:38.041060+00:00",
-            "evidence_id": "src_6356739d5008e8b3c5e9",
-            "evidence_role": "primary",
-            "published_at": "2026-10-20T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "Hesai Group 6-K issuer announcement (0001104659-26-117122)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1861737/000110465926117122/tm2627914d1_ex99-1.htm"
-          }
-        ],
-        "target_date": "2026-11-10",
-        "ticker": "HSAI"
-      },
-      {
-        "announced_on": "2026-10-14",
-        "cik": "0001287098",
-        "company_name": "MAXCYTE, INC.",
-        "conference_call_at": "2026-11-10T21:30:00+00:00",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:MAXCYTE, INC.(MXCT)的目標日為 2026-11-10。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 16:30 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_388dbe0b63a4872e31e3",
-        "form": "8-K",
-        "release_timing": "time_not_confirmed",
-        "release_timing_label": "Release time not confirmed",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-11-09T22:56:38.041060+00:00",
-            "evidence_id": "src_c6a79801771a5e08d32e",
-            "evidence_role": "primary",
-            "published_at": "2026-10-14T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "MAXCYTE, INC. 8-K issuer announcement (0001104659-26-115745)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1287098/000110465926115745/tm2627568d1_ex99-1.htm"
-          }
-        ],
-        "target_date": "2026-11-10",
-        "ticker": "MXCT"
-      },
-      {
-        "announced_on": "2026-10-28",
-        "cik": "0000860748",
-        "company_name": "KEMPER Corp",
-        "conference_call_at": "",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:KEMPER Corp(KMPB)的目標日為 2026-11-10。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_e23d8a06be66e1810261",
-        "form": "8-K",
-        "release_timing": "time_not_confirmed",
-        "release_timing_label": "Release time not confirmed",
-        "scheduled_release_at": "",
-        "sources": [
-          {
-            "accessed_at": "2026-11-09T22:56:38.041060+00:00",
-            "evidence_id": "src_29634d0f152a69a3698d",
-            "evidence_role": "primary",
-            "published_at": "2026-10-28T00:00:00+00:00",
-            "publisher": "U.S. Securities and Exchange Commission",
-            "quoted_fragment": "",
-            "tier": "1",
-            "title": "KEMPER Corp 8-K issuer announcement (0000860748-26-000091)",
-            "url": "https://www.sec.gov/Archives/edgar/data/860748/000086074826000091/kmpr2026q3ex991pre-release.htm"
-          }
-        ],
-        "target_date": "2026-11-10",
-        "ticker": "KMPB"
-      }
-    ],
-    "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
+    "confirmed_events": [],
+    "message": "The bounded SEC filing scan did not find an issuer-confirmed event for the target date. This does not mean that no company reports earnings.",
     "next_open_session": "",
-    "status": "confirmed_events_available",
-    "target_date": "2026-11-10",
+    "status": "no_confirmed_events_in_bounded_scan",
+    "target_date": "2026-11-11",
     "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-11-09T22:56:29.734634+00:00",
+  "generated_at": "2026-11-10T20:24:00.626337+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -225,7 +56,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-11-09T22:56:32.646876+00:00",
+        "accessed_at": "2026-11-10T20:24:01.844885+00:00",
         "evidence_id": "src_7ef0cbe0af1fcbf59696",
         "evidence_role": "primary",
         "published_at": "2026-10-28T18:00:00+00:00",
@@ -240,17 +71,17 @@
     "title": "Federal Reserve issues FOMC statement"
   },
   "knowledge_refresh": {
-    "background": "銀行與企業分析長期區分短期付款能力和長期資產負債是否健全。前者是流動性問題,後者是償付能力問題,兩者可能同時發生,也可能只出現其中一種。許多危機處理失敗,源於把暫時現金缺口和資產不足混為一談。",
-    "concept": "流動性與償付能力",
-    "current_relevance": "融資期限縮短時,小小的時間錯配就可能放大成信心問題。分清兩者有助於判斷需要的是短期資金橋接、資產出售,還是更根本的資本重整。研究報告若只寫現金餘額或淨資產其中一項,往往無法完整描述風險。",
-    "example": "假設一家公司可實現資產為一百二十、總負債為一百,但本週現金只有二。若本週到期付款為八,它在帳面上仍具償付能力,卻有六的流動性缺口。若主要資產只能以九十出售,問題便從付款時間錯配轉為資產不足,處理方式也會改變。",
-    "explanation": "流動性關心資產能否及時且低折價地變成現金,償付能力則比較可實現資產價值與總負債。一個主體可能資產大於負債,卻因現金到期錯配而無法準時付款。也可能帳上現金充足,但長期負債最終仍超過可回收資產。"
+    "background": "信用市場用相對無風險基準的額外殖利率,衡量承擔借款人風險所需的補償。這個利差不只包含預期違約損失,也可能反映流動性、風險厭惡與市場技術因素。因此利差是風險價格,而不是違約機率的直接讀數。",
+    "concept": "信用利差與違約補償",
+    "current_relevance": "企業融資成本由基準利率與信用利差共同決定,只看其中一項可能誤判壓力。利差也能補充股票市場敘事,因為債權人更直接關注下行保護和現金償付。不過,把短期流動性衝擊直接當成永久信用惡化,同樣可能造成錯誤結論。",
+    "example": "假設五年期公司債殖利率為百分之六,同期限基準殖利率為百分之四,信用利差就是兩百個基點。若公司債升至百分之七而基準維持百分之四,利差擴大到三百個基點。新增的一百個基點是信用與流動性補償上升,仍需更多證據才能判定其中有多少來自違約風險。",
+    "explanation": "信用利差等於信用工具殖利率減去可比較期限的基準殖利率。利差擴大表示額外補償提高,但原因可能是基本面轉弱,也可能只是交易流動性下降。判讀時要同時檢查違約率、回收率假設與市場供需。"
   },
   "market_context": {
     "market_status": "NYSE SESSION TODAY",
-    "next_open_session": "2026-11-10",
-    "previous_session": "2026-11-06",
-    "tomorrow_date": "2026-11-10",
+    "next_open_session": "2026-11-11",
+    "previous_session": "2026-11-09",
+    "tomorrow_date": "2026-11-11",
     "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
@@ -263,7 +94,7 @@
       "attention_score": "8.2",
       "bear_case": "若就業同時轉弱、物價或薪資壓力卻未消退,市場將面對滾脹式下修與利率難以快速下降的雙重風險。消費循環、低品質信用與小型企業的盈利預期可能同時惡化。",
       "bull_case": "若就業、薪資與通膨組合指向需求仍穩定但價格壓力緩和,市場會往軟著陸定價移動。企業營收預期可獲得支撐,同時不必大幅上調折現率。",
-      "event_date": "2026-11-06",
+      "event_date": "2026-11-10",
       "impact": {
         "beneficiaries": [
           {
@@ -296,11 +127,11 @@
           }
         ],
         "professional_investor_reaction": "專業投資人會將當期數值與前值修訂、3 個月移動平均、勞參率與薪資分布一起比較,再用美債、美元與週期/防禦板塊的相對反應判斷是成長訊號還是利率訊號佔上風。",
-        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-11-06 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
+        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-11-10 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
         "why_it_matters": "勞動需求決定家戶所得與企業成本,並經由通膨與聯準會反應函數影響美國風險資產定價。「就業強、通膨降」與「就業弱、通膨高」對資產的含義完全不同,因此必須聯立讀取。"
       },
       "market_impact": "high",
-      "news_id": "news_8543cae1e2d93fbe18f7",
+      "news_id": "news_318e87d898f43f4a3be3",
       "score_components": [
         {
           "key": "market_size_impact",
@@ -325,10 +156,10 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-09T22:56:32.642967+00:00",
+          "accessed_at": "2026-11-10T20:24:01.841226+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
-          "published_at": "2026-11-06T13:31:35+00:00",
+          "published_at": "2026-11-10T13:30:23+00:00",
           "publisher": "U.S. Bureau of Labor Statistics",
           "quoted_fragment": "",
           "tier": "1",
@@ -336,7 +167,7 @@
           "url": "https://www.bls.gov/bls/"
         }
       ],
-      "summary": "U.S. Bureau of Labor Statistics 於 2026-11-06 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.6%(Sep 2026)、失業率為 4.1%(Oct 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
+      "summary": "U.S. Bureau of Labor Statistics 於 2026-11-10 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.4%(Oct 2026)、失業率為 4.1%(Oct 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
       "title": "Major Economic Indicators Latest Numbers"
     },
     {
@@ -410,7 +241,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-09T22:56:32.642967+00:00",
+          "accessed_at": "2026-11-10T20:24:01.841226+00:00",
           "evidence_id": "src_7ef0cbe0af1fcbf59696",
           "evidence_role": "primary",
           "published_at": "2026-10-28T18:00:00+00:00",
@@ -432,38 +263,44 @@
       "attention_score": "5.6",
       "bear_case": "若後續調查顯示問題不是個案,或監理機關要求額外整改、罰款與營運限制,相關機構的成本與聲譽風險將上升。投資人會調高合規成本假設,並檢查同類業務是否也有控制缺口。",
       "bull_case": "若這次官方行動將問題限制在個案並促成可驗證的整改,市場可能下調法規尾部風險。但正面判斷需要後續公告顯示沒有擴大至更多個人、產品或機構。",
-      "event_date": "2026-11-05",
+      "event_date": "2026-11-10",
       "impact": {
         "beneficiaries": [
           {
             "kind": "named_entity",
-            "name": "相關銀行的客戶與存款人",
-            "rationale": "禁業與整改機制若有效執行,可降低客戶資金遭不當處理的重複風險。"
+            "name": "受證券法與資訊揭露制度保護的投資人",
+            "rationale": "公開起訴文件可增加案件事實、涉案產品與救濟要求的可核查性。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "具透明費用與強健合規控制的同業",
+            "rationale": "若投資人提高對揭露、託管與銷售行為的要求,控制較完整的業者相對風險可能下降。"
           }
         ],
         "indicators_to_monitor_next": [
-          "完整執法文件中的事實認定、禁令範圍、整改期限與當事人是否承認責任",
-          "涉及機構的 8-K/10-Q 法律程序揭露、準備金與管理層說明",
-          "同一機構或同類業務是否出現後續罰款、合意令或客戶補償"
+          "SEC complaint 的具體法律請求、涉案期間、產品、金額與被告答辯",
+          "法院禁令、資產凍結、追繳、民事罰款及和解是否實際發生",
+          "涉案或相似業者的資金流、客戶揭露、8-K/10-Q 法律程序與合規整改",
+          "其他監管或執法機關是否就同一事實採取平行行動"
         ],
         "losers": [
           {
             "kind": "named_entity",
-            "name": "公告中遭禁業或被起訴的個人",
-            "rationale": "正式行動會直接限制從業、增加法律成本並造成職業聲譽後果。"
+            "name": "公告中被 SEC 起訴的個人與實體",
+            "rationale": "即使案件尚未判決,公開訴訟仍會帶來抗辯成本、業務限制與聲譽壓力。"
           },
           {
             "kind": "named_entity",
-            "name": "若內控缺口被證實的相關銀行",
-            "rationale": "擴大後的整改、稽核、訴訟與客戶補償可能增加營運成本。"
+            "name": "與涉案產品或控制流程高度相似的業者",
+            "rationale": "若後續文件顯示問題具有共通性,同業可能面臨更嚴格審查、資金流出或合規成本上升。"
           }
         ],
-        "professional_investor_reaction": "金融業分析師會先閱讀 consent order/起訴文件,區分個人行為與機構控制失效;然後核對公司揭露、法律準備金、管理層整改與其他監理機構是否有平行行動。",
-        "what_changed": "Federal Reserve 於 2026-11-05 對「Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc」所述對象採取正式執法行動。公告將對象、前雇主、措施類型與所涉行為綁定到可核對的聯準會監理文件。",
-        "why_it_matters": "執法行動會測試機構的內控、客戶資產保護與人員監督是否有結構性缺口。個案本身未必改變大盤,但後續罰款、整改與同類案件可將影響從個人擴展到機構盈利。"
+        "professional_investor_reaction": "專業投資人會先讀 SEC complaint,分清楚 allegation、被告承認事項與法院已裁定事項;再核對涉案公司的公開揭露、產品曝險、客戶贖回及是否有司法部或州級平行行動。",
+        "what_changed": "美國證券交易委員會於 2026-11-10 發布「SEC Announces Enforcement Annual Results for Fiscal Year 2026」,正式提出證券法相關指控。這改變的是案件已進入公開執法程序;指控本身仍不是法院的終局事實認定。",
+        "why_it_matters": "SEC 案件可能改變涉案募資、證券發行、投資顧問或客戶資產管理活動的法律成本與信任風險。個案未必影響大盤,但若揭露同類產品或控制流程的共同缺口,估值折價與資金流出就可能擴散。"
       },
       "market_impact": "medium",
-      "news_id": "news_91023435d86af35a6a17",
+      "news_id": "news_414efdc3de557f3a10f8",
       "score_components": [
         {
           "key": "market_size_impact",
@@ -488,23 +325,23 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-09T22:56:32.642967+00:00",
-          "evidence_id": "src_4f65553ca3f29e3655b5",
+          "accessed_at": "2026-11-10T20:24:01.841226+00:00",
+          "evidence_id": "src_ac9386304b8a2dfd11a1",
           "evidence_role": "primary",
-          "published_at": "2026-11-05T16:00:00+00:00",
-          "publisher": "Federal Reserve",
+          "published_at": "2026-11-10T16:15:35+00:00",
+          "publisher": "U.S. Securities and Exchange Commission",
           "quoted_fragment": "",
           "tier": "1",
-          "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm"
+          "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
         }
       ],
-      "summary": "聯準會於 2026-11-05 公布「Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc」。官方頁面的核心原文為:「Additional enforcement actions can be searched for here. For media inquiries, please email [email protected] or call 202-452-2955.」本報告未能從可用文字逐筆配對當事人、前任職機構與 consent prohibition,因此不會自行補上禁業令、前雇主或客戶資金等細節。 這不等於公告認定銀行整體出現資本或流動性問題;只有原文明載時,才能把事件連結到客戶資金保護、員工監督或內控執行。對銀行投資者而言,關鍵不是將個人案件外推為系統性事件,而是觀察是否還有後續罰款、管理層整改或更廣泛的監理行動。",
-      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc"
+      "summary": "美國證券交易委員會(SEC)於 2026-11-10 發布「SEC Announces Enforcement Annual Results for Fiscal Year 2026」。官方起訴摘要的核心原文如下(保留英文以免規則式翻譯扭曲法律措辭):「The Securities and Exchange Commission today provided its enforcement results for the past fiscal year which ended September 30. Throughout the fiscal year, the SEC’s Division of Enforcement remained focused on its fundamental responsibility: protecting investors, holding wrongdoers accountable, and safeguarding the integrity of the U.S. capital markets. The Division is also continuing to modernize its organization, processes, and technology, and launched several new initiatives in 2026 that will ensure the Division’s effectiveness in the years to come.」 公告中的 charged、alleged 或 complaint 代表監管機關提出的指控,不是法院終局認定,也不能被改寫成其他監管機關的處分或特定金融機構已出現資本問題。投資上的直接重點是涉案證券、募資或受託管理活動的法律與合規風險;後續應追蹤起訴文件、被告回應、法院裁定、追繳與罰款,而不是只依案件金額推論整個產業。",
+      "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026"
     }
   ],
-  "report_date": "2026-11-09",
-  "report_id": "daily-market-report-2026-11-09",
+  "report_date": "2026-11-10",
+  "report_id": "daily-market-report-2026-11-10",
   "research_discovery": {
     "applications": [
       {
@@ -525,24 +362,24 @@
       }
     ],
     "changed_belief": "可用價值在於把論文提出的假設轉成可觀測、可回測的指標;是否有效必須由原文方法、資料修訂與樣本外結果共同決定。",
-    "discovered_on": "2026-11-02",
-    "discovery_id": "research_3e9f9b816a41edd85d86",
+    "discovered_on": "2026-11-10",
+    "discovery_id": "research_6f77eef21d3a989f6fbd",
     "impact": null,
-    "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges」。官方摘要確認其研究範圍以「Service fees continue to proliferate in a wide range of markets, from retail to payments, generating questions about...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
+    "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Costly Misdemeanours: Labour Market Effects of Low-Level Drink-Driving Violations」。官方摘要確認其研究範圍以「This paper estimates the causal effect of a drink-driving conviction on labour market outcomes. Using linked administrative data...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-11-09T22:56:38.174191+00:00",
-        "evidence_id": "src_6ee11c355c76cf2ce5cb",
+        "accessed_at": "2026-11-10T20:24:09.100021+00:00",
+        "evidence_id": "src_697b656ddab98084578a",
         "evidence_role": "primary",
-        "published_at": "2026-11-02T15:10:00+00:00",
+        "published_at": "2026-11-10T14:00:00+00:00",
         "publisher": "Federal Reserve",
         "quoted_fragment": "",
         "tier": "1",
-        "title": "FEDS Paper: Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges",
-        "url": "https://www.federalreserve.gov/econres/feds/heterogeneity-in-service-fee-sensitivity-evidence-from-atm-surcharges.htm"
+        "title": "FEDS Paper: Costly Misdemeanours: Labour Market Effects of Low-Level Drink-Driving Violations",
+        "url": "https://www.federalreserve.gov/econres/feds/costly-misdemeanours-labour-market-effects-of-low-level-drink-driving-violations.htm"
       }
     ],
-    "title": "FEDS Paper: Heterogeneity in Service Fee Sensitivity: Evidence from ATM Surcharges"
+    "title": "FEDS Paper: Costly Misdemeanours: Labour Market Effects of Low-Level Drink-Driving Violations"
   },
   "schema_version": "1.0",
   "section_statuses": {
@@ -567,7 +404,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-11-09T22:56:29.734634+00:00",
+  "source_cutoff_at": "2026-11-10T20:24:00.626337+00:00",
   "timezone": "America/New_York",
   "validation_status": "degraded"
 }
