@@ -1,14 +1,43 @@
 {
   "earnings": {
     "candidates": [],
-    "confirmed_events": [],
-    "message": "The bounded SEC filing scan did not find an issuer-confirmed event for the target date. This does not mean that no company reports earnings.",
+    "confirmed_events": [
+      {
+        "announced_on": "2026-10-27",
+        "cik": "0002051380",
+        "company_name": "GrabAGun Digital Holdings Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:GrabAGun Digital Holdings Inc.(PEW)的目標日為 2026-11-12。公告確認發布時段為美股收盤後,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_9509f3107eacfc6eb880",
+        "form": "8-K",
+        "release_timing": "after_market",
+        "release_timing_label": "After market (exact time not confirmed)",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-11T20:06:16.691746+00:00",
+            "evidence_id": "src_ee8707922883c45be8b5",
+            "evidence_role": "primary",
+            "published_at": "2026-10-27T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "GrabAGun Digital Holdings Inc. 8-K issuer announcement (0001193125-26-432788)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2051380/000119312526432788/d832695dex991.htm"
+          }
+        ],
+        "target_date": "2026-11-12",
+        "ticker": "PEW"
+      }
+    ],
+    "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
     "next_open_session": "",
-    "status": "no_confirmed_events_in_bounded_scan",
-    "target_date": "2026-11-11",
+    "status": "confirmed_events_available",
+    "target_date": "2026-11-12",
     "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-11-10T20:24:00.626337+00:00",
+  "generated_at": "2026-11-11T20:06:10.938198+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -56,7 +85,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-11-10T20:24:01.844885+00:00",
+        "accessed_at": "2026-11-11T20:06:11.988406+00:00",
         "evidence_id": "src_7ef0cbe0af1fcbf59696",
         "evidence_role": "primary",
         "published_at": "2026-10-28T18:00:00+00:00",
@@ -71,17 +100,17 @@
     "title": "Federal Reserve issues FOMC statement"
   },
   "knowledge_refresh": {
-    "background": "信用市場用相對無風險基準的額外殖利率,衡量承擔借款人風險所需的補償。這個利差不只包含預期違約損失,也可能反映流動性、風險厭惡與市場技術因素。因此利差是風險價格,而不是違約機率的直接讀數。",
-    "concept": "信用利差與違約補償",
-    "current_relevance": "企業融資成本由基準利率與信用利差共同決定,只看其中一項可能誤判壓力。利差也能補充股票市場敘事,因為債權人更直接關注下行保護和現金償付。不過,把短期流動性衝擊直接當成永久信用惡化,同樣可能造成錯誤結論。",
-    "example": "假設五年期公司債殖利率為百分之六,同期限基準殖利率為百分之四,信用利差就是兩百個基點。若公司債升至百分之七而基準維持百分之四,利差擴大到三百個基點。新增的一百個基點是信用與流動性補償上升,仍需更多證據才能判定其中有多少來自違約風險。",
-    "explanation": "信用利差等於信用工具殖利率減去可比較期限的基準殖利率。利差擴大表示額外補償提高,但原因可能是基本面轉弱,也可能只是交易流動性下降。判讀時要同時檢查違約率、回收率假設與市場供需。"
+    "background": "成本會計把支出分為隨產量變動的變動成本與短期較固定的固定成本。固定成本占比越高,收入的小幅變化越可能造成營業利益的大幅變化。這種由成本結構產生的敏感度,稱為營運槓桿。",
+    "concept": "營運槓桿",
+    "current_relevance": "兩家收入成長相同的企業,可能因成本結構不同而出現完全不同的獲利彈性。營運槓桿也會隨產能利用率、租約安排與自動化程度改變,不能只用產業標籤推斷。把固定與變動成本拆開,能讓情境分析更接近實際現金結果。",
+    "example": "假設收入為一百、變動成本六十、固定成本三十,營業利益就是十。若收入下降百分之十且變動成本同比下降,收入變九十、變動成本五十四、固定成本仍為三十,利益只剩六。收入減少一成卻使利益減少四成,差距就是營運槓桿的效果。",
+    "explanation": "收入先支付變動成本,剩餘的貢獻毛利再覆蓋固定成本。固定成本一旦被覆蓋,新增收入可能快速轉成利益;反過來,收入下降時固定成本不會同步消失。所以分析成長時,必須同時問收入變化會如何穿透到利潤。"
   },
   "market_context": {
     "market_status": "NYSE SESSION TODAY",
-    "next_open_session": "2026-11-11",
-    "previous_session": "2026-11-09",
-    "tomorrow_date": "2026-11-11",
+    "next_open_session": "2026-11-12",
+    "previous_session": "2026-11-10",
+    "tomorrow_date": "2026-11-12",
     "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
@@ -156,7 +185,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-10T20:24:01.841226+00:00",
+          "accessed_at": "2026-11-11T20:06:11.984344+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-11-10T13:30:23+00:00",
@@ -241,7 +270,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-10T20:24:01.841226+00:00",
+          "accessed_at": "2026-11-11T20:06:11.984344+00:00",
           "evidence_id": "src_7ef0cbe0af1fcbf59696",
           "evidence_role": "primary",
           "published_at": "2026-10-28T18:00:00+00:00",
@@ -325,7 +354,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-10T20:24:01.841226+00:00",
+          "accessed_at": "2026-11-11T20:06:11.984344+00:00",
           "evidence_id": "src_ac9386304b8a2dfd11a1",
           "evidence_role": "primary",
           "published_at": "2026-11-10T16:15:35+00:00",
@@ -340,8 +369,8 @@
       "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026"
     }
   ],
-  "report_date": "2026-11-10",
-  "report_id": "daily-market-report-2026-11-10",
+  "report_date": "2026-11-11",
+  "report_id": "daily-market-report-2026-11-11",
   "research_discovery": {
     "applications": [
       {
@@ -368,7 +397,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Costly Misdemeanours: Labour Market Effects of Low-Level Drink-Driving Violations」。官方摘要確認其研究範圍以「This paper estimates the causal effect of a drink-driving conviction on labour market outcomes. Using linked administrative data...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-11-10T20:24:09.100021+00:00",
+        "accessed_at": "2026-11-11T20:06:16.760463+00:00",
         "evidence_id": "src_697b656ddab98084578a",
         "evidence_role": "primary",
         "published_at": "2026-11-10T14:00:00+00:00",
@@ -384,8 +413,8 @@
   "schema_version": "1.0",
   "section_statuses": {
     "earnings": {
-      "detail": "Bounded SEC earnings coverage is degraded because the following source material was unavailable: one or more matching SEC filing documents. This is not a complete market calendar.",
-      "status": "degraded"
+      "detail": "",
+      "status": "available"
     },
     "global_macro": {
       "detail": "This run considers genuine source releases from the prior 30 calendar days for Global Macro; the selected event date remains visible.",
@@ -404,7 +433,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-11-10T20:24:00.626337+00:00",
+  "source_cutoff_at": "2026-11-11T20:06:10.938198+00:00",
   "timezone": "America/New_York",
-  "validation_status": "degraded"
+  "validation_status": "valid"
 }
