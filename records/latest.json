@@ -5,10 +5,10 @@
     "message": "Tomorrow US market is closed. No earnings trading analysis available.",
     "next_open_session": "2026-11-16",
     "status": "market_closed",
-    "target_date": "2026-11-14",
+    "target_date": "2026-11-15",
     "universe_coverage": "not_applicable"
   },
-  "generated_at": "2026-11-13T20:25:11.224469+00:00",
+  "generated_at": "2026-11-14T18:41:26.172695+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -56,7 +56,7 @@
     "market_impact": "high",
     "sources": [
       {
-        "accessed_at": "2026-11-13T20:25:12.296164+00:00",
+        "accessed_at": "2026-11-14T18:41:27.358881+00:00",
         "evidence_id": "src_d0d659af42f5873029e8",
         "evidence_role": "primary",
         "published_at": "2026-11-12T17:45:00+00:00",
@@ -71,17 +71,17 @@
     "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
   },
   "knowledge_refresh": {
-    "background": "營運資金管理用庫存、應收帳款與應付帳款的周轉天數,描述現金被營運流程占用多久。現金轉換週期把三者放入同一框架,連結損益成長與資產負債表需求。它讓分析者看到會計收入增加是否同時消耗更多現金。",
-    "concept": "現金轉換週期",
-    "current_relevance": "快速成長若伴隨應收與庫存更快上升,可能出現帳面獲利增加但自由現金流下降。拆解三個天數能辨認現金壓力來自銷售條件、備貨策略還是付款安排。跨期比較時還應控制季節性與業務組合,避免把正常波動當成結構惡化。",
-    "example": "假設庫存天數六十、應收天數四十五、應付天數三十,現金轉換週期為七十五天。若庫存管理改善五天而其他條件不變,週期縮短到七十天。這表示每輪營運少占用五天資金,但仍需確認改善不是靠缺貨換來。",
-    "explanation": "現金轉換週期約等於庫存天數加應收天數,再減去應付天數。週期越長,通常代表每一輪營運需要墊付資金更久。但過度壓低庫存或延後付款也可能傷害服務品質與供應商關係,因此不能只追求最小值。"
+    "background": "企業金融把價值創造連結到投入資本報酬率是否高於資金成本。成長本身不是充分條件,因為低報酬的新投資可能擴大規模卻稀釋經濟價值。長期成長率則可近似理解為再投資率乘以新增資本報酬率。",
+    "concept": "投入資本報酬率與再投資",
+    "current_relevance": "收入成長容易吸引注意,但資本密集度與新增項目的報酬決定成長是否真正累積價值。成熟業務與新業務的報酬率可能不同,因此歷史平均不一定代表下一筆投資。研究時明示再投資假設,也能避免同時假設高成長和不切實際的低資本需求。",
+    "example": "假設某業務把百分之四十的營運利益再投資,新增資本報酬率為百分之十五。可持續成長的粗略估計是零點四乘零點一五,也就是百分之六。若新增報酬率降到百分之八,同樣再投資率只支持約百分之三點二的成長。",
+    "explanation": "投入資本報酬率衡量營運稅後利益相對於支撐營運所需資本的效率。再投資率回答有多少利益被留在業務中,而新增資本報酬率回答這些資金用得多有效。只有把兩者合看,才能區分高品質成長與昂貴擴張。"
   },
   "market_context": {
-    "market_status": "NYSE SESSION TODAY",
+    "market_status": "NYSE CLOSED TODAY",
     "next_open_session": "2026-11-16",
-    "previous_session": "2026-11-12",
-    "tomorrow_date": "2026-11-14",
+    "previous_session": "2026-11-13",
+    "tomorrow_date": "2026-11-15",
     "tomorrow_status": "NYSE CLOSED"
   },
   "market_news": [
@@ -156,7 +156,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-13T20:25:12.292445+00:00",
+          "accessed_at": "2026-11-14T18:41:27.355374+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-11-13T15:01:02+00:00",
@@ -241,7 +241,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-13T20:25:12.292445+00:00",
+          "accessed_at": "2026-11-14T18:41:27.355374+00:00",
           "evidence_id": "src_d0d659af42f5873029e8",
           "evidence_role": "primary",
           "published_at": "2026-11-12T17:45:00+00:00",
@@ -314,7 +314,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-13T20:25:12.292445+00:00",
+          "accessed_at": "2026-11-14T18:41:27.355374+00:00",
           "evidence_id": "src_f297bf2da9fab3984ce3",
           "evidence_role": "primary",
           "published_at": "2026-11-13T16:57:00+00:00",
@@ -329,8 +329,8 @@
       "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms"
     }
   ],
-  "report_date": "2026-11-13",
-  "report_id": "daily-market-report-2026-11-13",
+  "report_date": "2026-11-14",
+  "report_id": "daily-market-report-2026-11-14",
   "research_discovery": {
     "applications": [
       {
@@ -357,7 +357,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Artificial Intelligence and the U.S. Economy: Current Evidence」。官方摘要確認其研究範圍以「We assess the current evidence on how AI-related investment and the use of AI are affecting the U.S....」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-11-13T20:25:12.351040+00:00",
+        "accessed_at": "2026-11-14T18:41:27.401824+00:00",
         "evidence_id": "src_35462dbcd9c2eb644735",
         "evidence_role": "primary",
         "published_at": "2026-11-12T15:20:00+00:00",
@@ -393,7 +393,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-11-13T20:25:11.224469+00:00",
+  "source_cutoff_at": "2026-11-14T18:41:26.172695+00:00",
   "timezone": "America/New_York",
   "validation_status": "valid"
 }
