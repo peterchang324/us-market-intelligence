@@ -1,14 +1,239 @@
 {
   "earnings": {
     "candidates": [],
-    "confirmed_events": [],
-    "message": "Tomorrow US market is closed. No earnings trading analysis available.",
-    "next_open_session": "2026-11-16",
-    "status": "market_closed",
-    "target_date": "2026-11-15",
-    "universe_coverage": "not_applicable"
+    "confirmed_events": [
+      {
+        "announced_on": "2026-11-10",
+        "cik": "0002067767",
+        "company_name": "NextBoat Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:NextBoat Inc.(NXB)的目標日為 2026-11-16。公告同時確認業績發布時間為 16:30 ET。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_3361c413ffc1b7cb7571",
+        "form": "8-K",
+        "release_timing": "after_market",
+        "release_timing_label": "Confirmed release: 2026-11-16T21:30:00+00:00",
+        "scheduled_release_at": "2026-11-16T21:30:00+00:00",
+        "sources": [
+          {
+            "accessed_at": "2026-11-15T19:18:59.564280+00:00",
+            "evidence_id": "src_b2aec3fa43083e8f0599",
+            "evidence_role": "primary",
+            "published_at": "2026-11-10T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "NextBoat Inc. 8-K issuer announcement (0001493152-26-050903)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2067767/000149315226050903/ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-16",
+        "ticker": "NXB"
+      },
+      {
+        "announced_on": "2026-11-02",
+        "cik": "0001338940",
+        "company_name": "Perion Network Ltd.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Perion Network Ltd.(PERI)的目標日為 2026-11-16。公告確認發布時段為美股開盤前,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_fd30a8bbb36b42120867",
+        "form": "6-K",
+        "release_timing": "before_market",
+        "release_timing_label": "Before market (exact time not confirmed)",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-15T19:18:59.564280+00:00",
+            "evidence_id": "src_4f65b0e0e6cd7978adc1",
+            "evidence_role": "primary",
+            "published_at": "2026-11-02T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Perion Network Ltd. 6-K issuer announcement (0001178913-26-004966)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1338940/000117891326004966/exhibit_99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-16",
+        "ticker": "PERI"
+      },
+      {
+        "announced_on": "2026-11-12",
+        "cik": "0001606242",
+        "company_name": "Virtuix Holdings Inc.",
+        "conference_call_at": "2026-11-16T13:30:00+00:00",
+        "confirmation_basis": "earnings_conference_call",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排目標日的財報電話會議:Virtuix Holdings Inc.(VTIX)的目標日為 2026-11-16。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 08:30 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_98e82dba13958ee6bc76",
+        "form": "8-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-15T19:18:59.564280+00:00",
+            "evidence_id": "src_5bfc3d891e1de9ac8d3b",
+            "evidence_role": "primary",
+            "published_at": "2026-11-12T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Virtuix Holdings Inc. 8-K issuer announcement (0001213900-26-118518)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1606242/000121390026118518/ea031198601ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-16",
+        "ticker": "VTIX"
+      },
+      {
+        "announced_on": "2026-11-02",
+        "cik": "0001810997",
+        "company_name": "XPENG INC.",
+        "conference_call_at": "2026-11-16T12:00:00+00:00",
+        "confirmation_basis": "board_meeting_results",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排董事會在目標日審議或批准財務結果:XPENG INC.(XPEV)的目標日為 2026-11-16。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 07:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_6a0a5e3f56c04772b7b2",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-15T19:18:59.564280+00:00",
+            "evidence_id": "src_a78c75358c411a8cf9e9",
+            "evidence_role": "primary",
+            "published_at": "2026-11-02T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "XPENG INC. 6-K issuer announcement (0001193125-26-442816)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1810997/000119312526442816/d531102dex991.htm"
+          }
+        ],
+        "target_date": "2026-11-16",
+        "ticker": "XPEV"
+      },
+      {
+        "announced_on": "2026-11-05",
+        "cik": "0001809587",
+        "company_name": "KE Holdings Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "board_meeting_results",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排董事會在目標日審議或批准財務結果:KE Holdings Inc.(BEKE)的目標日為 2026-11-16。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_3508718a6cfcf3b8217e",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-15T19:18:59.564280+00:00",
+            "evidence_id": "src_d066c1e7253614cc2958",
+            "evidence_role": "primary",
+            "published_at": "2026-11-05T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "KE Holdings Inc. 6-K issuer announcement (0001104659-26-122940)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1809587/000110465926122940/tm2628991d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-16",
+        "ticker": "BEKE"
+      },
+      {
+        "announced_on": "2026-10-27",
+        "cik": "0001329099",
+        "company_name": "Baidu, Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Baidu, Inc.(BIDU)的目標日為 2026-11-16。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_273a4b23a255cb2ecf43",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-15T19:18:59.564280+00:00",
+            "evidence_id": "src_2413e7e5e42489bde417",
+            "evidence_role": "primary",
+            "published_at": "2026-10-27T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Baidu, Inc. 6-K issuer announcement (0001193125-26-432580)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1329099/000119312526432580/d179452dex991.htm"
+          }
+        ],
+        "target_date": "2026-11-16",
+        "ticker": "BIDU"
+      },
+      {
+        "announced_on": "2026-10-22",
+        "cik": "0001868419",
+        "company_name": "Cycurion, Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Cycurion, Inc.(CYCU)的目標日為 2026-11-16。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_857f6a25790d52035a24",
+        "form": "8-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-15T19:18:59.564280+00:00",
+            "evidence_id": "src_260ac6a52b6db47d8b57",
+            "evidence_role": "primary",
+            "published_at": "2026-10-22T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Cycurion, Inc. 8-K issuer announcement (0001868419-26-000058)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1868419/000186841926000058/exhibit993october222026pre.htm"
+          }
+        ],
+        "target_date": "2026-11-16",
+        "ticker": "CYCU"
+      },
+      {
+        "announced_on": "2026-11-02",
+        "cik": "0001437424",
+        "company_name": "POET TECHNOLOGIES INC.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:POET TECHNOLOGIES INC.(POET)的目標日為 2026-11-16。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_4edd5698f4db18199322",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-15T19:18:59.564280+00:00",
+            "evidence_id": "src_0553758351bbe0453c07",
+            "evidence_role": "primary",
+            "published_at": "2026-11-02T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "POET TECHNOLOGIES INC. 6-K issuer announcement (0001171843-26-007019)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1437424/000117184326007019/exh_991.htm"
+          }
+        ],
+        "target_date": "2026-11-16",
+        "ticker": "POET"
+      }
+    ],
+    "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
+    "next_open_session": "",
+    "status": "confirmed_events_available",
+    "target_date": "2026-11-16",
+    "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-11-14T18:41:26.172695+00:00",
+  "generated_at": "2026-11-15T19:18:49.462446+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -56,7 +281,7 @@
     "market_impact": "high",
     "sources": [
       {
-        "accessed_at": "2026-11-14T18:41:27.358881+00:00",
+        "accessed_at": "2026-11-15T19:18:50.662947+00:00",
         "evidence_id": "src_d0d659af42f5873029e8",
         "evidence_role": "primary",
         "published_at": "2026-11-12T17:45:00+00:00",
@@ -71,18 +296,18 @@
     "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
   },
   "knowledge_refresh": {
-    "background": "企業金融把價值創造連結到投入資本報酬率是否高於資金成本。成長本身不是充分條件,因為低報酬的新投資可能擴大規模卻稀釋經濟價值。長期成長率則可近似理解為再投資率乘以新增資本報酬率。",
-    "concept": "投入資本報酬率與再投資",
-    "current_relevance": "收入成長容易吸引注意,但資本密集度與新增項目的報酬決定成長是否真正累積價值。成熟業務與新業務的報酬率可能不同,因此歷史平均不一定代表下一筆投資。研究時明示再投資假設,也能避免同時假設高成長和不切實際的低資本需求。",
-    "example": "假設某業務把百分之四十的營運利益再投資,新增資本報酬率為百分之十五。可持續成長的粗略估計是零點四乘零點一五,也就是百分之六。若新增報酬率降到百分之八,同樣再投資率只支持約百分之三點二的成長。",
-    "explanation": "投入資本報酬率衡量營運稅後利益相對於支撐營運所需資本的效率。再投資率回答有多少利益被留在業務中,而新增資本報酬率回答這些資金用得多有效。只有把兩者合看,才能區分高品質成長與昂貴擴張。"
+    "background": "單位經濟把總體收入拆成單一客戶、訂單或產品單位的收入與可變成本。訂閱與平台型商業模式普及後,客戶取得成本、貢獻毛利與留存期間成為常用分析工具。它們的目的不是取代完整財報,而是檢查成長引擎是否在基本單位上成立。",
+    "concept": "單位經濟與回收期",
+    "current_relevance": "總收入增加可能由大量促銷驅動,而每位新增客戶仍未必能回收取得成本。觀察不同客群批次的留存和毛利,可辨認成長改善是真實效率還是短期補貼。當商業模式改變時,單位定義也應同步更新,避免用過時口徑製造漂亮數字。",
+    "example": "假設每位客戶每月貢獻毛利為二十,平均留存十個月,粗略終身價值就是二百。若取得成本為一百二十,價值對成本比為一點六七倍,回收期為六個月。若留存降為五個月,終身價值只剩一百,原本看似合理的取得成本便無法由貢獻毛利覆蓋。",
+    "explanation": "客戶終身價值可粗略估為每期貢獻毛利乘以預期留存期,取得成本則是獲得該客戶的增量支出。回收期等於取得成本除以每期貢獻毛利。估計必須納入流失、服務成本與時間價值,否則會系統性高估經濟性。"
   },
   "market_context": {
     "market_status": "NYSE CLOSED TODAY",
     "next_open_session": "2026-11-16",
     "previous_session": "2026-11-13",
-    "tomorrow_date": "2026-11-15",
-    "tomorrow_status": "NYSE CLOSED"
+    "tomorrow_date": "2026-11-16",
+    "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
     {
@@ -156,7 +381,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-14T18:41:27.355374+00:00",
+          "accessed_at": "2026-11-15T19:18:50.659043+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-11-13T15:01:02+00:00",
@@ -241,7 +466,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-14T18:41:27.355374+00:00",
+          "accessed_at": "2026-11-15T19:18:50.659043+00:00",
           "evidence_id": "src_d0d659af42f5873029e8",
           "evidence_role": "primary",
           "published_at": "2026-11-12T17:45:00+00:00",
@@ -314,7 +539,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-14T18:41:27.355374+00:00",
+          "accessed_at": "2026-11-15T19:18:50.659043+00:00",
           "evidence_id": "src_f297bf2da9fab3984ce3",
           "evidence_role": "primary",
           "published_at": "2026-11-13T16:57:00+00:00",
@@ -329,8 +554,8 @@
       "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms"
     }
   ],
-  "report_date": "2026-11-14",
-  "report_id": "daily-market-report-2026-11-14",
+  "report_date": "2026-11-15",
+  "report_id": "daily-market-report-2026-11-15",
   "research_discovery": {
     "applications": [
       {
@@ -357,7 +582,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Artificial Intelligence and the U.S. Economy: Current Evidence」。官方摘要確認其研究範圍以「We assess the current evidence on how AI-related investment and the use of AI are affecting the U.S....」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-11-14T18:41:27.401824+00:00",
+        "accessed_at": "2026-11-15T19:18:59.691399+00:00",
         "evidence_id": "src_35462dbcd9c2eb644735",
         "evidence_role": "primary",
         "published_at": "2026-11-12T15:20:00+00:00",
@@ -373,8 +598,8 @@
   "schema_version": "1.0",
   "section_statuses": {
     "earnings": {
-      "detail": "",
-      "status": "available"
+      "detail": "Bounded SEC earnings coverage is degraded because the following source material was unavailable: one or more matching SEC filing documents. This is not a complete market calendar.",
+      "status": "degraded"
     },
     "global_macro": {
       "detail": "This run considers genuine source releases from the prior 30 calendar days for Global Macro; the selected event date remains visible.",
@@ -393,7 +618,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-11-14T18:41:26.172695+00:00",
+  "source_cutoff_at": "2026-11-15T19:18:49.462446+00:00",
   "timezone": "America/New_York",
-  "validation_status": "valid"
+  "validation_status": "degraded"
 }
