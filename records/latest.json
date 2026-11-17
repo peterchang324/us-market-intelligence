@@ -3,76 +3,76 @@
     "candidates": [],
     "confirmed_events": [
       {
-        "announced_on": "2026-11-04",
-        "cik": "0001815846",
-        "company_name": "MINISO Group Holding Ltd",
-        "conference_call_at": "",
+        "announced_on": "2026-10-28",
+        "cik": "0001872195",
+        "company_name": "Bullish",
+        "conference_call_at": "2026-11-18T13:30:00+00:00",
         "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:MINISO Group Holding Ltd(MNSO)的目標日為 2026-11-17。公告確認發布時段為美股開盤前,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_cb27ef21da8e25cac425",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Bullish(BLSH)的目標日為 2026-11-18。公告同時確認業績發布時間為 08:30 ET。另外,電話會議安排在 08:30 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_9a6474c5978b14c60fdf",
         "form": "6-K",
         "release_timing": "before_market",
-        "release_timing_label": "Before market (exact time not confirmed)",
-        "scheduled_release_at": "",
+        "release_timing_label": "Confirmed release: 2026-11-18T13:30:00+00:00",
+        "scheduled_release_at": "2026-11-18T13:30:00+00:00",
         "sources": [
           {
-            "accessed_at": "2026-11-16T22:49:24.495246+00:00",
-            "evidence_id": "src_a1ea6e2ca9d7d1949b9d",
+            "accessed_at": "2026-11-17T21:39:28.624395+00:00",
+            "evidence_id": "src_ceb00371d895d3cc7ad0",
             "evidence_role": "primary",
-            "published_at": "2026-11-04T00:00:00+00:00",
+            "published_at": "2026-10-28T00:00:00+00:00",
             "publisher": "U.S. Securities and Exchange Commission",
             "quoted_fragment": "",
             "tier": "1",
-            "title": "MINISO Group Holding Ltd 6-K issuer announcement (0001104659-26-122384)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1815846/000110465926122384/tm2628866d1_ex99-6.htm"
+            "title": "Bullish 6-K issuer announcement (0001437749-26-033697)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1872195/000143774926033697/ex_1031488.htm"
           }
         ],
-        "target_date": "2026-11-17",
-        "ticker": "MNSO"
+        "target_date": "2026-11-18",
+        "ticker": "BLSH"
       },
       {
-        "announced_on": "2026-11-16",
-        "cik": "0000889348",
-        "company_name": "CPI AEROSTRUCTURES INC",
+        "announced_on": "2026-10-15",
+        "cik": "0001345105",
+        "company_name": "Copa Holdings, S.A.",
         "conference_call_at": "",
         "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:CPI AEROSTRUCTURES INC(CVU)的目標日為 2026-11-17。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_9216181b799aff0a3b67",
-        "form": "8-K",
-        "release_timing": "time_not_confirmed",
-        "release_timing_label": "Release time not confirmed",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Copa Holdings, S.A.(CPA)的目標日為 2026-11-18。公告確認發布時段為美股收盤後,但沒有可供取信的精確時間。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_135adf44013d8e686a5c",
+        "form": "6-K",
+        "release_timing": "after_market",
+        "release_timing_label": "After market (exact time not confirmed)",
         "scheduled_release_at": "",
         "sources": [
           {
-            "accessed_at": "2026-11-16T22:49:24.495246+00:00",
-            "evidence_id": "src_24e670a1dde190f78585",
+            "accessed_at": "2026-11-17T21:39:28.624395+00:00",
+            "evidence_id": "src_5dbebe2b49da0cbf5367",
             "evidence_role": "primary",
-            "published_at": "2026-11-16T00:00:00+00:00",
+            "published_at": "2026-10-15T00:00:00+00:00",
             "publisher": "U.S. Securities and Exchange Commission",
             "quoted_fragment": "",
             "tier": "1",
-            "title": "CPI AEROSTRUCTURES INC 8-K issuer announcement (0001999371-26-025521)",
-            "url": "https://www.sec.gov/Archives/edgar/data/889348/000199937126025521/cvu-8k_111626.htm"
+            "title": "Copa Holdings, S.A. 6-K issuer announcement (0001628280-26-066015)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1345105/000162828026066015/cpa-20261015xexx991.htm"
           }
         ],
-        "target_date": "2026-11-17",
-        "ticker": "CVU"
+        "target_date": "2026-11-18",
+        "ticker": "CPA"
       },
       {
         "announced_on": "2026-10-06",
         "cik": "0001476765",
         "company_name": "GOLUB CAPITAL BDC, Inc.",
-        "conference_call_at": "",
-        "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:GOLUB CAPITAL BDC, Inc.(GBDC)的目標日為 2026-11-17。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_9b816a48a824dbe133bf",
+        "conference_call_at": "2026-11-18T15:00:00+00:00",
+        "confirmation_basis": "earnings_conference_call",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排目標日的財報電話會議:GOLUB CAPITAL BDC, Inc.(GBDC)的目標日為 2026-11-18。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 10:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_e476366063428905f778",
         "form": "8-K",
         "release_timing": "time_not_confirmed",
         "release_timing_label": "Release time not confirmed",
         "scheduled_release_at": "",
         "sources": [
           {
-            "accessed_at": "2026-11-16T22:49:24.495246+00:00",
+            "accessed_at": "2026-11-17T21:39:28.624395+00:00",
             "evidence_id": "src_cb91318be98f8d1a2302",
             "evidence_role": "primary",
             "published_at": "2026-10-06T00:00:00+00:00",
@@ -83,80 +83,136 @@
             "url": "https://www.sec.gov/Archives/edgar/data/1476765/000147676526000072/earningscallnotification-e.htm"
           }
         ],
-        "target_date": "2026-11-17",
+        "target_date": "2026-11-18",
         "ticker": "GBDC"
       },
       {
-        "announced_on": "2026-11-04",
-        "cik": "0001549802",
-        "company_name": "JD.com, Inc.",
+        "announced_on": "2026-11-06",
+        "cik": "0001577552",
+        "company_name": "Alibaba Group Holding Ltd",
         "conference_call_at": "",
         "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:JD.com, Inc.(JD)的目標日為 2026-11-17。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_f3c4e5547c7c50aaf42f",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Alibaba Group Holding Ltd(BABA)的目標日為 2026-11-18。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_f11c045814de987f38a9",
         "form": "6-K",
         "release_timing": "time_not_confirmed",
         "release_timing_label": "Release time not confirmed",
         "scheduled_release_at": "",
         "sources": [
           {
-            "accessed_at": "2026-11-16T22:49:24.495246+00:00",
-            "evidence_id": "src_f06966c358ab7a43fd66",
+            "accessed_at": "2026-11-17T21:39:28.624395+00:00",
+            "evidence_id": "src_567b5cbd6596b7e09c4d",
             "evidence_role": "primary",
-            "published_at": "2026-11-04T00:00:00+00:00",
+            "published_at": "2026-11-06T00:00:00+00:00",
             "publisher": "U.S. Securities and Exchange Commission",
             "quoted_fragment": "",
             "tier": "1",
-            "title": "JD.com, Inc. 6-K issuer announcement (0001193125-26-446218)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1549802/000119312526446218/d496516dex991.htm"
+            "title": "Alibaba Group Holding Ltd 6-K issuer announcement (0001104659-26-123545)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926123545/tm2629189d1_ex99-1.htm"
           }
         ],
-        "target_date": "2026-11-17",
-        "ticker": "JD"
+        "target_date": "2026-11-18",
+        "ticker": "BABA"
       },
       {
-        "announced_on": "2026-10-28",
-        "cik": "0001595761",
-        "company_name": "WEIBO Corp",
+        "announced_on": "2026-11-05",
+        "cik": "0000763744",
+        "company_name": "LCI INDUSTRIES",
         "conference_call_at": "",
         "confirmation_basis": "scheduled_results_release",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:WEIBO Corp(WB)的目標日為 2026-11-17。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_fca2d3204cc88a20a103",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:LCI INDUSTRIES(LCII)的目標日為 2026-11-18。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_b128ce776479c4cfb468",
+        "form": "8-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-17T21:39:28.624395+00:00",
+            "evidence_id": "src_6e8e10ce2b9de26053ed",
+            "evidence_role": "primary",
+            "published_at": "2026-11-05T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "LCI INDUSTRIES 8-K issuer announcement (0000763744-26-000110)",
+            "url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000110/lcii-irshortdeck3q26fina.htm"
+          }
+        ],
+        "target_date": "2026-11-18",
+        "ticker": "LCII"
+      },
+      {
+        "announced_on": "2026-10-20",
+        "cik": "0001969302",
+        "company_name": "Pony AI Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "board_meeting_results",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排董事會在目標日審議或批准財務結果:Pony AI Inc.(PONY)的目標日為 2026-11-18。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_afe1f3759a26c30ed5f7",
         "form": "6-K",
         "release_timing": "time_not_confirmed",
         "release_timing_label": "Release time not confirmed",
         "scheduled_release_at": "",
         "sources": [
           {
-            "accessed_at": "2026-11-16T22:49:24.495246+00:00",
-            "evidence_id": "src_9b3d92b3129c8ff8ac4c",
+            "accessed_at": "2026-11-17T21:39:28.624395+00:00",
+            "evidence_id": "src_41fa11143bde58221303",
             "evidence_role": "primary",
-            "published_at": "2026-10-28T00:00:00+00:00",
+            "published_at": "2026-10-20T00:00:00+00:00",
             "publisher": "U.S. Securities and Exchange Commission",
             "quoted_fragment": "",
             "tier": "1",
-            "title": "WEIBO Corp 6-K issuer announcement (0001104659-26-119361)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1595761/000110465926119361/tm2628436d1_ex99-1.htm"
+            "title": "Pony AI Inc. 6-K issuer announcement (0001104659-26-117402)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1969302/000110465926117402/tm2627809d1_ex99-1.htm"
           }
         ],
-        "target_date": "2026-11-17",
-        "ticker": "WB"
+        "target_date": "2026-11-18",
+        "ticker": "PONY"
+      },
+      {
+        "announced_on": "2026-11-02",
+        "cik": "0001944558",
+        "company_name": "Vitesse Energy, Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Vitesse Energy, Inc.(VTS)的目標日為 2026-11-18。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_4bf96965dd9394f4f453",
+        "form": "8-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-17T21:39:28.624395+00:00",
+            "evidence_id": "src_5321cefeba5eb1d26daa",
+            "evidence_role": "primary",
+            "published_at": "2026-11-02T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Vitesse Energy, Inc. 8-K issuer announcement (0001944558-26-000055)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1944558/000194455826000055/a3q2026earningspressreleas.htm"
+          }
+        ],
+        "target_date": "2026-11-18",
+        "ticker": "VTS"
       },
       {
         "announced_on": "2026-10-16",
         "cik": "0001677250",
         "company_name": "ZTO Express (Cayman) Inc.",
         "conference_call_at": "",
-        "confirmation_basis": "board_meeting_results",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排董事會在目標日審議或批准財務結果:ZTO Express (Cayman) Inc.(ZTO)的目標日為 2026-11-17。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_d7779c98798d95f875f3",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:ZTO Express (Cayman) Inc.(ZTO)的目標日為 2026-11-18。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_f6c2ceb6e5d3d7f459dc",
         "form": "6-K",
         "release_timing": "time_not_confirmed",
         "release_timing_label": "Release time not confirmed",
         "scheduled_release_at": "",
         "sources": [
           {
-            "accessed_at": "2026-11-16T22:49:24.495246+00:00",
+            "accessed_at": "2026-11-17T21:39:28.624395+00:00",
             "evidence_id": "src_288396b5e1202ab12f07",
             "evidence_role": "primary",
             "published_at": "2026-10-16T00:00:00+00:00",
@@ -167,17 +223,17 @@
             "url": "https://www.sec.gov/Archives/edgar/data/1677250/000110465926116379/tm2627652d1_ex99-1.htm"
           }
         ],
-        "target_date": "2026-11-17",
+        "target_date": "2026-11-18",
         "ticker": "ZTO"
       }
     ],
     "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
     "next_open_session": "",
     "status": "confirmed_events_available",
-    "target_date": "2026-11-17",
+    "target_date": "2026-11-18",
     "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-11-16T22:49:12.811280+00:00",
+  "generated_at": "2026-11-17T21:39:18.014030+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -225,7 +281,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-11-16T22:49:14.047847+00:00",
+        "accessed_at": "2026-11-17T21:39:19.630318+00:00",
         "evidence_id": "src_d0d659af42f5873029e8",
         "evidence_role": "primary",
         "published_at": "2026-11-12T17:45:00+00:00",
@@ -240,17 +296,17 @@
     "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
   },
   "knowledge_refresh": {
-    "background": "權責發生制讓收入與成本在經濟活動發生時認列,而非等到現金收付。這能改善期間配比,卻也使會計盈餘包含估計、遞延與管理判斷。盈餘品質分析因此會比較淨利、營運現金流與資產負債表變動。",
-    "concept": "盈餘品質與應計項目",
-    "current_relevance": "只看每股盈餘可能忽略收款變慢、庫存累積或一次性分類帶來的現金落差。把損益表和現金流量表連起來,可檢查報導成長是否已被客戶付款與實際成本支持。長期重複出現且無法清楚解釋的落差,通常比單季差異更值得關注。",
-    "example": "假設淨利為一百、營運現金流為六十,粗略應計差額就是四十。若差額主要來自應收帳款增加三十五,分析重點應轉向收款期限與客戶信用。下一期若現金收回而應收下降,差額可能正常逆轉;若繼續擴大,則需要更深入驗證收入品質。",
-    "explanation": "應計項目可粗略視為會計盈餘減去營運現金流,代表尚未轉成現金的部分。高應計不一定有問題,因為成長中的應收或存貨可能合理增加。關鍵是找出差異來源、可逆性,以及估計是否持續偏向同一方向。"
+    "background": "成長率永遠相對於比較基準,基準異常高或低時,百分比會呈現機械性的放大或縮小。經濟統計與企業分析常用多期比較、兩年疊加或絕對水準來降低這種誤導。基期效應不表示數據無效,而是提醒讀者不要脫離起點解讀變化率。",
+    "concept": "基期效應",
+    "current_relevance": "新聞標題偏好單一同比數字,容易把低基期反彈寫成超常擴張。加入絕對水準與較長比較區間,能分辨恢復、真正新增需求與價格因素。這對週期性產業、一次性停工與促銷活動尤其重要。",
+    "example": "假設銷售從一百降到六十,第一年跌幅為百分之四十。下一年從六十回升到七十五,年增率雖達百分之二十五,仍比原始一百低百分之二十五。只寫百分之二十五成長會掩蓋尚未完全恢復的水準,因此應把三個數字一起呈現。",
+    "explanation": "同樣增加十五,若起點是六十,成長率為百分之二十五;若起點是一百,成長率只有百分之十五。百分比描述相對速度,絕對值描述實際水準,兩者回答不同問題。遇到劇烈波動後的年度比較時,至少應同時看前兩期的完整路徑。"
   },
   "market_context": {
     "market_status": "NYSE SESSION TODAY",
-    "next_open_session": "2026-11-17",
-    "previous_session": "2026-11-13",
-    "tomorrow_date": "2026-11-17",
+    "next_open_session": "2026-11-18",
+    "previous_session": "2026-11-16",
+    "tomorrow_date": "2026-11-18",
     "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
@@ -263,7 +319,7 @@
       "attention_score": "8.2",
       "bear_case": "若就業同時轉弱、物價或薪資壓力卻未消退,市場將面對滾脹式下修與利率難以快速下降的雙重風險。消費循環、低品質信用與小型企業的盈利預期可能同時惡化。",
       "bull_case": "若就業、薪資與通膨組合指向需求仍穩定但價格壓力緩和,市場會往軟著陸定價移動。企業營收預期可獲得支撐,同時不必大幅上調折現率。",
-      "event_date": "2026-11-13",
+      "event_date": "2026-11-17",
       "impact": {
         "beneficiaries": [
           {
@@ -296,11 +352,11 @@
           }
         ],
         "professional_investor_reaction": "專業投資人會將當期數值與前值修訂、3 個月移動平均、勞參率與薪資分布一起比較,再用美債、美元與週期/防禦板塊的相對反應判斷是成長訊號還是利率訊號佔上風。",
-        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-11-13 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
+        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-11-17 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
         "why_it_matters": "勞動需求決定家戶所得與企業成本,並經由通膨與聯準會反應函數影響美國風險資產定價。「就業強、通膨降」與「就業弱、通膨高」對資產的含義完全不同,因此必須聯立讀取。"
       },
       "market_impact": "high",
-      "news_id": "news_2007f0ada220b443f929",
+      "news_id": "news_6644b3247a8831e1c80e",
       "score_components": [
         {
           "key": "market_size_impact",
@@ -325,10 +381,10 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-16T22:49:14.043996+00:00",
+          "accessed_at": "2026-11-17T21:39:19.627601+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
-          "published_at": "2026-11-13T15:01:02+00:00",
+          "published_at": "2026-11-17T13:30:25+00:00",
           "publisher": "U.S. Bureau of Labor Statistics",
           "quoted_fragment": "",
           "tier": "1",
@@ -336,7 +392,7 @@
           "url": "https://www.bls.gov/bls/"
         }
       ],
-      "summary": "U.S. Bureau of Labor Statistics 於 2026-11-13 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.4%(Oct 2026)、失業率為 4.1%(Oct 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
+      "summary": "U.S. Bureau of Labor Statistics 於 2026-11-17 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.4%(Oct 2026)、失業率為 4.1%(Oct 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
       "title": "Major Economic Indicators Latest Numbers"
     },
     {
@@ -410,7 +466,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-16T22:49:14.043996+00:00",
+          "accessed_at": "2026-11-17T21:39:19.627601+00:00",
           "evidence_id": "src_d0d659af42f5873029e8",
           "evidence_role": "primary",
           "published_at": "2026-11-12T17:45:00+00:00",
@@ -483,7 +539,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-16T22:49:14.043996+00:00",
+          "accessed_at": "2026-11-17T21:39:19.627601+00:00",
           "evidence_id": "src_f297bf2da9fab3984ce3",
           "evidence_role": "primary",
           "published_at": "2026-11-13T16:57:00+00:00",
@@ -498,8 +554,8 @@
       "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms"
     }
   ],
-  "report_date": "2026-11-16",
-  "report_id": "daily-market-report-2026-11-16",
+  "report_date": "2026-11-17",
+  "report_id": "daily-market-report-2026-11-17",
   "research_discovery": {
     "applications": [
       {
@@ -526,7 +582,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Artificial Intelligence and the U.S. Economy: Current Evidence」。官方摘要確認其研究範圍以「We assess the current evidence on how AI-related investment and the use of AI are affecting the U.S....」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-11-16T22:49:24.634388+00:00",
+        "accessed_at": "2026-11-17T21:39:28.761134+00:00",
         "evidence_id": "src_35462dbcd9c2eb644735",
         "evidence_role": "primary",
         "published_at": "2026-11-12T15:20:00+00:00",
@@ -562,7 +618,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-11-16T22:49:12.811280+00:00",
+  "source_cutoff_at": "2026-11-17T21:39:18.014030+00:00",
   "timezone": "America/New_York",
   "validation_status": "degraded"
 }
