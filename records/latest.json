@@ -1,14 +1,43 @@
 {
   "earnings": {
     "candidates": [],
-    "confirmed_events": [],
-    "message": "Tomorrow US market is closed. No earnings trading analysis available.",
-    "next_open_session": "2026-11-23",
-    "status": "market_closed",
-    "target_date": "2026-11-22",
-    "universe_coverage": "not_applicable"
+    "confirmed_events": [
+      {
+        "announced_on": "2026-11-09",
+        "cik": "0001829118",
+        "company_name": "Tuya Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "board_meeting_results",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排董事會在目標日審議或批准財務結果:Tuya Inc.(TUYA)的目標日為 2026-11-23。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_484c56041f301dbcd2bf",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-22T20:15:30.255861+00:00",
+            "evidence_id": "src_63ed4d858a7849388e73",
+            "evidence_role": "primary",
+            "published_at": "2026-11-09T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Tuya Inc. 6-K issuer announcement (0001104659-26-124079)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1829118/000110465926124079/tm2629317d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-23",
+        "ticker": "TUYA"
+      }
+    ],
+    "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
+    "next_open_session": "",
+    "status": "confirmed_events_available",
+    "target_date": "2026-11-23",
+    "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-11-21T20:00:05.103394+00:00",
+  "generated_at": "2026-11-22T20:15:23.614529+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -53,10 +82,10 @@
       "what_changed": "Federal Reserve 於 2026-11-18 發布「Minutes of the Federal Open Market Committee, October 27-28, 2026」;紀錄確認利率目標區間維持在 3-3/4 to 4 percent。與當天決議相比,紀錄新增的資訊是委員對通膨持續性、勞動市場與後續緊縮條件的分歧。",
       "why_it_matters": "政策路徑是全球跨資產定價的折現率起點。即使本次利率沒變,只要市場上調未來升息或推遲降息機率,美債、美元、股票估值與商品就可以同時重新定價。"
     },
-    "market_impact": "high",
+    "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-11-21T20:00:06.568383+00:00",
+        "accessed_at": "2026-11-22T20:15:24.635309+00:00",
         "evidence_id": "src_3ff77c2a41346945a1a9",
         "evidence_role": "primary",
         "published_at": "2026-11-18T19:00:00+00:00",
@@ -67,7 +96,7 @@
         "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
       },
       {
-        "accessed_at": "2026-11-21T20:00:06.568383+00:00",
+        "accessed_at": "2026-11-22T20:15:24.635309+00:00",
         "evidence_id": "src_dda80f9b9f97b5786d97",
         "evidence_role": "primary",
         "published_at": "2026-11-18T19:00:00+00:00",
@@ -82,18 +111,18 @@
     "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026"
   },
   "knowledge_refresh": {
-    "background": "統計風險模型常以價格波動衡量不確定性,因為它可觀測且便於比較。基本面研究則更關注資本永久受損,例如現金流消失、負債違約或資產被迫折價出售。兩種風險相關但不相同,任一單一指標都無法完整取代另一種。",
-    "concept": "波動不等於永久損失",
-    "current_relevance": "如果只追求低歷史波動,可能忽略流動性差或估價不頻繁造成的假性穩定。如果把每次價格下跌都視為永久損失,又可能混淆資訊更新與經濟價值摧毀。結合市場與基本面風險,能讓風險敘事更接近真正承受的後果。",
-    "example": "假設資產甲一年內在九十到一百一十之間波動,但契約現金流與資產負債表未變。資產乙價格長期維持一百,卻有五十的短期負債和僅二十的可用現金,且主要收入中斷。甲的可見波動較高,乙的永久損失風險卻可能更大,顯示兩種尺度不能互換。",
-    "explanation": "波動描述價格在一段期間內上下移動多大,永久損失描述可回收經濟價值是否實質減少。高波動可能只是估值意見快速改變,低波動也可能掩蓋延後認列的信用問題。分析時要把市場價格路徑和底層現金流、槓桿及流動性分開檢查。"
+    "background": "百分比損失以原始本金為基礎,而復原漲幅以較小的剩餘本金為基礎。因此損失越深,回到起點所需的百分比增幅會非線性增加。這種幾何不對稱是資本保存與風險控制的基本數學。",
+    "concept": "回撤與復原的不對稱",
+    "current_relevance": "深度回撤會消耗時間、流動性與承受風險的能力,可能迫使原本長期的計畫提前中止。只看最終平均結果,容易忽略途中是否存在無法實際承受的資本缺口。把回撤轉換成所需復原幅度,能更直觀呈現下行風險的成本。",
+    "example": "假設資本從一百下跌百分之三十後剩七十。要從七十回到一百,需要增加三十,也就是相對七十上升約百分之四十二點九。若下跌百分之五十後只剩五十,復原幅度更升到百分之一百,顯示損失越深越難彌補。",
+    "explanation": "跌幅為百分之若干後,復原幅度等於一除以一減跌幅,再扣除一。損失一半後需要翻倍才能回本,而不是上升同樣的百分之五十。所以比較策略時,最大回撤和復原時間通常比單純平均報酬更有資訊。"
   },
   "market_context": {
     "market_status": "NYSE CLOSED TODAY",
     "next_open_session": "2026-11-23",
     "previous_session": "2026-11-20",
-    "tomorrow_date": "2026-11-22",
-    "tomorrow_status": "NYSE CLOSED"
+    "tomorrow_date": "2026-11-23",
+    "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
     {
@@ -167,7 +196,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-21T20:00:06.560580+00:00",
+          "accessed_at": "2026-11-22T20:15:24.626421+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-11-20T15:03:24+00:00",
@@ -252,7 +281,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-21T20:00:06.560580+00:00",
+          "accessed_at": "2026-11-22T20:15:24.626421+00:00",
           "evidence_id": "src_3ff77c2a41346945a1a9",
           "evidence_role": "primary",
           "published_at": "2026-11-18T19:00:00+00:00",
@@ -263,7 +292,7 @@
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
         },
         {
-          "accessed_at": "2026-11-21T20:00:06.560580+00:00",
+          "accessed_at": "2026-11-22T20:15:24.626421+00:00",
           "evidence_id": "src_dda80f9b9f97b5786d97",
           "evidence_role": "primary",
           "published_at": "2026-11-18T19:00:00+00:00",
@@ -348,7 +377,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-21T20:00:06.560580+00:00",
+          "accessed_at": "2026-11-22T20:15:24.626421+00:00",
           "evidence_id": "src_d0d659af42f5873029e8",
           "evidence_role": "primary",
           "published_at": "2026-11-12T17:45:00+00:00",
@@ -363,8 +392,8 @@
       "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
     }
   ],
-  "report_date": "2026-11-21",
-  "report_id": "daily-market-report-2026-11-21",
+  "report_date": "2026-11-22",
+  "report_id": "daily-market-report-2026-11-22",
   "research_discovery": {
     "applications": [
       {
@@ -391,7 +420,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Artificial Intelligence and the U.S. Economy: Current Evidence」。官方摘要確認其研究範圍以「We assess the current evidence on how AI-related investment and the use of AI are affecting the U.S....」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-11-21T20:00:06.673529+00:00",
+        "accessed_at": "2026-11-22T20:15:30.300810+00:00",
         "evidence_id": "src_35462dbcd9c2eb644735",
         "evidence_role": "primary",
         "published_at": "2026-11-12T15:20:00+00:00",
@@ -407,8 +436,8 @@
   "schema_version": "1.0",
   "section_statuses": {
     "earnings": {
-      "detail": "",
-      "status": "available"
+      "detail": "Bounded SEC earnings coverage is degraded because the following source material was unavailable: one or more matching SEC filing documents. This is not a complete market calendar.",
+      "status": "degraded"
     },
     "global_macro": {
       "detail": "This run considers genuine source releases from the prior 30 calendar days for Global Macro; the selected event date remains visible.",
@@ -427,7 +456,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-11-21T20:00:05.103394+00:00",
+  "source_cutoff_at": "2026-11-22T20:15:23.614529+00:00",
   "timezone": "America/New_York",
-  "validation_status": "valid"
+  "validation_status": "degraded"
 }
