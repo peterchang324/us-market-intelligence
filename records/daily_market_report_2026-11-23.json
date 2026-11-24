@@ -1,0 +1,658 @@
+{
+  "earnings": {
+    "candidates": [],
+    "confirmed_events": [
+      {
+        "announced_on": "2026-11-03",
+        "cik": "0000935703",
+        "company_name": "DOLLAR TREE, INC.",
+        "conference_call_at": "2026-11-24T13:00:00+00:00",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:DOLLAR TREE, INC.(DLTR)的目標日為 2026-11-24。公告同時確認業績發布時間為 08:00 ET。另外,電話會議安排在 08:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_22a04f620a75c786e2cc",
+        "form": "8-K",
+        "release_timing": "before_market",
+        "release_timing_label": "Confirmed release: 2026-11-24T13:00:00+00:00",
+        "scheduled_release_at": "2026-11-24T13:00:00+00:00",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_024cddd20cba2db00e95",
+            "evidence_role": "primary",
+            "published_at": "2026-11-03T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "DOLLAR TREE, INC. 8-K issuer announcement (0000935703-26-000128)",
+            "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000128/ex991q3-26earningscallanno.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "DLTR"
+      },
+      {
+        "announced_on": "2026-11-12",
+        "cik": "0001741530",
+        "company_name": "Qfin Holdings, Inc.",
+        "conference_call_at": "2026-11-25T00:30:00+00:00",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Qfin Holdings, Inc.(QFIN)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 19:30 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_a2ac6add590e8abf455d",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_6de0abe3160ae1e4fccf",
+            "evidence_role": "primary",
+            "published_at": "2026-11-12T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Qfin Holdings, Inc. 6-K issuer announcement (0001104659-26-125621)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1741530/000110465926125621/tm2629208d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "QFIN"
+      },
+      {
+        "announced_on": "2026-11-16",
+        "cik": "0001835724",
+        "company_name": "Zhihu Inc.",
+        "conference_call_at": "2026-11-24T11:00:00+00:00",
+        "confirmation_basis": "board_meeting_results",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排董事會在目標日審議或批准財務結果:Zhihu Inc.(ZH)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 06:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_65a7f4262b83e973c251",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_5e1c7ec556b75057318f",
+            "evidence_role": "primary",
+            "published_at": "2026-11-16T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Zhihu Inc. 6-K issuer announcement (0001104659-26-127463)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1835724/000110465926127463/tm2629869d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "ZH"
+      },
+      {
+        "announced_on": "2026-11-03",
+        "cik": "0001723690",
+        "company_name": "Bilibili Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Bilibili Inc.(BILI)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_b603fe2efdadd8fe7f58",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_0ae56b49c4b95dbfb32d",
+            "evidence_role": "primary",
+            "published_at": "2026-11-03T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Bilibili Inc. 6-K issuer announcement (0001193125-26-445313)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1723690/000119312526445313/d175888dex991.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "BILI"
+      },
+      {
+        "announced_on": "2026-11-10",
+        "cik": "0001625414",
+        "company_name": "Baozun Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Baozun Inc.(BZUN)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_faad9121eee79a25f49b",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_2f519237df977fe26801",
+            "evidence_role": "primary",
+            "published_at": "2026-11-10T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Baozun Inc. 6-K issuer announcement (0001104659-26-124718)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1625414/000110465926124718/tm2629444d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "BZUN"
+      },
+      {
+        "announced_on": "2026-10-29",
+        "cik": "0001795589",
+        "company_name": "Kingsoft Cloud Holdings Ltd",
+        "conference_call_at": "",
+        "confirmation_basis": "board_meeting_results",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排董事會在目標日審議或批准財務結果:Kingsoft Cloud Holdings Ltd(KC)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_99d24edf475cf9277d51",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_3406ebf9c4778cffff4d",
+            "evidence_role": "primary",
+            "published_at": "2026-10-29T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Kingsoft Cloud Holdings Ltd 6-K issuer announcement (0001104659-26-119930)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1795589/000110465926119930/tm2628529d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "KC"
+      },
+      {
+        "announced_on": "2026-11-13",
+        "cik": "0001499543",
+        "company_name": "NOAH HOLDINGS LTD",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:NOAH HOLDINGS LTD(NOAH)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_dc7a06910aebb7cdd600",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_6363dbe866b55dec1697",
+            "evidence_role": "primary",
+            "published_at": "2026-11-13T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "NOAH HOLDINGS LTD 6-K issuer announcement (0001104659-26-126457)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1499543/000110465926126457/tm2629666d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "NOAH"
+      },
+      {
+        "announced_on": "2026-11-09",
+        "cik": "0001829118",
+        "company_name": "Tuya Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "earnings_conference_call",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排目標日的財報電話會議:Tuya Inc.(TUYA)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_7cb1d5c9a44288238783",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_63ed4d858a7849388e73",
+            "evidence_role": "primary",
+            "published_at": "2026-11-09T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Tuya Inc. 6-K issuer announcement (0001104659-26-124079)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1829118/000110465926124079/tm2629317d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "TUYA"
+      }
+    ],
+    "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
+    "next_open_session": "",
+    "status": "confirmed_events_available",
+    "target_date": "2026-11-24",
+    "universe_coverage": "bounded_research"
+  },
+  "generated_at": "2026-11-24T00:41:42.826150+00:00",
+  "global_macro": {
+    "affected_assets": [
+      "stocks",
+      "bonds",
+      "usd",
+      "commodities"
+    ],
+    "event_date": "2026-11-18",
+    "event_id": "macro_6a2160f10f70a2a14e16",
+    "impact": {
+      "beneficiaries": [
+        {
+          "kind": "named_entity",
+          "name": "美國短期國債與美元現金工具",
+          "rationale": "若政策利率維持高檔或升息機率增加,前端收益率和美國利差支撐可能延長。"
+        },
+        {
+          "kind": "named_entity",
+          "name": "存款成本重定價較慢的大型銀行",
+          "rationale": "在放款收益率先上升、存款 beta 滞後的條件下,部分淨利差業務可能受益。"
+        }
+      ],
+      "indicators_to_monitor_next": [
+        "2 年期美債殖利率、聯邦基金期貨與下次會議的隱含利率機率",
+        "核心 PCE、CPI 服務項、薪資成長與中長期通膨預期",
+        "美元指數、10 年期實質利率與長久期股相對大盤的表現",
+        "後續聯準會委員發言是否重複紀錄中的緊縮門檻與風險判斷"
+      ],
+      "losers": [
+        {
+          "kind": "named_entity",
+          "name": "長久期科技與高估值成長股",
+          "rationale": "未來現金流比重高,實質利率上移會對現值與估值倍數形成較大壓力。"
+        },
+        {
+          "kind": "named_entity",
+          "name": "高槓桿房地產與浮動利率借款人",
+          "rationale": "再融資成本與利息負擔對高利率維持時間特別敏感。"
+        }
+      ],
+      "professional_investor_reaction": "利率團隊會先將紀錄與原始會後聲明逐項比較,拆出「委員分歧」與「經濟預測」的新資訊;然後通過 OIS/聯邦基金期貨、2 年期美債、實質利率和美元即時反應,確認訊號是否已被定價。",
+      "what_changed": "Federal Reserve 於 2026-11-18 發布「Minutes of the Federal Open Market Committee, October 27-28, 2026」;紀錄確認利率目標區間維持在 3-3/4 to 4 percent。與當天決議相比,紀錄新增的資訊是委員對通膨持續性、勞動市場與後續緊縮條件的分歧。",
+      "why_it_matters": "政策路徑是全球跨資產定價的折現率起點。即使本次利率沒變,只要市場上調未來升息或推遲降息機率,美債、美元、股票估值與商品就可以同時重新定價。"
+    },
+    "market_impact": "medium",
+    "sources": [
+      {
+        "accessed_at": "2026-11-24T00:41:44.441020+00:00",
+        "evidence_id": "src_3ff77c2a41346945a1a9",
+        "evidence_role": "primary",
+        "published_at": "2026-11-18T19:00:00+00:00",
+        "publisher": "Federal Reserve",
+        "quoted_fragment": "",
+        "tier": "1",
+        "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+      },
+      {
+        "accessed_at": "2026-11-24T00:41:44.441020+00:00",
+        "evidence_id": "src_dda80f9b9f97b5786d97",
+        "evidence_role": "primary",
+        "published_at": "2026-11-18T19:00:00+00:00",
+        "publisher": "Federal Reserve",
+        "quoted_fragment": "",
+        "tier": "1",
+        "title": "Federal Open Market Committee meeting minutes",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
+      }
+    ],
+    "summary": "聯準會於 2026-11-18 公布「Minutes of the Federal Open Market Committee, October 27-28, 2026」的官方紀錄。會議紀錄證實委員會將聯邦基金利率目標區間維持在 3-3/4 to 4 percent,並記載 2 位成員反對,主張上調 25 個基點。紀錄將通膨仍高於 2% 目標、勞動市場大致穩定、經濟活動仍在擴張並列,顯示政策兩難是「成長尚可」與「價格壓力未解」同時存在。在沒有完整與會者意見前,不應將「公布紀錄」本身解讀成偏鷹或偏鴿。市場真正需要重新定價的,是下一次會議前的通膨路徑與政策分歧,而不是只看新聞標題。跨資產傳導上,利率路徑會先改變美債殖利率與實質折現率,再影響股票估值和信用利差;美國利差若擴大通常支撐美元,而美元與實質利率同向上行往往壓抑無息商品。",
+    "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026"
+  },
+  "knowledge_refresh": {
+    "background": "專業風險管理把看法強度與資本曝險分開,因為判斷正確也不代表結果路徑可承受。風險預算先設定單一情境可容忍的資本損失,再反推曝險規模。這種方法的核心是承認機率與損失幅度都存在估計誤差。",
+    "concept": "風險預算與部位大小",
+    "current_relevance": "高度確信的敘事仍可能因時點、路徑或未知事件而失敗。用風險預算約束規模,可以避免單一判斷錯誤主導整體資本結果。明示壓力假設也讓後續檢討能區分模型錯誤與超出設定範圍的事件。",
+    "example": "假設分析用資本為一百,單一情境的可容忍損失設定為二,而壓力情境估計曝險會損失百分之二十。以二除以零點二,得到的曝險上限為十。若另一項曝險在同一壓力情境也會損失二,就必須合併計算,不能把兩份風險預算各自當成獨立。",
+    "explanation": "部位大小應同時考慮信心、潛在損失、相關性與流動性,而不是只看預期報酬。簡化計算可用可容忍損失除以壓力情境下的單位損失。結果只是風險上限的起點,還要檢查多個曝險是否在同一情境下同時受損。"
+  },
+  "market_context": {
+    "market_status": "NYSE SESSION TODAY",
+    "next_open_session": "2026-11-24",
+    "previous_session": "2026-11-20",
+    "tomorrow_date": "2026-11-24",
+    "tomorrow_status": "NYSE SESSION"
+  },
+  "market_news": [
+    {
+      "affected_sectors": [
+        "Consumer Discretionary",
+        "Industrials",
+        "Financials"
+      ],
+      "attention_score": "8.2",
+      "bear_case": "若就業同時轉弱、物價或薪資壓力卻未消退,市場將面對滾脹式下修與利率難以快速下降的雙重風險。消費循環、低品質信用與小型企業的盈利預期可能同時惡化。",
+      "bull_case": "若就業、薪資與通膨組合指向需求仍穩定但價格壓力緩和,市場會往軟著陸定價移動。企業營收預期可獲得支撐,同時不必大幅上調折現率。",
+      "event_date": "2026-11-20",
+      "impact": {
+        "beneficiaries": [
+          {
+            "kind": "named_entity",
+            "name": "美國大眾消費與就業敏感服務業",
+            "rationale": "若就業與實質薪資保持正成長,家戶現金流會繼續支撐需求。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "軟著陸情境下的投資級信用債",
+            "rationale": "成長未明顯轉負且通膨放緩時,違約風險與無風險利率壓力可能同時受控。"
+          }
+        ],
+        "indicators_to_monitor_next": [
+          "非農就業前值修訂、3 個月平均、每週初領失業救濟金與招聘率",
+          "失業率、勞動參與率、就業人口比與長期失業占比",
+          "平均時薪、生產力、單位勞工成本與服務業通膨",
+          "2 年期美債、美元與美股週期板塊對數據意外的相對反應"
+        ],
+        "losers": [
+          {
+            "kind": "named_entity",
+            "name": "低利潤且人力密集的零售與餐飲業",
+            "rationale": "若薪資比售價更快上升,營運利潤率會遭到擠壓。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "低品質消費信用與小型企業借款",
+            "rationale": "若就業轉弱,現金流緩衝較少的借款人通常會先出現逾期壓力。"
+          }
+        ],
+        "professional_investor_reaction": "專業投資人會將當期數值與前值修訂、3 個月移動平均、勞參率與薪資分布一起比較,再用美債、美元與週期/防禦板塊的相對反應判斷是成長訊號還是利率訊號佔上風。",
+        "what_changed": "U.S. Bureau of Labor Statistics 於 2026-11-20 更新「Major Economic Indicators Latest Numbers」,提供可核對的勞動市場或物價快照。新資訊不只是單一標題,而是就業、失業、薪資與物價對經濟需求的共同訊號。",
+        "why_it_matters": "勞動需求決定家戶所得與企業成本,並經由通膨與聯準會反應函數影響美國風險資產定價。「就業強、通膨降」與「就業弱、通膨高」對資產的含義完全不同,因此必須聯立讀取。"
+      },
+      "market_impact": "high",
+      "news_id": "news_3355599e34801b2ab3d7",
+      "score_components": [
+        {
+          "key": "market_size_impact",
+          "value": "8.0"
+        },
+        {
+          "key": "earnings_impact",
+          "value": "8.0"
+        },
+        {
+          "key": "macro_importance",
+          "value": "9.0"
+        },
+        {
+          "key": "sector_influence",
+          "value": "8.0"
+        },
+        {
+          "key": "short_term_trading_relevance",
+          "value": "8.0"
+        }
+      ],
+      "sources": [
+        {
+          "accessed_at": "2026-11-24T00:41:44.433074+00:00",
+          "evidence_id": "src_73950174e730f4f35cdb",
+          "evidence_role": "primary",
+          "published_at": "2026-11-20T15:03:24+00:00",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "quoted_fragment": "",
+          "tier": "1",
+          "title": "Major Economic Indicators Latest Numbers",
+          "url": "https://www.bls.gov/bls/"
+        }
+      ],
+      "summary": "U.S. Bureau of Labor Statistics 於 2026-11-20 更新「Major Economic Indicators Latest Numbers」。官方摘要中可直接核對的數值包括:消費者物價指數為 +0.4%(Oct 2026)、失業率為 4.1%(Oct 2026)。 閱讀時不能只抓一個數字:通膨決定實質購買力與利率門檻,失業率、就業增量與薪資則用來判斷需求是否仍有支撐。專業投資人會把同期趨勢、前值修訂與市場預期一起比較;未經這三步,不應將單期變動當成景氣轉折。",
+      "title": "Major Economic Indicators Latest Numbers"
+    },
+    {
+      "affected_sectors": [
+        "Financials",
+        "Real Estate",
+        "Technology"
+      ],
+      "attention_score": "7.8",
+      "bear_case": "若通膨停滯、分歧擴大或後續委員發言強化升息門檻,短端利率與實質利率可能再上移。估值依賴遠期現金流的成長股、高槓桿借款人與長久期債券會承受較大壓力。",
+      "bull_case": "若後續通膨數據放緩、會議分歧沒有擴大,市場可能將紀錄解讀為聯準會有空間維持而非追加緊縮。這會壓低尾部升息風險,對長久期資產、住宅敏感板塊與信用利差較有利。",
+      "event_date": "2026-11-18",
+      "impact": {
+        "beneficiaries": [
+          {
+            "kind": "named_entity",
+            "name": "美國短期國債與美元現金工具",
+            "rationale": "若政策利率維持高檔或升息機率增加,前端收益率和美國利差支撐可能延長。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "存款成本重定價較慢的大型銀行",
+            "rationale": "在放款收益率先上升、存款 beta 滞後的條件下,部分淨利差業務可能受益。"
+          }
+        ],
+        "indicators_to_monitor_next": [
+          "2 年期美債殖利率、聯邦基金期貨與下次會議的隱含利率機率",
+          "核心 PCE、CPI 服務項、薪資成長與中長期通膨預期",
+          "美元指數、10 年期實質利率與長久期股相對大盤的表現",
+          "後續聯準會委員發言是否重複紀錄中的緊縮門檻與風險判斷"
+        ],
+        "losers": [
+          {
+            "kind": "named_entity",
+            "name": "長久期科技與高估值成長股",
+            "rationale": "未來現金流比重高,實質利率上移會對現值與估值倍數形成較大壓力。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "高槓桿房地產與浮動利率借款人",
+            "rationale": "再融資成本與利息負擔對高利率維持時間特別敏感。"
+          }
+        ],
+        "professional_investor_reaction": "利率團隊會先將紀錄與原始會後聲明逐項比較,拆出「委員分歧」與「經濟預測」的新資訊;然後通過 OIS/聯邦基金期貨、2 年期美債、實質利率和美元即時反應,確認訊號是否已被定價。",
+        "what_changed": "Federal Reserve 於 2026-11-18 發布「Minutes of the Federal Open Market Committee, October 27-28, 2026」;紀錄確認利率目標區間維持在 3-3/4 to 4 percent。與當天決議相比,紀錄新增的資訊是委員對通膨持續性、勞動市場與後續緊縮條件的分歧。",
+        "why_it_matters": "政策路徑是美國風險資產定價的折現率起點。即使本次利率沒變,只要市場上調未來升息或推遲降息機率,美債、美元、股票估值與商品就可以同時重新定價。"
+      },
+      "market_impact": "high",
+      "news_id": "news_6a2160f10f70a2a14e16",
+      "score_components": [
+        {
+          "key": "market_size_impact",
+          "value": "8.0"
+        },
+        {
+          "key": "earnings_impact",
+          "value": "6.0"
+        },
+        {
+          "key": "macro_importance",
+          "value": "9.0"
+        },
+        {
+          "key": "sector_influence",
+          "value": "8.0"
+        },
+        {
+          "key": "short_term_trading_relevance",
+          "value": "8.0"
+        }
+      ],
+      "sources": [
+        {
+          "accessed_at": "2026-11-24T00:41:44.433074+00:00",
+          "evidence_id": "src_3ff77c2a41346945a1a9",
+          "evidence_role": "primary",
+          "published_at": "2026-11-18T19:00:00+00:00",
+          "publisher": "Federal Reserve",
+          "quoted_fragment": "",
+          "tier": "1",
+          "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+        },
+        {
+          "accessed_at": "2026-11-24T00:41:44.433074+00:00",
+          "evidence_id": "src_dda80f9b9f97b5786d97",
+          "evidence_role": "primary",
+          "published_at": "2026-11-18T19:00:00+00:00",
+          "publisher": "Federal Reserve",
+          "quoted_fragment": "",
+          "tier": "1",
+          "title": "Federal Open Market Committee meeting minutes",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
+        }
+      ],
+      "summary": "聯準會於 2026-11-18 公布「Minutes of the Federal Open Market Committee, October 27-28, 2026」的官方紀錄。會議紀錄證實委員會將聯邦基金利率目標區間維持在 3-3/4 to 4 percent,並記載 2 位成員反對,主張上調 25 個基點。紀錄將通膨仍高於 2% 目標、勞動市場大致穩定、經濟活動仍在擴張並列,顯示政策兩難是「成長尚可」與「價格壓力未解」同時存在。在沒有完整與會者意見前,不應將「公布紀錄」本身解讀成偏鷹或偏鴿。市場真正需要重新定價的,是下一次會議前的通膨路徑與政策分歧,而不是只看新聞標題。",
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026"
+    },
+    {
+      "affected_sectors": [
+        "Financials",
+        "Real Estate",
+        "Technology"
+      ],
+      "attention_score": "7.8",
+      "bear_case": "若通膨停滯、分歧擴大或後續委員發言強化升息門檻,短端利率與實質利率可能再上移。估值依賴遠期現金流的成長股、高槓桿借款人與長久期債券會承受較大壓力。",
+      "bull_case": "若後續通膨數據放緩、會議分歧沒有擴大,市場可能將紀錄解讀為聯準會有空間維持而非追加緊縮。這會壓低尾部升息風險,對長久期資產、住宅敏感板塊與信用利差較有利。",
+      "event_date": "2026-11-12",
+      "impact": {
+        "beneficiaries": [
+          {
+            "kind": "named_entity",
+            "name": "美國短期國債與美元現金工具",
+            "rationale": "若政策利率維持高檔或升息機率增加,前端收益率和美國利差支撐可能延長。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "存款成本重定價較慢的大型銀行",
+            "rationale": "在放款收益率先上升、存款 beta 滞後的條件下,部分淨利差業務可能受益。"
+          }
+        ],
+        "indicators_to_monitor_next": [
+          "2 年期美債殖利率、聯邦基金期貨與下次會議的隱含利率機率",
+          "核心 PCE、CPI 服務項、薪資成長與中長期通膨預期",
+          "美元指數、10 年期實質利率與長久期股相對大盤的表現",
+          "後續聯準會委員發言是否重複紀錄中的緊縮門檻與風險判斷"
+        ],
+        "losers": [
+          {
+            "kind": "named_entity",
+            "name": "長久期科技與高估值成長股",
+            "rationale": "未來現金流比重高,實質利率上移會對現值與估值倍數形成較大壓力。"
+          },
+          {
+            "kind": "named_entity",
+            "name": "高槓桿房地產與浮動利率借款人",
+            "rationale": "再融資成本與利息負擔對高利率維持時間特別敏感。"
+          }
+        ],
+        "professional_investor_reaction": "利率團隊會先將紀錄與原始會後聲明逐項比較,拆出「委員分歧」與「經濟預測」的新資訊;然後通過 OIS/聯邦基金期貨、2 年期美債、實質利率和美元即時反應,確認訊號是否已被定價。",
+        "what_changed": "Federal Reserve 於 2026-11-12 發布「Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027」;聯準會公開了新一份政策會議紀錄。與當天決議相比,紀錄新增的資訊是委員對通膨持續性、勞動市場與後續緊縮條件的分歧。",
+        "why_it_matters": "政策路徑是美國風險資產定價的折現率起點。即使本次利率沒變,只要市場上調未來升息或推遲降息機率,美債、美元、股票估值與商品就可以同時重新定價。"
+      },
+      "market_impact": "high",
+      "news_id": "news_c138dfb2d1b33583456a",
+      "score_components": [
+        {
+          "key": "market_size_impact",
+          "value": "8.0"
+        },
+        {
+          "key": "earnings_impact",
+          "value": "6.0"
+        },
+        {
+          "key": "macro_importance",
+          "value": "9.0"
+        },
+        {
+          "key": "sector_influence",
+          "value": "8.0"
+        },
+        {
+          "key": "short_term_trading_relevance",
+          "value": "8.0"
+        }
+      ],
+      "sources": [
+        {
+          "accessed_at": "2026-11-24T00:41:44.433074+00:00",
+          "evidence_id": "src_d0d659af42f5873029e8",
+          "evidence_role": "primary",
+          "published_at": "2026-11-12T17:45:00+00:00",
+          "publisher": "Federal Reserve",
+          "quoted_fragment": "",
+          "tier": "1",
+          "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+        }
+      ],
+      "summary": "聯準會於 2026-11-12 公布「Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027」的官方紀錄。官方發布頁證實會議紀錄已公開,但本次可用內文並未提供足以重建投票、利率區間與委員分歧的細節。此類紀錄的重點不是公布日本身,而是委員對通膨、就業與增長的權衡是否改變。在沒有完整與會者意見前,不應將「公布紀錄」本身解讀成偏鷹或偏鴿。市場真正需要重新定價的,是下一次會議前的通膨路徑與政策分歧,而不是只看新聞標題。",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
+    }
+  ],
+  "report_date": "2026-11-23",
+  "report_id": "daily-market-report-2026-11-23",
+  "research_discovery": {
+    "applications": [
+      {
+        "application": "閱讀官方論文的方法與樣本,確認研究設計後再納入金融條件監測。",
+        "category": "finance"
+      },
+      {
+        "application": "把核心假設轉成可觀測訊號,設定基準模型並做樣本外回測。",
+        "category": "investing"
+      },
+      {
+        "application": "把研究結論作為情境變數,並用公司自身需求、成本與招聘資料交叉驗證。",
+        "category": "business_strategy"
+      },
+      {
+        "application": "保存論文版本、資料版本與計算步驟,讓研究結果可重現並避免前視偏誤。",
+        "category": "technology"
+      }
+    ],
+    "changed_belief": "可用價值在於把論文提出的假設轉成可觀測、可回測的指標;是否有效必須由原文方法、資料修訂與樣本外結果共同決定。",
+    "discovered_on": "2026-11-23",
+    "discovery_id": "research_6ddf3d314792aebf874e",
+    "impact": null,
+    "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: The Welfare Effects of Bank Liquidity and Capital Requirements(Revised)」。官方摘要確認其研究範圍以「The stringency of bank liquidity and capital requirements should depend on their social costs and benefits. Equilibrium asset...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
+    "sources": [
+      {
+        "accessed_at": "2026-11-24T00:41:54.467428+00:00",
+        "evidence_id": "src_71923f6a7d9af8ab76c3",
+        "evidence_role": "primary",
+        "published_at": "2026-11-23T17:07:00+00:00",
+        "publisher": "Federal Reserve",
+        "quoted_fragment": "",
+        "tier": "1",
+        "title": "FEDS Paper: The Welfare Effects of Bank Liquidity and Capital Requirements(Revised)",
+        "url": "https://www.federalreserve.gov/econres/feds/the-welfare-effects-of-bank-liquidity-and-capital-requirements.htm"
+      }
+    ],
+    "title": "FEDS Paper: The Welfare Effects of Bank Liquidity and Capital Requirements(Revised)"
+  },
+  "schema_version": "1.0",
+  "section_statuses": {
+    "earnings": {
+      "detail": "Bounded SEC earnings coverage is degraded because the following source material was unavailable: one or more matching SEC filing documents. This is not a complete market calendar.",
+      "status": "degraded"
+    },
+    "global_macro": {
+      "detail": "This run considers genuine source releases from the prior 30 calendar days for Global Macro; the selected event date remains visible.",
+      "status": "available"
+    },
+    "knowledge_refresh": {
+      "detail": "",
+      "status": "available"
+    },
+    "market_news": {
+      "detail": "This run may use genuine source releases from the prior 14 calendar days to fill the Top 3 when fewer same-session items are available; every card shows its event date.",
+      "status": "available"
+    },
+    "research_discovery": {
+      "detail": "",
+      "status": "available"
+    }
+  },
+  "source_cutoff_at": "2026-11-24T00:41:42.826150+00:00",
+  "timezone": "America/New_York",
+  "validation_status": "degraded"
+}

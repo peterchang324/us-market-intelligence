@@ -3,20 +3,216 @@
     "candidates": [],
     "confirmed_events": [
       {
-        "announced_on": "2026-11-09",
-        "cik": "0001829118",
-        "company_name": "Tuya Inc.",
-        "conference_call_at": "",
-        "confirmation_basis": "board_meeting_results",
-        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排董事會在目標日審議或批准財務結果:Tuya Inc.(TUYA)的目標日為 2026-11-23。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
-        "event_id": "earnings_event_484c56041f301dbcd2bf",
+        "announced_on": "2026-11-03",
+        "cik": "0000935703",
+        "company_name": "DOLLAR TREE, INC.",
+        "conference_call_at": "2026-11-24T13:00:00+00:00",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:DOLLAR TREE, INC.(DLTR)的目標日為 2026-11-24。公告同時確認業績發布時間為 08:00 ET。另外,電話會議安排在 08:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_22a04f620a75c786e2cc",
+        "form": "8-K",
+        "release_timing": "before_market",
+        "release_timing_label": "Confirmed release: 2026-11-24T13:00:00+00:00",
+        "scheduled_release_at": "2026-11-24T13:00:00+00:00",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_024cddd20cba2db00e95",
+            "evidence_role": "primary",
+            "published_at": "2026-11-03T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "DOLLAR TREE, INC. 8-K issuer announcement (0000935703-26-000128)",
+            "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000128/ex991q3-26earningscallanno.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "DLTR"
+      },
+      {
+        "announced_on": "2026-11-12",
+        "cik": "0001741530",
+        "company_name": "Qfin Holdings, Inc.",
+        "conference_call_at": "2026-11-25T00:30:00+00:00",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Qfin Holdings, Inc.(QFIN)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 19:30 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_a2ac6add590e8abf455d",
         "form": "6-K",
         "release_timing": "time_not_confirmed",
         "release_timing_label": "Release time not confirmed",
         "scheduled_release_at": "",
         "sources": [
           {
-            "accessed_at": "2026-11-22T20:15:30.255861+00:00",
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_6de0abe3160ae1e4fccf",
+            "evidence_role": "primary",
+            "published_at": "2026-11-12T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Qfin Holdings, Inc. 6-K issuer announcement (0001104659-26-125621)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1741530/000110465926125621/tm2629208d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "QFIN"
+      },
+      {
+        "announced_on": "2026-11-16",
+        "cik": "0001835724",
+        "company_name": "Zhihu Inc.",
+        "conference_call_at": "2026-11-24T11:00:00+00:00",
+        "confirmation_basis": "board_meeting_results",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排董事會在目標日審議或批准財務結果:Zhihu Inc.(ZH)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。另外,電話會議安排在 06:00 ET;這是會議時間,不會被冒充為業績發布時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_65a7f4262b83e973c251",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_5e1c7ec556b75057318f",
+            "evidence_role": "primary",
+            "published_at": "2026-11-16T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Zhihu Inc. 6-K issuer announcement (0001104659-26-127463)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1835724/000110465926127463/tm2629869d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "ZH"
+      },
+      {
+        "announced_on": "2026-11-03",
+        "cik": "0001723690",
+        "company_name": "Bilibili Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Bilibili Inc.(BILI)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_b603fe2efdadd8fe7f58",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_0ae56b49c4b95dbfb32d",
+            "evidence_role": "primary",
+            "published_at": "2026-11-03T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Bilibili Inc. 6-K issuer announcement (0001193125-26-445313)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1723690/000119312526445313/d175888dex991.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "BILI"
+      },
+      {
+        "announced_on": "2026-11-10",
+        "cik": "0001625414",
+        "company_name": "Baozun Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:Baozun Inc.(BZUN)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_faad9121eee79a25f49b",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_2f519237df977fe26801",
+            "evidence_role": "primary",
+            "published_at": "2026-11-10T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Baozun Inc. 6-K issuer announcement (0001104659-26-124718)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1625414/000110465926124718/tm2629444d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "BZUN"
+      },
+      {
+        "announced_on": "2026-10-29",
+        "cik": "0001795589",
+        "company_name": "Kingsoft Cloud Holdings Ltd",
+        "conference_call_at": "",
+        "confirmation_basis": "board_meeting_results",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排董事會在目標日審議或批准財務結果:Kingsoft Cloud Holdings Ltd(KC)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_99d24edf475cf9277d51",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_3406ebf9c4778cffff4d",
+            "evidence_role": "primary",
+            "published_at": "2026-10-29T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "Kingsoft Cloud Holdings Ltd 6-K issuer announcement (0001104659-26-119930)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1795589/000110465926119930/tm2628529d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "KC"
+      },
+      {
+        "announced_on": "2026-11-13",
+        "cik": "0001499543",
+        "company_name": "NOAH HOLDINGS LTD",
+        "conference_call_at": "",
+        "confirmation_basis": "scheduled_results_release",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排在目標日公布財務結果:NOAH HOLDINGS LTD(NOAH)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_dc7a06910aebb7cdd600",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
+            "evidence_id": "src_6363dbe866b55dec1697",
+            "evidence_role": "primary",
+            "published_at": "2026-11-13T00:00:00+00:00",
+            "publisher": "U.S. Securities and Exchange Commission",
+            "quoted_fragment": "",
+            "tier": "1",
+            "title": "NOAH HOLDINGS LTD 6-K issuer announcement (0001104659-26-126457)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1499543/000110465926126457/tm2629666d1_ex99-1.htm"
+          }
+        ],
+        "target_date": "2026-11-24",
+        "ticker": "NOAH"
+      },
+      {
+        "announced_on": "2026-11-09",
+        "cik": "0001829118",
+        "company_name": "Tuya Inc.",
+        "conference_call_at": "",
+        "confirmation_basis": "earnings_conference_call",
+        "confirmation_summary": "SEC EDGAR 中的公司公告明確安排目標日的財報電話會議:Tuya Inc.(TUYA)的目標日為 2026-11-24。公告沒有確認業績發布的精確時間或盤前/盤後時段。本次可驗證文件沒有提供可取信的電話會議時間。此記錄只證明公司已向 SEC 提交這項安排;它不提供分析師共識、價格反應或全市場完整涵蓋。",
+        "event_id": "earnings_event_7cb1d5c9a44288238783",
+        "form": "6-K",
+        "release_timing": "time_not_confirmed",
+        "release_timing_label": "Release time not confirmed",
+        "scheduled_release_at": "",
+        "sources": [
+          {
+            "accessed_at": "2026-11-24T00:41:54.347189+00:00",
             "evidence_id": "src_63ed4d858a7849388e73",
             "evidence_role": "primary",
             "published_at": "2026-11-09T00:00:00+00:00",
@@ -27,17 +223,17 @@
             "url": "https://www.sec.gov/Archives/edgar/data/1829118/000110465926124079/tm2629317d1_ex99-1.htm"
           }
         ],
-        "target_date": "2026-11-23",
+        "target_date": "2026-11-24",
         "ticker": "TUYA"
       }
     ],
     "message": "Issuer announcements in recent SEC 8-K and 6-K filings confirm one or more events for the target date. Coverage is bounded, not a complete market calendar; scoring and price-direction predictions are omitted without supporting data.",
     "next_open_session": "",
     "status": "confirmed_events_available",
-    "target_date": "2026-11-23",
+    "target_date": "2026-11-24",
     "universe_coverage": "bounded_research"
   },
-  "generated_at": "2026-11-22T20:15:23.614529+00:00",
+  "generated_at": "2026-11-24T00:41:42.826150+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -85,7 +281,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-11-22T20:15:24.635309+00:00",
+        "accessed_at": "2026-11-24T00:41:44.441020+00:00",
         "evidence_id": "src_3ff77c2a41346945a1a9",
         "evidence_role": "primary",
         "published_at": "2026-11-18T19:00:00+00:00",
@@ -96,7 +292,7 @@
         "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
       },
       {
-        "accessed_at": "2026-11-22T20:15:24.635309+00:00",
+        "accessed_at": "2026-11-24T00:41:44.441020+00:00",
         "evidence_id": "src_dda80f9b9f97b5786d97",
         "evidence_role": "primary",
         "published_at": "2026-11-18T19:00:00+00:00",
@@ -111,17 +307,17 @@
     "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026"
   },
   "knowledge_refresh": {
-    "background": "百分比損失以原始本金為基礎,而復原漲幅以較小的剩餘本金為基礎。因此損失越深,回到起點所需的百分比增幅會非線性增加。這種幾何不對稱是資本保存與風險控制的基本數學。",
-    "concept": "回撤與復原的不對稱",
-    "current_relevance": "深度回撤會消耗時間、流動性與承受風險的能力,可能迫使原本長期的計畫提前中止。只看最終平均結果,容易忽略途中是否存在無法實際承受的資本缺口。把回撤轉換成所需復原幅度,能更直觀呈現下行風險的成本。",
-    "example": "假設資本從一百下跌百分之三十後剩七十。要從七十回到一百,需要增加三十,也就是相對七十上升約百分之四十二點九。若下跌百分之五十後只剩五十,復原幅度更升到百分之一百,顯示損失越深越難彌補。",
-    "explanation": "跌幅為百分之若干後,復原幅度等於一除以一減跌幅,再扣除一。損失一半後需要翻倍才能回本,而不是上升同樣的百分之五十。所以比較策略時,最大回撤和復原時間通常比單純平均報酬更有資訊。"
+    "background": "專業風險管理把看法強度與資本曝險分開,因為判斷正確也不代表結果路徑可承受。風險預算先設定單一情境可容忍的資本損失,再反推曝險規模。這種方法的核心是承認機率與損失幅度都存在估計誤差。",
+    "concept": "風險預算與部位大小",
+    "current_relevance": "高度確信的敘事仍可能因時點、路徑或未知事件而失敗。用風險預算約束規模,可以避免單一判斷錯誤主導整體資本結果。明示壓力假設也讓後續檢討能區分模型錯誤與超出設定範圍的事件。",
+    "example": "假設分析用資本為一百,單一情境的可容忍損失設定為二,而壓力情境估計曝險會損失百分之二十。以二除以零點二,得到的曝險上限為十。若另一項曝險在同一壓力情境也會損失二,就必須合併計算,不能把兩份風險預算各自當成獨立。",
+    "explanation": "部位大小應同時考慮信心、潛在損失、相關性與流動性,而不是只看預期報酬。簡化計算可用可容忍損失除以壓力情境下的單位損失。結果只是風險上限的起點,還要檢查多個曝險是否在同一情境下同時受損。"
   },
   "market_context": {
-    "market_status": "NYSE CLOSED TODAY",
-    "next_open_session": "2026-11-23",
+    "market_status": "NYSE SESSION TODAY",
+    "next_open_session": "2026-11-24",
     "previous_session": "2026-11-20",
-    "tomorrow_date": "2026-11-23",
+    "tomorrow_date": "2026-11-24",
     "tomorrow_status": "NYSE SESSION"
   },
   "market_news": [
@@ -196,7 +392,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-22T20:15:24.626421+00:00",
+          "accessed_at": "2026-11-24T00:41:44.433074+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-11-20T15:03:24+00:00",
@@ -281,7 +477,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-22T20:15:24.626421+00:00",
+          "accessed_at": "2026-11-24T00:41:44.433074+00:00",
           "evidence_id": "src_3ff77c2a41346945a1a9",
           "evidence_role": "primary",
           "published_at": "2026-11-18T19:00:00+00:00",
@@ -292,7 +488,7 @@
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
         },
         {
-          "accessed_at": "2026-11-22T20:15:24.626421+00:00",
+          "accessed_at": "2026-11-24T00:41:44.433074+00:00",
           "evidence_id": "src_dda80f9b9f97b5786d97",
           "evidence_role": "primary",
           "published_at": "2026-11-18T19:00:00+00:00",
@@ -377,7 +573,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-22T20:15:24.626421+00:00",
+          "accessed_at": "2026-11-24T00:41:44.433074+00:00",
           "evidence_id": "src_d0d659af42f5873029e8",
           "evidence_role": "primary",
           "published_at": "2026-11-12T17:45:00+00:00",
@@ -392,8 +588,8 @@
       "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
     }
   ],
-  "report_date": "2026-11-22",
-  "report_id": "daily-market-report-2026-11-22",
+  "report_date": "2026-11-23",
+  "report_id": "daily-market-report-2026-11-23",
   "research_discovery": {
     "applications": [
       {
@@ -414,24 +610,24 @@
       }
     ],
     "changed_belief": "可用價值在於把論文提出的假設轉成可觀測、可回測的指標;是否有效必須由原文方法、資料修訂與樣本外結果共同決定。",
-    "discovered_on": "2026-11-12",
-    "discovery_id": "research_efd373f9cbf2f49e940f",
+    "discovered_on": "2026-11-23",
+    "discovery_id": "research_6ddf3d314792aebf874e",
     "impact": null,
-    "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Artificial Intelligence and the U.S. Economy: Current Evidence」。官方摘要確認其研究範圍以「We assess the current evidence on how AI-related investment and the use of AI are affecting the U.S....」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
+    "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: The Welfare Effects of Bank Liquidity and Capital Requirements(Revised)」。官方摘要確認其研究範圍以「The stringency of bank liquidity and capital requirements should depend on their social costs and benefits. Equilibrium asset...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-11-22T20:15:30.300810+00:00",
-        "evidence_id": "src_35462dbcd9c2eb644735",
+        "accessed_at": "2026-11-24T00:41:54.467428+00:00",
+        "evidence_id": "src_71923f6a7d9af8ab76c3",
         "evidence_role": "primary",
-        "published_at": "2026-11-12T15:20:00+00:00",
+        "published_at": "2026-11-23T17:07:00+00:00",
         "publisher": "Federal Reserve",
         "quoted_fragment": "",
         "tier": "1",
-        "title": "FEDS Paper: Artificial Intelligence and the U.S. Economy: Current Evidence",
-        "url": "https://www.federalreserve.gov/econres/feds/artificial-intelligence-and-the-us-economy-current-evidence.htm"
+        "title": "FEDS Paper: The Welfare Effects of Bank Liquidity and Capital Requirements(Revised)",
+        "url": "https://www.federalreserve.gov/econres/feds/the-welfare-effects-of-bank-liquidity-and-capital-requirements.htm"
       }
     ],
-    "title": "FEDS Paper: Artificial Intelligence and the U.S. Economy: Current Evidence"
+    "title": "FEDS Paper: The Welfare Effects of Bank Liquidity and Capital Requirements(Revised)"
   },
   "schema_version": "1.0",
   "section_statuses": {
@@ -456,7 +652,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-11-22T20:15:23.614529+00:00",
+  "source_cutoff_at": "2026-11-24T00:41:42.826150+00:00",
   "timezone": "America/New_York",
   "validation_status": "degraded"
 }
