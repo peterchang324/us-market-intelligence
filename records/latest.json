@@ -2,13 +2,13 @@
   "earnings": {
     "candidates": [],
     "confirmed_events": [],
-    "message": "The bounded SEC filing scan did not find an issuer-confirmed event for the target date. This does not mean that no company reports earnings.",
-    "next_open_session": "",
-    "status": "no_confirmed_events_in_bounded_scan",
-    "target_date": "2026-11-27",
-    "universe_coverage": "bounded_research"
+    "message": "Tomorrow US market is closed. No earnings trading analysis available.",
+    "next_open_session": "2026-11-30",
+    "status": "market_closed",
+    "target_date": "2026-11-28",
+    "universe_coverage": "not_applicable"
   },
-  "generated_at": "2026-11-26T22:13:00.307119+00:00",
+  "generated_at": "2026-11-27T21:53:17.447903+00:00",
   "global_macro": {
     "affected_assets": [
       "stocks",
@@ -56,7 +56,7 @@
     "market_impact": "medium",
     "sources": [
       {
-        "accessed_at": "2026-11-26T22:13:01.370902+00:00",
+        "accessed_at": "2026-11-27T21:53:18.714932+00:00",
         "evidence_id": "src_3ff77c2a41346945a1a9",
         "evidence_role": "primary",
         "published_at": "2026-11-18T19:00:00+00:00",
@@ -67,7 +67,7 @@
         "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
       },
       {
-        "accessed_at": "2026-11-26T22:13:01.370902+00:00",
+        "accessed_at": "2026-11-27T21:53:18.714932+00:00",
         "evidence_id": "src_dda80f9b9f97b5786d97",
         "evidence_role": "primary",
         "published_at": "2026-11-18T19:00:00+00:00",
@@ -82,18 +82,18 @@
     "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026"
   },
   "knowledge_refresh": {
-    "background": "反身性描述參與者的信念不只反映現實,也可能透過行動反過來改變現實。金融條件、抵押品價值與融資能力特別容易形成正向或負向回饋。這使市場結果有時不是外部基本面的被動投影,而是系統互動的一部分。",
-    "concept": "反身性與回饋循環",
-    "current_relevance": "線性模型常假設外部衝擊造成單向結果,因而低估系統內部的放大或自我修正。辨認回饋節點能指出哪些資產負債表、契約或行為指標應優先監控。同時設定循環中止條件,可避免把短期趨勢無限外推。",
-    "example": "假設資產價值從一百降到八十,貸款契約要求抵押覆蓋率至少一點二五倍。原本八十的負債剛好由一百資產覆蓋,資產降到八十後覆蓋率只剩一倍,因而觸發補繳或出售。被迫出售若再壓低資產價值,就形成價格、抵押與賣壓的負向回饋循環。",
-    "explanation": "價格上升可能改善融資能力,新增資金又支持擴張與價格;價格下降時同一鏈條也可能反向運作。回饋循環需要實際傳導管道,例如抵押條款、贖回機制或客戶信心。沒有可辨認的管道時,反身性只是一個故事,不能取代證據。"
+    "background": "貝氏推論把既有經驗視為先驗,再用新證據修正原本的判斷。統計、保險與信用研究長期依靠這套方法,因為單一案例通常不足以代表整體。市場研究中的基準率,就是同類事件在可比較樣本裡通常如何發展。",
+    "concept": "基準率與貝氏更新",
+    "current_relevance": "快速新聞流容易讓醒目的個案壓過長期樣本,造成機率判斷失真。基準率可抑制過度反應,貝氏更新則避免研究者因守住舊觀點而忽略有效新證據。把更新前後的機率與理由留下來,也能在事後區分好流程和純粹運氣。",
+    "example": "假設同類專案準時完成的基準率為六成,因此初始判斷是百分之六十。一份經獨立查核的進度報告顯示關鍵里程碑已完成,分析者據此把估計上調到百分之七十五。若後續查明報告只是重複管理層原話而非獨立證據,機率就應回調,而不是把同一消息計算兩次。",
+    "explanation": "先問同類情況原本有多常出現某種結果,再評估新資訊有多可信、是否真正獨立。證據越直接且越難由其他原因解釋,合理的機率調整才越大。這不是追求一次猜中,而是讓每次修正都能說明依據與幅度。"
   },
   "market_context": {
-    "market_status": "NYSE CLOSED TODAY",
-    "next_open_session": "2026-11-27",
+    "market_status": "NYSE SESSION TODAY",
+    "next_open_session": "2026-11-30",
     "previous_session": "2026-11-25",
-    "tomorrow_date": "2026-11-27",
-    "tomorrow_status": "NYSE SESSION"
+    "tomorrow_date": "2026-11-28",
+    "tomorrow_status": "NYSE CLOSED"
   },
   "market_news": [
     {
@@ -167,7 +167,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-26T22:13:01.365412+00:00",
+          "accessed_at": "2026-11-27T21:53:18.706959+00:00",
           "evidence_id": "src_73950174e730f4f35cdb",
           "evidence_role": "primary",
           "published_at": "2026-11-20T15:03:24+00:00",
@@ -252,7 +252,7 @@
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-26T22:13:01.365412+00:00",
+          "accessed_at": "2026-11-27T21:53:18.706959+00:00",
           "evidence_id": "src_3ff77c2a41346945a1a9",
           "evidence_role": "primary",
           "published_at": "2026-11-18T19:00:00+00:00",
@@ -263,7 +263,7 @@
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
         },
         {
-          "accessed_at": "2026-11-26T22:13:01.365412+00:00",
+          "accessed_at": "2026-11-27T21:53:18.706959+00:00",
           "evidence_id": "src_dda80f9b9f97b5786d97",
           "evidence_role": "primary",
           "published_at": "2026-11-18T19:00:00+00:00",
@@ -280,91 +280,79 @@
     {
       "affected_sectors": [
         "Financials",
-        "Real Estate",
-        "Technology"
+        "Capital Markets"
       ],
-      "attention_score": "7.8",
-      "bear_case": "若通膨停滯、分歧擴大或後續委員發言強化升息門檻,短端利率與實質利率可能再上移。估值依賴遠期現金流的成長股、高槓桿借款人與長久期債券會承受較大壓力。",
-      "bull_case": "若後續通膨數據放緩、會議分歧沒有擴大,市場可能將紀錄解讀為聯準會有空間維持而非追加緊縮。這會壓低尾部升息風險,對長久期資產、住宅敏感板塊與信用利差較有利。",
-      "event_date": "2026-11-12",
+      "attention_score": "5.6",
+      "bear_case": "若後續調查顯示問題不是個案,或監理機關要求額外整改、罰款與營運限制,相關機構的成本與聲譽風險將上升。投資人會調高合規成本假設,並檢查同類業務是否也有控制缺口。",
+      "bull_case": "若這次官方行動將問題限制在個案並促成可驗證的整改,市場可能下調法規尾部風險。但正面判斷需要後續公告顯示沒有擴大至更多個人、產品或機構。",
+      "event_date": "2026-11-25",
       "impact": {
         "beneficiaries": [
           {
-            "kind": "named_entity",
-            "name": "美國短期國債與美元現金工具",
-            "rationale": "若政策利率維持高檔或升息機率增加,前端收益率和美國利差支撐可能延長。"
-          },
-          {
-            "kind": "named_entity",
-            "name": "存款成本重定價較慢的大型銀行",
-            "rationale": "在放款收益率先上升、存款 beta 滞後的條件下,部分淨利差業務可能受益。"
+            "kind": "none_identified",
+            "name": "None identified",
+            "rationale": "現有官方事實不足以指認已經獲得可量化經濟利益的具名機構。"
           }
         ],
         "indicators_to_monitor_next": [
-          "2 年期美債殖利率、聯邦基金期貨與下次會議的隱含利率機率",
-          "核心 PCE、CPI 服務項、薪資成長與中長期通膨預期",
-          "美元指數、10 年期實質利率與長久期股相對大盤的表現",
-          "後續聯準會委員發言是否重複紀錄中的緊縮門檻與風險判斷"
+          "同一官方機構的後續發布、修訂、實施文件與生效時間",
+          "直接受影響資產的成交量、波動、利差與相對大盤表現",
+          "至少一個獨立一手來源對關鍵事實與影響範圍的確認"
         ],
         "losers": [
           {
-            "kind": "named_entity",
-            "name": "長久期科技與高估值成長股",
-            "rationale": "未來現金流比重高,實質利率上移會對現值與估值倍數形成較大壓力。"
-          },
-          {
-            "kind": "named_entity",
-            "name": "高槓桿房地產與浮動利率借款人",
-            "rationale": "再融資成本與利息負擔對高利率維持時間特別敏感。"
+            "kind": "none_identified",
+            "name": "None identified",
+            "rationale": "現有官方事實不足以指認已經承受可量化經濟損失的具名機構。"
           }
         ],
-        "professional_investor_reaction": "利率團隊會先將紀錄與原始會後聲明逐項比較,拆出「委員分歧」與「經濟預測」的新資訊;然後通過 OIS/聯邦基金期貨、2 年期美債、實質利率和美元即時反應,確認訊號是否已被定價。",
-        "what_changed": "Federal Reserve 於 2026-11-12 發布「Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027」;聯準會公開了新一份政策會議紀錄。與當天決議相比,紀錄新增的資訊是委員對通膨持續性、勞動市場與後續緊縮條件的分歧。",
-        "why_it_matters": "政策路徑是美國風險資產定價的折現率起點。即使本次利率沒變,只要市場上調未來升息或推遲降息機率,美債、美元、股票估值與商品就可以同時重新定價。"
+        "professional_investor_reaction": "專業投資人會核對原文與既有預期,把新事實轉成可驗證的傳導路徑,再檢查價格、利率、信用或後續公告是否支持該路徑。",
+        "what_changed": "Federal Reserve 於 2026-11-25 發布「Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions」。官方內文的核心事實為:「The Federal Reserve Board and the Consumer Financial Protection Bureau today announced the dollar thresholds used to determine whether certain consumer credit and lease transactions in 2027 are subject to certain protections under Regulation Z (Truth in Lending) and Regulation M (Consumer Leasing).」 本報告已將官方事實與條件式市場推論分開。",
+        "why_it_matters": "這項更新可能透過政策、信用、成本或風險偏好影響美國風險資產定價,但官方內文沒有證明的方向與市場反應不會被當成事實。"
       },
-      "market_impact": "high",
-      "news_id": "news_c138dfb2d1b33583456a",
+      "market_impact": "medium",
+      "news_id": "news_a99d64bc69a4a3668878",
       "score_components": [
         {
           "key": "market_size_impact",
-          "value": "8.0"
+          "value": "5.0"
         },
         {
           "key": "earnings_impact",
-          "value": "6.0"
+          "value": "5.0"
         },
         {
           "key": "macro_importance",
-          "value": "9.0"
+          "value": "5.0"
         },
         {
           "key": "sector_influence",
-          "value": "8.0"
+          "value": "7.0"
         },
         {
           "key": "short_term_trading_relevance",
-          "value": "8.0"
+          "value": "6.0"
         }
       ],
       "sources": [
         {
-          "accessed_at": "2026-11-26T22:13:01.365412+00:00",
-          "evidence_id": "src_d0d659af42f5873029e8",
+          "accessed_at": "2026-11-27T21:53:18.706959+00:00",
+          "evidence_id": "src_ba0922bc733e5eb621ec",
           "evidence_role": "primary",
-          "published_at": "2026-11-12T17:45:00+00:00",
+          "published_at": "2026-11-25T20:00:00+00:00",
           "publisher": "Federal Reserve",
           "quoted_fragment": "",
           "tier": "1",
-          "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+          "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm"
         }
       ],
-      "summary": "聯準會於 2026-11-12 公布「Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027」的官方紀錄。官方發布頁證實會議紀錄已公開,但本次可用內文並未提供足以重建投票、利率區間與委員分歧的細節。此類紀錄的重點不是公布日本身,而是委員對通膨、就業與增長的權衡是否改變。在沒有完整與會者意見前,不應將「公布紀錄」本身解讀成偏鷹或偏鴿。市場真正需要重新定價的,是下一次會議前的通膨路徑與政策分歧,而不是只看新聞標題。",
-      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
+      "summary": "Federal Reserve 於 2026-11-25 發布「Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions」。本報告把官方頁面中連續、可核對的核心段落整理如下(保留英文原句,避免免費規則式翻譯改變原意):「The Federal Reserve Board and the Consumer Financial Protection Bureau today announced the dollar thresholds used to determine whether certain consumer credit and lease transactions in 2027 are subject to certain protections under Regulation Z (Truth in Lending) and Regulation M (Consumer Leasing). By law, the agencies are required to adjust the thresholds annually based on the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, known as CPI-W. Transactions at or below the thresholds are subject to the protections of the regulations.」 這張卡將「已確認的官方事實」與「對市場的條件式影響」分開;若原文沒有公布數值、相關決策或後續時點,本報告不會自行補齊。對投資人而言,下一步是用同一官方來源的後續公告或數據驗證方向,而不是只根據標題下單。",
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
     }
   ],
-  "report_date": "2026-11-26",
-  "report_id": "daily-market-report-2026-11-26",
+  "report_date": "2026-11-27",
+  "report_id": "daily-market-report-2026-11-27",
   "research_discovery": {
     "applications": [
       {
@@ -391,7 +379,7 @@
     "plain_explanation": "聯準會 FEDS 官方研究目錄新增「FEDS Paper: Collateral Mobility and the Lender of Last Resort」。官方摘要確認其研究範圍以「Using confidential Federal Reserve Discount Window data from March 2023, I study collateral mobility in lender-of-last-resort lending. Banks...」開頭;本報告只把它列為待驗證的研究發現,不會在未讀取模型設定、樣本期間與穩健性檢驗前,把標題推演成投資結論。",
     "sources": [
       {
-        "accessed_at": "2026-11-26T22:13:08.170800+00:00",
+        "accessed_at": "2026-11-27T21:53:18.861299+00:00",
         "evidence_id": "src_be3cde36464de46131d0",
         "evidence_role": "primary",
         "published_at": "2026-11-24T21:58:00+00:00",
@@ -427,7 +415,7 @@
       "status": "available"
     }
   },
-  "source_cutoff_at": "2026-11-26T22:13:00.307119+00:00",
+  "source_cutoff_at": "2026-11-27T21:53:17.447903+00:00",
   "timezone": "America/New_York",
   "validation_status": "valid"
 }
